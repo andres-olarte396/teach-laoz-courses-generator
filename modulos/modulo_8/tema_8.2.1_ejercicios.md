@@ -1,35 +1,29 @@
-# Ejercicios: Caras y Gestos
+# Ejercicios: Laboratorio de Muecas
 
-## Ejercicio 1: El Teatro de Emojis
+## Ejercicio 1: Emojis Básicos
 
-**Objetivo**: Dibujar las emociones básicas.
-**Tiempo**: 15 minutos.
+**Objetivo**: Dominar las cejas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 6 círculos grandes en tu hoja.
-2. Dibuja una cara distinta en cada uno usando tus "herramientas" (Cejas + Ojos + Boca):
-   - **Feliz**: Cejas relajadas, Sonrisa grande.
-   - **Triste**: Cejas de casita `/ \`, Boca triste `(`.
-   - **Enojado**: Cejas de flecha `\ /`, Boca recta `-`.
-   - **Sorprendido**: Cejas altas, Boca de `O`.
+1. Dibuja 4 círculos.
+2. Dibuja: Feliz, Triste, Enojado, Sorprendido.
+3. **Reto**: Hazlo moviendo SOLO las cejas y la boca. Los ojos pueden ser puntitos iguales.
 
----
+## Ejercicio 2: El Villano
 
-## Ejercicio 2: El Científico Loco
+**Objetivo**: Expresión compleja.
 
-**Objetivo**: Mezclar rasgos para crear expresiones complejas.
-**Tiempo**: 15 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un personaje frotándose las manos (o solo la cara).
+2. Ponle cejas de furia `\ /`.
+3. Ponle una sonrisa mueca.
+4. ¡Parece que planea dominar el mundo!
 
-1. Dibuja una cara con **Cejas de Enojado** `\ /` PERO con **Sonrisa** `)`.
-   - ¿Qué parece? (Malvado, travieso).
-2. Dibuja una cara con **Cejas de Triste** `/ \` PERO con **Sonrisa** `)`.
-   - ¿Qué parece? (Aliviado, o riendo después de llorar).
-3. ¡Inventa tu propia mezcla extraña!
+## Ejercicio 3: El Espejo
 
-### Criterios de Éxito
-
-- [ ] No olvidaste dibujar las cejas (son muy importantes).
-- [ ] Se entiende qué emoción siente el personaje.
+**Instrucciones**:
+Mírate al espejo.
+Haz la cara más fea y ridícula que puedas.
+¡Dibújala rápido! (No tiene que quedar bonito, tiene que ser divertido).

@@ -1,15 +1,11 @@
-# Guion: Grande, Mediano y Pequeño
+# Guion: Gigantes y Enanos
 
-**(Sonido de pasos pesados de gigante... y luego pasos rápidos de ratoncito)**
+**(Sonido de pasos retumbantes: ¡BOOM, BOOM!)**
 
-**Profesor**: "¿Escuchaste eso? ¡Un gigante y un ratoncito! Hoy vamos a hablar de TAMAÑOS."
+**Profe Lápiz**: "¡Cuidado! ¡Ahí viene el Gato-Godzilla!"
 
-**Profesor**: "Imagina que dibujas un gato y un edificio. Si los dibujas del mismo tamaño... ¡tendrías un gato monstruoso tipo Godzilla!"
+**Profe Lápiz**: "¿Se imaginan un gato más grande que un edificio? En el dibujo, todo es posible. Tú decides el tamaño de las cosas."
 
-**Profesor**: "Para que tus dibujos se entiendan, tienes que jugar al juego de '¿Quién gana?'"
+**Profe Lápiz**: "Pero hay una regla de oro: Si quieres que algo parezca que está LEJOS... dibújalo chiquito. Si quieres que parezca que está CERCA... dibújalo grandote."
 
-**Profesor**: "Mira tu mesa. ¿Quién gana en tamaño? ¿El lápiz o el cuaderno? El cuaderno gana. Entonces en tu papel, el cuaderno TIENE que ser más grande."
-
-**Profesor**: "También usamos el tamaño para un truco de magia: la DISTANCIA. Las cosas que están cerca se ven GRANDES. Las cosas que están lejos se ven PEQUEÑITAS."
-
-**Profesor**: "Así que si quieres dibujar un pájaro volando muy lejos... ¡no le dibujes las plumas! Solo dibuja una 'V' chiquitita. Tu cerebro entenderá que está lejos."
+**Profe Lápiz**: "Es un truco óptico. Tu cerebro ve algo pequeño y piensa: 'Ah, eso está allá en la montaña'. Usa ese poder para crear mundos gigantes en una hoja pequeña."

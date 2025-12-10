@@ -1,38 +1,30 @@
-# Ejercicios: La Calle de las Cajas
+# Ejercicios: Arquitecto de Papel
 
-## Ejercicio 1: La Caja Mágica
+## Ejercicio 1: Bloques Flotantes
 
-**Objetivo**: Dibujar un cubo en perspectiva.
-**Tiempo**: 15 minutos.
+**Objetivo**: Entender la fuga.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Pinta tu **Punto de Fuga** en el centro.
-2. Dibuja un cuadrado simple a la derecha (lejos del punto).
-3. Conecta las 2 esquinas de la izquierda del cuadrado hacia el punto (haz líneas suaves).
-4. Dibuja una línea vertical para "cerrar" la caja.
-5. ¡Listo! Tienes una caja 3D flotando.
+1. Dibuja tu Horizonte y el Punto de Fuga en el centro.
+2. Dibuja un cuadrado volando a la derecha (en el cielo).
+3. Conecta sus esquinas de abajo hacia el Punto de Fuga.
+4. Cierralo con una línea recta.
+5. ¡Parece un bloque de Minecraft volando!
 
----
+## Ejercicio 2: La Ciudad
 
-## Ejercicio 2: Ciudad Bloque
+**Objetivo**: Edificios.
 
-**Objetivo**: Dibujar edificios.
-**Tiempo**: 25 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Usa tu hoja con el Punto de Fuga.
+2. Dibuja un rectángulo grande a la izquierda (Edificio 1).
+3. Conecta la esquina del techo hacia el Punto.
+4. Dibuja un rectángulo pequeño más lejos (Casa 2).
+5. Recuerda: **Paredes rectas (|), Techos inclinados (/)**.
 
-1. Dibuja tu horizonte y punto de fuga.
-2. Dibuja varios rectángulos de diferentes tamaños a los lados (estos son los frentes de los edificios).
-   - Un rascacielos alto.
-   - Una casa baja.
-   - Una tienda ancha.
-3. Conecta todas las esquinas que miran al centro hacia el Punto de Fuga.
-4. "Cierra" los edificios con líneas verticales.
-5. Agrega puertas y ventanas (¡Recuerda que las ventanas también se fugan!).
+## Ejercicio 3: Ventanas
 
-### Criterios de Éxito
-
-- [ ] Todas las líneas verticales son rectas (no inclinadas).
-- [ ] Todas las líneas de profundidad van al punto.
-- [ ] Los edificios parecen sólidos.
+**Reto**: Dibuja ventanas en tu edificio.
+¡Cuidado! La parte de arriba y abajo de la ventana TAMBIÉN deben apuntar al Punto de Fuga. (No son cuadrados perfectos, son trapecios).

@@ -1,23 +1,12 @@
-# Guion: Gelatina vs. Piedra
+# Guion: Gelatina vs Piedra
 
-**Personaje**: El Profe Lápiz estirándose
-**Duración**: 2 minutos
+**(Sonido de resorte: Boinggg)**
 
----
+**Profe Lápiz**: "¡Soy de goma! ¡Mírenme!" (El profe se dobla).
 
-**(Sonido de resorte - Boing boing)**
+**Profe Lápiz**: "Los humanos no somos postes de luz. Tenemos articulaciones. Nos doblamos."
 
-**Profe Lápiz**: ¡Uf! ¡Qué rico es estirarse!
-Los humanos no somos piedras. Somos flexibles.
-Nos doblamos, giramos, saltamos y corremos.
+**Profe Lápiz**: "Si quieres que tu dibujo se vea emocionante, tienes que exagerar."
+**Profe Lápiz**: "Si está corriendo, inclínalo mucho hacia adelante. Si está saltando, estíralo mucho hacia arriba."
 
-**Profe Lápiz**: Si dibujas a tu personaje recto como un poste de luz `|`, se ve aburrido. ¡Está dormido de pie!
-Queremos acción.
-
-**Profe Lápiz**: Imagina que la columna vertebral es de goma.
-Si el personaje corre, inclínalo hacia adelante `/`.
-Si se asusta, inclínalo hacia atrás `\`.
-Si baila, haz una curva como una serpiente `S`.
-
-**Profe Lápiz**: Primero dibuja esa línea de acción, y luego le pones el cuerpo.
-¡Que tus dibujos no sean estatuas, que sean atletas!
+**Profe Lápiz**: "Primero dibuja la línea de acción (el esqueleto de alambre) y luego pones los músculos. ¡Acción!"

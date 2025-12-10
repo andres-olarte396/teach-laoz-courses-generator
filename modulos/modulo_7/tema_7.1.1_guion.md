@@ -1,24 +1,13 @@
-# Guion: El Punto Mágico
+# Guion: El tren de Juguete
 
-**Personaje**: El Profe Lápiz con binoculares
-**Duración**: 2 minutos
+**(Sonido de tren: Chuuu Chuuu...)**
 
----
+**Profe Lápiz**: "¡Miren allá lejos! Viene un tren."
 
-**(Sonido de tren a lo lejos - Chuu chuu...)**
+**Profe Lápiz**: "Se ve del tamaño de un ratón. Pero cuando llegue aquí, será GIGANTE y ruidoso."
 
-**Profe Lápiz**: ¡Mira ese tren! Se va alejando.
-¿Te has fijado que cuando se aleja parece un tren de juguete?
-¿Y las vías del tren? Parece que se juntan en un beso a lo lejos.
+**Profe Lápiz**: "Eso es la magia de la Perspectiva: Las cosas se encogen cuando se van."
 
-**Profe Lápiz**: Eso es la **Perspectiva**.
-Es un truco de magia.
+**Profe Lápiz**: "¿Quieren dibujar profundidad? Necesitan un IMÁN. Le llamamos Punto de Fuga. Es un puntito en el horizonte que se traga todo. Todas las líneas corren hacia él."
 
-**Profe Lápiz**: Imagina que hay un imán en el fondo de tu dibujo.
-Lo llamamos **Punto de Fuga**.
-Ese imán atrae todas las líneas.
-El techo, el suelo, las ventanas... todo quiere ir a tocar ese punto.
-
-**Profe Lápiz**: Si dibujas todas las líneas yendo hacia ese punto... ¡ZAS!
-Tu dibujo plano se convierte en un mundo profundo.
-¡Vamos a probarlo!
+**Profe Lápiz**: "Si aprendes a usar el Imán, tu papel plano tendrá kilómetros de espacio."

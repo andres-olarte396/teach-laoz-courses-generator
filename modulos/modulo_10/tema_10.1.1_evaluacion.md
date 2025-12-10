@@ -1,37 +1,33 @@
 # Evaluación: Mi dragón único
 
-## Pregunta 1
+## Pregunta 1: La Fórmula Secreta
 
-Para hacer que un dragón parezca creíble (que podría existir), usamos la técnica de:
+Para crear un monstruo creíble, los artistas profesionales suelen:
 
-- A) Copiar exactamente igual al de la película.
-- B) Combinar partes de animales reales (reptil + ave + felino).
-- C) Dibujarlo invisible.
+* A) Inventar formas que nadie ha visto nunca.
+* B) Mezclar partes de animales reales (Anatomía Comparada).
+* C) Dibujar con los ojos cerrados.
 
-## Pregunta 2
+## Pregunta 2: Anatomía de Alas
 
-Anatómicamente, las alas de un dragón clásico son equivalentes a:
+¿A qué parte del cuerpo humano se parece más el esqueleto de un ala de dragón?
 
-- A) Un par de orejas extra.
-- B) Unos brazos o patas delanteras modificados con dedos largos.
-- C) Una cola partida a la mitad.
+* A) A las orejas.
+* B) A los brazos (Hombro, codo y dedos).
+* C) A las costillas.
 
-## Pregunta 3
+## Pregunta 3: El Vuelo
 
-Si estás diseñando un **Dragón de Hielo**, ¿qué características visuales usarías?
+Si dibujas un dragón del tamaño de un edificio, ¿cómo deberían ser sus alas para que se vea realista?
 
-- A) Formas redondas, colores rojos y humo.
-- B) Formas picudas (aristas), colores azules/blancos y texturas de cristal.
-- C) Plumas de colores y pico de loro.
+* A) Chiquitas y bonitas.
+* B) Gigantescas y fuertes (¡Más grandes que el cuerpo!).
+* C) Invisibles.
 
-## Pregunta 4
+## Pregunta 4: Lógica Visual
 
-Verdadero o Falso:
-"Si tu dragón es enorme y pesado, deberías dibujarle alas muy pequeñas y delicadas."
+Estás dibujando un dragón que vive en un VOLCÁN. ¿Qué características visuales le pondrías?
 
-- ( ) Verdadero
-- ( ) Falso (Necesita alas gigantes para levantar ese peso, o no tener alas y ser terrestre).
-
-## Ejercicio Rápido
-
-Dibuja solo la **Cabeza** de un dragón. Elige una forma base: ¿Triángulo (agresivo) o Cuadrado (fuerte)? Añade un ojo de reptil.
+* A) Piel de osito de peluche y colores pastel.
+* B) Escamas duras (piedra), humo saliendo de la nariz y colores rojo/negro.
+* C) Aletas de pez y color azul.

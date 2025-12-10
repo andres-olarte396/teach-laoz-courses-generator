@@ -1,33 +1,31 @@
-# Ejercicios: El Mundo en Capas
+# Ejercicios: Capas de Cebolla
 
-## Ejercicio 1: El Teatro de Papel
+## Ejercicio 1: El Paisaje Sándwich
 
-**Objetivo**: Entender Primer Plano, Medio y Fondo.
-**Tiempo**: 20 minutos.
+**Objetivo**: Dibujar las 3 zonas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 3 líneas horizontales imaginarias para dividir tu hoja en capas.
-2. **Capa 1 (Abajo - Cerca)**: Dibuja unas piedras y pasto GRANDE y detallado.
-3. **Capa 2 (Medio - Acción)**: Dibuja un caballo corriendo (tamaño mediano).
-4. **Capa 3 (Arriba - Lejos)**: Dibuja una montaña y un sol PEQUEÑOS y sin detalles.
+1. **Fondo (Lejos)**: Dibuja montañas pequeñitas arriba. Píntalas suave.
+2. **Medio (Acción)**: Dibuja un dinosaurio en el medio. Tamaño normal.
+3. **Primer Plano (Cerca)**: Dibuja unas plantas GIGANTES en la esquina de abajo. ¡Tan grandes que tapan un poco al dinosaurio!
+¡Parece que estamos espiando desde los arbustos!
 
----
+## Ejercicio 2: Escondidas
 
-## Ejercicio 2: ¡A Esconderse
+**Objetivo**: Superposición (Tapar).
 
-**Objetivo**: Practicar la "Superposición".
-**Tiempo**: 15 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un cuadrado (Caja).
+2. Dibuja un círculo (Pelota) DETRÁS de la caja. (Que solo se vea la mitad).
+3. Dibuja un triángulo (Cono) DELANTE de la caja. (Que tape la caja).
+4. Si logras esto, ¡has creado profundidad 3D!
 
-1. Dibuja un cuadrado (una caja).
-2. Dibuja un círculo (una pelota) DETRÁS de la caja. (Solo se ve la mitad).
-3. Dibuja un triángulo (un cono) DELANTE de la caja. (Tapa parte de la caja).
-4. Dibuja un lápiz ATRAVESANDO la escena.
+## Ejercicio 3: Gigante y Enano
 
-### Criterios de Éxito
-
-- [ ] Hay objetos que tapan a otros.
-- [ ] Se entiende qué está cerca y qué está lejos.
-- [ ] No dibujaste todo "flotando separado".
+**Instrucciones**:
+Dibuja dos personas.
+Una MUY GRANDE abajo (está cerca).
+Una MUY PEQUEÑA arriba (está lejos).
+Aunque son personas iguales, el tamaño nos dice dónde están.

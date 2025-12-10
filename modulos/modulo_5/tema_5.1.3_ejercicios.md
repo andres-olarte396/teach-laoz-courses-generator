@@ -1,36 +1,32 @@
-# Ejercicios: La Sombra en el Suelo
+# Ejercicios: Control de Vuelo
 
-## Ejercicio 1: El OVNI que Aterriza
+## Ejercicio 1: El OVNI
 
-**Objetivo**: Relación distancia-sombra.
-**Tiempo**: 15 minutos.
+**Objetivo**: Entender que la sombra indica altura.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja un Platillo Volador en el medio de la hoja.
-2. Dibuja su sombra (un óvalo oscuro) muy abajo y pequeña. -> "Está volando alto".
-3. Borra la sombra y dibújala más grande y cerca. -> "Está bajando".
-4. Borra la sombra y dibújala NEGRA y PEGADA a la base del OVNI. -> "¡Aterrizó!".
+1. Dibuja un Platillo Volador.
+2. Dibuja su sombra (un óvalo negro) muy abajo. (¡Está volando alto!).
+3. Ahora borra la sombra y dibújala pegadita a la base del OVNI. (¡Ya aterrizó!).
 
----
+## Ejercicio 2: El Reloj de Sol
 
-## Ejercicio 2: El Juego de las Horas
+**Objetivo**: Sombras largas y cortas.
 
-**Objetivo**: Relación ángulo de luz-sombra.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un poste.
+2. Si el sol está ARRIBA (mediodía): La sombra es una mancha cortita debajo.
+3. Si el sol está BAJANDO (atardecer): La sombra es laaaaaarga y estirada.
 
-1. Dibuja un árbol en el centro.
-2. Dibuja el Sol amaneciendo a la izquierda (bajo en el cielo).
-   - Dibuja la sombra del árbol (¡Debe ser laaaaaarga hacia la derecha!).
-3. Dibuja el Sol al mediodía (arriba).
-   - Dibuja la sombra (¡Corta y debajo del árbol!).
-4. Dibuja el Sol atardeciendo a la derecha.
-   - Dibuja la sombra (¡Larga hacia la izquierda!).
+## Ejercicio 3: Manzana Realista
 
-### Criterios de Éxito
+**Objetivo**: Juntar todo.
 
-- [ ] Las sombras siempre tocan la base del árbol.
-- [ ] La dirección de la sombra es opuesta al sol.
-- [ ] La sombra es más oscura cerca del árbol y más suave lejos.
+**Instrucciones**:
+
+1. Dibuja tu esfera 3D (con brillo y sombra propia).
+2. ¡Ahora ponle el ANCLA!
+3. Dibuja una sombra negra en el piso, justo debajo de la esfera, estirándose hacia el lado contrario a la luz.
+4. ¡Mira qué pesada se ve ahora!

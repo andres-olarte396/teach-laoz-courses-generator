@@ -1,24 +1,13 @@
-# Guion: El Detective de Líneas
+# Guion: La Ciudad Perfecta
 
-**Personaje**: El Profe Lápiz con lupa
-**Duración**: 2 minutos
+**(Sonido de tráfico y claxons)**
 
----
+**Profe Lápiz**: "¡Bienvenidos a Metrópolis! Aquí todo es perfecto."
 
-**(Sonido de misterio - Turururú)**
+**Profe Lápiz**: "Mira los edificios. Están firmes y rectos. Si dibujara las paredes chuecas, se caerían."
 
-**Profe Lápiz**: ¡Ajá! He descubierto el secreto de los arquitectos.
-Todas las ciudades están hechas de cajas.
-Cajas grandes, cajas chicas, cajas con ventanas.
+**Profe Lápiz**: "Mira las ventanas. Todas apuntan hacia allá, al horizonte."
 
-**Profe Lápiz**: Si caminas por tu calle, mira los edificios.
-Las líneas de arriba (techos) bajan.
-Las líneas de abajo (suelo) suben.
-¡Todas quieren encontrarse en el horizonte!
+**Profe Lápiz**: "Mira los autos. Los que están cerca son grandes, los que están lejos son hormiguitas."
 
-**Profe Lápiz**: Hoy vamos a dibujar tu calle perfecta.
-Tú decides qué tiendas hay. ¿Una tienda de dulces? ¿Una de videojuegos?
-Pero cuidado: si tus líneas verticales se inclinan, ¡tu ciudad sufrirá un terremoto!
-Mantén las paredes derechas, soldado.
-
-**Profe Lápiz**: ¡A dibujar!
+**Profe Lápiz**: "Tú eres el arquitecto. Con tu regla y tu lápiz, puedes construir la ciudad de tus sueños. ¡Solo no olvides el Imán!"

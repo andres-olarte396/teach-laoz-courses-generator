@@ -1,37 +1,34 @@
-# Ejercicios: El juego de las diferencias
+# Ejercicios: Entrenamiento de Detective
 
-## Ejercicio 1: Dibujo a Ciegas
+## Ejercicio 1: Dibujo a Ciegas (Blind Contour)
 
-**Objetivo**: Conectar el ojo con la mano sin interferencia del cerebro.
-
-**Instrucciones**:
-
-1. Pon un objeto simple frente a ti (tu mano, un zapato).
-2. Coloca el lápiz sobre el papel.
-3. **REGLA DE ORO**: Tienes prohibido mirar el papel. Mira SOLO el objeto.
-4. Empieza a dibujar el contorno lentamente. Si tus ojos suben por el objeto, tu mano sube. Si bajan, tu mano baja.
-5. No levantes el lápiz.
-6. Al final, mira tu dibujo. ¡Será un garabato divertido, pero habrás observado de verdad!
-
-## Ejercicio 2: El Detective de Detalles
-
-**Objetivo**: Encontrar lo que nadie ve.
+**Objetivo**: Conectar ojo y mano.
 
 **Instrucciones**:
 
-1. Elige un juguete o fruta.
-2. Obsérvalo durante 2 minutos completos SIN dibujar.
-3. Escribe una lista de 5 detalles "invisibles" (manchas, rasguños, códigos de barras, texturas).
-4. Ahora dibuja el objeto incluyendo esos 5 detalles secretos.
+1. Mira la palma de tu mano (la que no dibuja).
+2. Pon la punta del lápiz en el papel. **¡PROHIBIDO MIRAR EL PAPEL!**
+3. Imagina que tu lápiz toca tu mano real. Recorre cada línea, cada arruga, cada dedo muy despacito.
+4. Dibuja lo que sientes con los ojos.
+5. Al final, mira el dibujo. ¡Se verá horrible y chistoso! Pero habrás ejercitado tus ojos de artista.
 
-## Ejercicio 3: Espacios Negativos
+## Ejercicio 2: El Espacio Negativo
 
-**Objetivo**: Dibujar el vacío para ver la forma real.
+**Objetivo**: Ver los huecos.
 
 **Instrucciones**:
 
-1. Pon una silla frente a una pared clara.
-2. No dibujes la silla.
-3. Dibuja los agujeros que hay entre las patas y el respaldo.
-4. Concéntrate en la forma de esos huecos de aire.
-5. Cuando termines los huecos, ¡la silla aparecerá sola!
+1. Busca una taza con asa. Ponla de perfil.
+2. No dibujes la taza.
+3. Dibuja la forma del hueco que hay dentro del asa (suele parecer una "D" o una oreja).
+4. Píntalo de negro.
+
+## Ejercicio 3: Encuentra las Diferencias
+
+**Objetivo**: Observación fina.
+
+**Instrucciones**:
+
+1. Busca dos hojas de árbol (o dos piedras).
+2. Obsérvalas de cerca.
+3. Escribe o dibuja 3 cosas que las hacen diferentes (una está rota, una es más gorda, una tiene manchitas).

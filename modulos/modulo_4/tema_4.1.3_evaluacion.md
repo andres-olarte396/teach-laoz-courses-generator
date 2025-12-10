@@ -1,33 +1,27 @@
-# Evaluación: Armonía de Color
+# Evaluación: Examen de Diseño
 
-**Tipo**: Selección de Estilo
+## Pregunta 1
 
----
+Si estás diseñando una señal de "PELIGRO" para que todos la vean, ¿qué colores usas?
 
-## 1. El Diseñador de Uniformes
+- A) Azul y Verde (Tranquilos).
+- B) Amarillo y Negro/Morado (Opuestos y chillones).
 
-Eres el diseñador del equipo "Los Rayos Veloces". Quieres que el uniforme se vea MUY fuerte y llamativo desde lejos.
-¿Qué colores eliges?
-a) Azul y Verde (Vecinos tranquilos).
-b) Azul y Naranja (Opuestos ruidosos).
+## Pregunta 2
 
-## 2. El Pintor de Sueños
+¿Cuál es el color opuesto (enemigo) del Rojo?
 
-Quieres pintar la habitación de un bebé para que duerma tranquilo.
-¿Qué colores eliges?
-a) Rojo y Verde (Navidad estresante).
-b) Azul claro y Azul oscuro (Vecinos calmados).
+- A) Naranja.
+- B) Verde.
 
-## 3. Reto Visual
+## Pregunta 3
 
-- ¿Cuál es el opuesto del Amarillo? ............ (Morado)
-- ¿Cuál es el opuesto del Rojo? ................ (Verde)
-- ¿Cuál es el opuesto del Azul? ................ (Naranja)
+¿Qué sientes al ver colores vecinos (como Naranja y Amarillo) juntos?
 
----
+- A) Calma y calorcito.
+- B) Dolor de cabeza.
 
-## Respuestas
+## Reto
 
-1: b
-2: b
-3: Morado, Verde, Naranja
+Busca en tu ropa.
+¿Estás usando colores opuestos o vecinos?

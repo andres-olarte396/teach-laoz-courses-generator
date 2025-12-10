@@ -1,23 +1,12 @@
-# Guion: Árboles de diferentes tipos
+# Guion: El Secreto de la Y
 
-**(Sonido de viento susurrando entre hojas y pajaritos trinando)**
+**(Sonido de viento en las hojas)**
 
-**Profesor**: "¡Hola, guardabosques! Hoy vamos a plantar nuestro propio bosque en el papel. Pero... ¿se han fijado que no todos los árboles son iguales?"
+**Profe Lápiz**: "¡Hola guardabosques! Hoy vamos a plantar árboles."
 
-**Profesor**: "A veces dibujamos el 'árbol de paleta': un palo café y una bola verde. ¡Aburrido! La naturaleza es mucho más divertida."
+**Profe Lápiz**: "Pero... ¡alto ahí! No me dibujen paletas de dulce verdes."
 
-**(Sonido crujiente de ramas)**
+**Profe Lápiz**: "Los árboles tienen brazos. Se estiran hacia el sol."
+**Profe Lápiz**: "El secreto es la letra 'Y'. Una rama se convierte en dos. Dos se convierten en cuatro."
 
-**Profesor**: "Primero tenemos al **Roble**. Es el abuelo del bosque. Es ancho, rugoso y parece una nube gigante o un brócoli. Su tronco es gordo y fuerte."
-
-**(Sonido de viento silbando, aire frío)**
-
-**Profesor**: "Luego está el **Pino**. Vive en las montañas y tiene forma de triángulo o cohete. Sus hojas no son manchas, ¡son agujas! Siempre apunta al cielo, recto como una flecha."
-
-**(Sonido de olas de mar suave)**
-
-**Profesor**: "Y para el calor... ¡la **Palmera**! Es una fiesta. Su tronco es flexible y largo, y sus hojas salen de arriba como una explosión de fuegos artificiales verdes."
-
-**Profesor**: "El secreto de todos los árboles es la letra **'Y'**. El tronco sube y se divide en dos, como una Y. Y esas ramas se dividen en otras Y. ¡Así crece el árbol!"
-
-**Profesor**: "¡Manos a la obra! Vamos a llenar nuestra hoja de vida vegetal."
+**Profe Lápiz**: "Si aprendes la Y, puedes dibujar cualquier árbol del mundo. ¡A trepar!"

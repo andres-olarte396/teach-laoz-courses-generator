@@ -1,17 +1,17 @@
-# Guion: Creando la obra maestra
+# Guion: Creando la Obra Maestra
 
-**(Música orquestal suave y majestuosa, in crescendo)**
+**(Efecto de sonido: Música épica de película, muy bajita de fondo)**
 
-**Profesor**: "Ha llegado el momento. Tienen el papel, tienen el plan y tienen el talento. Es hora de crear su Obra Maestra."
+**Profesor**: "Llegó el gran momento. Tienen su papel especial. Tienen su idea ganadora. Es hora de crear Arte."
 
-**Profesor**: "Lo primero: ¡Respiren! Esto no es una carrera. Tómense su tiempo."
+**Profesor**: "Respiren hondo. No hay prisa. Estamos en la Zona del Artista."
 
-**(Sonido suave de lápiz)**
+**Profesor**: "Empiecen con el **Trazo Fantasma**. Dibujen el esqueleto muy, muy suave. Acaricien el papel. Si se equivocan, el borrador lo soluciona sin dejar marca."
 
-**Profesor**: "Empezamos con el 'Esqueleto'. Dibujen suave, como acariciando el papel. Si marcan muy fuerte, dejarán cicatrices en la hoja que no se pueden borrar."
+**(Efecto de sonido: Lápiz suave)**
 
-**Profesor**: "Luego viene el 'Bloqueo'. Pongan los colores base. No se preocupen por las sombras todavía. Cubran el blanco."
+**Profesor**: "Ahora, pongan los colores base. Cubran el blanco. Y al final... ¡la magia! Sombras oscuras y luces brillantes."
 
-**Profesor**: "Y al final, la magia: Sombras, luces y detalles. Aquí es donde el dibujo cobra vida."
+**Profesor**: "Un consejo de amigo: Usen un papelito debajo de su mano para no manchar. ¡Cuiden su obra!"
 
-**Profesor**: "Si se cansan, paren. Vayan a jugar un rato. El dibujo los esperará. Es mejor descansar que pintar enojado. ¡Disfruten cada trazo!"
+**Profesor**: "Si se cansan, descansen. El dibujo los va a esperar. ¡Disfruten cada línea!"

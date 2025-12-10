@@ -1,20 +1,13 @@
-# Guion: El Fantasma y el Ancla
+# Guion: El Ancla
 
-**Personaje**: El Profe Lápiz
-**Duración**: 2 minutos
+**(Sonido de algo pesado cayendo: ¡PUM!)**
 
----
+**Profe Lápiz**: "¿Escucharon eso? Eso es el sonido de un dibujo con PESO."
 
-**(Sonido de pasos pesados - BOOM... BOOM...)**
+**Profe Lápiz**: "Si no le dibujas el piso a tus personajes, parecerán fantasmas flotando en el aire. ¡Qué miedo!"
 
-**Profe Lápiz**: ¿Escuchas eso? ¡Algo pesado está caminando!
-¿Sabes por qué suena pesado? Porque está pegado al suelo.
+**Profe Lápiz**: "Para que toquen el suelo, necesitas el ANCLA. La Sombra Proyectada."
 
-**Profe Lápiz**: Si dibujas una manzana sin sombra en el piso, parecerá un fantasma flotando. ¡Boo!
-Para que la manzana pese, necesitas un ANCLA. Esa ancla es la **Sombra Proyectada**.
+**Profe Lápiz**: "Fíjate en tus pies. ¿Ves esa mancha negra pegada a tus zapatos? Esa es tu ancla. Si saltas, la mancha se separa. Si aterrizas, se vuelve a pegar."
 
-**Profe Lápiz**: Es una mancha oscura en el suelo, justo debajo del objeto.
-Es como si la manzana dijera: "¡Aquí estoy yo y tapo el sol!".
-
-**Profe Lápiz**: Recuerda: Si la sombra toca el objeto, el objeto toca el suelo. Si la sombra está lejos, ¡el objeto está volando!
-Vamos a ponerle peso a tus dibujos.
+**Profe Lápiz**: "¡Vamos a ponerle anclas a nuestros dibujos para que no salgan volando!"

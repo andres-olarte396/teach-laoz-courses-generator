@@ -55,5 +55,6 @@ Si lo dibujas un poco más rápido (¡swish!), la inercia ayuda a que salga redo
 No hagas el círculo por partes. Hazlo de un solo trazo continuo. Si no se cierra perfecto, no importa (puedes dar dos vueltas para corregir).
 
 ## Galería de Inspiración
+
 ![Círculo Rey](./tema_1.1.1_extra_rey.svg)
 ![Círculos y más círculos](./tema_1.1.1_extra_circulos.svg)

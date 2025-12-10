@@ -1,37 +1,29 @@
-# Ejercicios: Granja de Papel
+# Ejercicios: Peludos y Patones
 
-## Ejercicio 1: El Esqueleto Animal
+## Ejercicio 1: El Gusano de Bolitas
 
-**Objetivo**: Entender la estructura básica (Cabeza, Pecho, Cadera).
-**Tiempo**: 15 minutos.
+**Objetivo**: Estructura básica.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 3 círculos en línea horizontal (como un gusano separado).
-   - Círculo 1: Cabeza.
-   - Círculo 2: Pecho (Grande).
-   - Círculo 3: Caderas.
-2. Conéctalos con una línea curva (Columna vertebral).
-3. Dibuja palitos quebrados para las patas (¡recuerda las rodillas!).
-4. ¿Ves? Ya parece un perro flaco.
+1. Dibuja 3 círculos separados horizontalmente.
+2. Conéctalos con una línea curva arriba (Espalda).
+3. Conéctalos con una línea curva abajo (Panza).
+4. Agrégale patas simples.
+¡Ya tienes un cuerpo de animal genérico!
 
----
+## Ejercicio 2: Gato Líquido vs Perro Roca
 
-## Ejercicio 2: Gato vs. Perro
+**Objetivo**: Personalidad.
 
-**Objetivo**: Diferenciar formas.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. **Perro**: Dibuja un cuerpo usando líneas rectas y duras. Hazle un hocico cuadrado. Orejas caídas. Se ve fuerte.
+2. **Gato**: Dibuja un cuerpo usando curvas suaves (como una S). Hazle cabeza redonda y orejas picudas. Se ve ágil.
 
-1. **Perro**: Dibuja formas CUADRADAS y fuertes. Pecho ancho, hocico cuadrado, patas gruesas.
-2. **Gato**: Dibuja formas REDONDAS y fluidas. Cabeza redonda, cuerpo largo como salchicha, patas finas.
-3. Ponles orejas:
-   - Perro: Orejas caídas 🐶.
-   - Gato: Orejas picudas 🐱.
+## Ejercicio 3: La Pata de Pollo
 
-### Criterios de Éxito
-
-- [ ] Tu perro se ve fuerte y tu gato se ve elegante.
-- [ ] Las patas tienen articulaciones (no son palos rectos).
-- [ ] La cola sale de la columna (no de la pierna).
+**Instrucciones**:
+Mira la pata de atrás de un perro o gato.
+Intenta dibujar ese doblez extraño que tienen (el "Talón" que no toca el suelo).
+No hagas un palo recto. Haz un rayo `⚡` suave.

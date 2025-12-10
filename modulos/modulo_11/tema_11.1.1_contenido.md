@@ -1,97 +1,74 @@
 # Magia con cera y agua (Resistencia)
 
+![Ilustración de Resistencia Mágica](./tema_11.1.1_header.svg)
+
 **Tiempo estimado**: 40 minutos  
 **Nivel**: Básico (6+ años)  
-**Prerrequisitos**: Ninguno
+**Concepto Clave**: Química del Arte (Hidrofobia)
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. El Secreto: El Escudo Invisible
 
-¿Sabías que el agua y el aceite (o la cera) se odian? No se pueden mezclar.
-Los artistas usan esta "pelea" química para hacer magia.
+¿Sabías que el agua y la cera (o el aceite) son enemigos mortales?
+Nunca se mezclan. El agua siempre huye de la cera.
 
-Esta técnica se llama **Resistencia**. Dibujas algo "invisible" o protegido con cera, y luego pintas encima con agua. Donde hay cera, el agua huye y revela el dibujo secreto. ¡Es como escribir mensajes cifrados!
-
----
-
-## Comprensión intuitiva
-
-### El Impermeable del Dibujo
-
-Imagina que tu crayón de cera es un paraguas.
-Si dibujas una flor con crayón, esa parte del papel se vuelve impermeable.
-Cuando le echas acuarela líquida encima, el agua resbala y solo pinta el papel blanco que sobró.
+Vamos a usar esto para crear dibujos "sorpresa" o mensajes secretos.
+Tú dibujas con cera, y cuando pintas encima con agua... ¡el dibujo "rechaza" la pintura y brilla!
 
 ---
 
-## Materiales necesarios
+## 2. Materiales Mágicos
 
-1. Crayones de cera (Blanco es el mejor para magia, pero cualquiera sirve).
-2. Acuarelas o tinta al agua.
-3. Pincel y agua.
-4. Papel grueso (para que no se rompa con el agua).
+1. **Crayones de Cera**: El BLANCO es el mejor para la magia, pero los colores neón también sirven. (¡Tienen que ser de cera, no de plástico duro!).
+2. **Acuarelas**: Tienen que estar muy aguadas (líquidas).
+3. **Papel Grueso**: Porque vamos a usar mucha agua.
 
 ---
 
-## Paso a paso: El Cielo Estrellado
+## 3. Paso a paso: La Noche Estrellada
 
-### Paso 1: El Dibujo "Invisible"
+### Paso 1: El Dibujo Fantasma
 
 Usa tu crayón BLANCO sobre el papel blanco.
-Dibuja estrellas, una luna y espirales de viento.
-¡No se ve casi nada! Tienes que confiar en tu mano.
 
-### Paso 2: La Revelación
+* Dibuja estrellas, una luna, o escribe tu nombre.
+* **REGLA DE ORO**: **¡Presiona FUERTE!**
+* Tienes que dejar una capa gruesa de cera. Si dibujas suavecito, no funcionará.
 
-Moja tu pincel en acuarela AZUL OSCURO o NEGRO (mucha agua).
-Pinta sin miedo sobre TODO el papel. Pasa el pincel encima de tus estrellas.
+### Paso 2: La Inundación
 
-### Paso 3: ¡Magia
+Prepara pintura AZUL OSCURO o NEGRA con mucha agua.
 
-El azul pintará el cielo, pero tus estrellas blancas brillarán intensamente porque la cera rechazó la pintura.
+* Toma tu pincel y pásalo por encima de todo el papel. ¡Sin miedo!
+* No intentes esquivar las estrellas. Pinta SOBRE ellas.
 
----
+### Paso 3: La Revelación
 
-## Ejercicios creativos
-
-### Ejercicio 1: Peces Neón
-
-**Instrucciones**:
-
-1. Usa crayones de colores MUY brillantes (Amarillo neón, Naranja, Verde lima).
-2. Dibuja peces exóticos y corales. Presiona fuerte el crayón.
-3. Pinta todo encima con acuarela AZUL MARINO.
-4. El fondo oscuro hará que los peces brillantes resalten como si tuvieran luz propia.
-
-### Ejercicio 2: La Telaraña
-
-**Instrucciones**:
-
-1. Dibuja una telaraña compleja con crayón blanco.
-2. Pinta encima con acuarelas de colores (Morado, Rosa) para hacer un atardecer.
-3. La telaraña aparecerá nítida sobre el fondo de colores mezclados.
+* Donde pusiste cera, la pintura resbalará.
+* Donde no había cera, el papel se pintará de azul.
+* ¡Tus estrellas blancas aparecerán brillando en el cielo oscuro!
 
 ---
 
-## Errores comunes y soluciones
+## 4. Errores Comunes
 
-### ❌ Error 1: Crayón tímido
+### ❌ Error: "Mano de Pluma"
 
-**Problema**: Dibujar muy suavecito con el crayón.
-**Resultado**: La acuarela se mete en los huecos del papel y tapa el dibujo.
-**Solución**: ¡Presiona fuerte! Necesitas crear una capa gruesa de cera para proteger el papel.
+* **Problema**: Dibujar muy suave.
+* **Resultado**: La pintura tapa el dibujo.
+* **Solución**: Imagina que quieres rayar la mesa a través del papel. ¡Fuerza!
 
-### ❌ Error 2: Acuarela seca
+### ❌ Error: "Pintura de Pasta de Dientes"
 
-**Problema**: Usar pintura muy espesa (poca agua).
-**Resultado**: La pintura espesa se pega encima de la cera y tapa todo.
-**Solución**: Usa mucha agua. La pintura tiene que ser líquida ("aguada") para que ruede fuera de la cera.
+* **Problema**: Usar la acuarela muy espesa (seca).
+* **Resultado**: Se pega encima de la cera como lodo.
+* **Solución**: ¡Más agua! La pintura tiene que correr como jugo.
 
 ---
 
-## Reflexión final
+## 5. Resumen Visual
 
-Esta técnica rompe el miedo al error. Como la acuarela es impredecible y la cera es fija, el resultado siempre es una sorpresa. A veces, los "accidentes" se ven mejor que lo que planeaste.
-
-**Práctica diaria**: Escribe tu nombre con crayón blanco en pedacitos de papel y píntalos de diferentes colores. ¡Haz tus propias tarjetas de presentación mágicas!
+1. **Cera Fuerte**: Dibuja el escudo.
+2. **Agua Líquida**: Pinta la inundación.
+3. **Magia**: El escudo protege el papel blanco.

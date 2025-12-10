@@ -1,37 +1,33 @@
-# Evaluación: Texturas secretas (Frottage)
+# Evaluación: Texturas Secretas
 
-## Pregunta 1
+## Pregunta 1: Herramientas
 
-¿Qué significa **Frottage**?
+Para que el Frottage salga perfecto, ¿qué tipo de papel necesitas?
 
-- A) Frotar una superficie para transferir su textura al papel.
-- B) Pintar con frutas.
-- C) Dibujar con los ojos cerrados.
+* A) Cartón muy grueso.
+* B) Papel delgado (Bond) para que la textura pase a través de él.
+* C) Madera.
 
-## Pregunta 2
+## Pregunta 2: Técnica
 
-¿Cuál es la posición correcta del lápiz o crayón para hacer un buen frottage?
+¿Cómo debes usar el lápiz?
 
-- A) Vertical, usando la punta bien afilada.
-- B) Horizontal (acostado), usando el costado de la mina.
-- C) Usando la goma de borrar.
+* A) De punta, clavándolo fuerte.
+* B) Acostado (Horizontal), usando el costado de la mina suavemente.
+* C) Usando la goma.
 
-## Pregunta 3
+## Pregunta 3: Superficies
 
-Si intentas hacer frottage sobre una superficie **completamente lisa** (como un vidrio), ¿qué pasará?
+¿Cuál de estas superficies NO sirve para hacer frottage?
 
-- A) Saldrá un dibujo precioso.
-- B) No saldrá nada, solo una mancha plana de color.
-- C) El vidrio se romperá.
+* A) Una pared de ladrillo (Rugosa).
+* B) Un espejo (Completamente liso).
+* C) Una moneda (Con relieve).
 
-## Pregunta 4
+## Pregunta 4: Aplicación
 
-Verdadero o Falso:
-"Para aplicar la técnica de frottage, es obligatorio usar cartulina muy gruesa y dura."
+¿Para qué sirve esta técnica en un dibujo real?
 
-- ( ) Verdadero
-- ( ) Falso (Necesitas papel delgado para que se marque la textura de abajo).
-
-## Ejercicio Rápido
-
-Busca una moneda. Ponla bajo tu hoja (en una esquina) y haz un frottage rápido con tu lápiz acostado. ¿Se ven los números?
+* A) Para nada, es solo un juego.
+* B) Para dar texturas realistas rápidas (como piel de roca, cortezas de árbol, ropa) sin dibujar rayita por rayita.
+* C) Para limpiar el lápiz.

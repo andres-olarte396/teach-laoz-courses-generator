@@ -1,37 +1,33 @@
-# Evaluación: Firma y montaje
+# Evaluación: El Toque Final
 
-## Pregunta 1
+## Pregunta 1: Ubicación
 
-¿Dónde se coloca tradicionalmente la firma del artista en un dibujo?
+¿Cuál es el lugar estándar para firmar una obra de arte?
 
-- A) En el centro del dibujo, tapando todo.
-- B) En la parte de atrás para que nadie la vea.
-- C) En la esquina inferior derecha (o izquierda), de forma discreta.
+* A) En medio de la cara del personaje principal.
+* B) En la esquina inferior derecha (o izquierda), discretamente.
+* C) Detrás del papel para que nadie sepa quién fuiste.
 
-## Pregunta 2
+## Pregunta 2: Presentación
 
-¿Qué es un **Pasepartout** o marco de cartulina?
+¿Qué hace un marco (o borde de cartulina negra) por tu dibujo?
 
-- A) Un borde de color neutro que se pone alrededor del dibujo para resaltarlo y protegerlo.
-- B) Un tipo de pincel francés.
-- C) Un error de dibujo.
+* A) Nada.
+* B) Lo hace ver desordenado.
+* C) Resalta los colores por contraste y le da una apariencia profesional y terminada.
 
-## Pregunta 3
+## Pregunta 3: El Propósito
 
-Si tu dibujo tiene colores muy suaves y claros (pasteles), ¿qué color de firma deberías evitar?
+¿Por qué firmamos?
 
-- A) Un color suave similar.
-- B) Un marcador NEGRO GIGANTE y grueso que robe toda la atención.
-- C) Lápiz grafito.
+* A) Para practicar caligrafía.
+* B) Para reclamar la autoría y sentir orgullo de nuestro esfuerzo.
+* C) Porque es obligatorio por ley.
 
-## Pregunta 4
+## Pregunta 4: Estética
 
-Verdadero o Falso:
-"Nunca debes practicar tu firma. Debes inventarla en el momento de firmar tu obra final para que sea espontánea."
+¿La firma debe ser GRANDE y LLAMATIVA?
 
-- ( ) Verdadero
-- ( ) Falso (¡Debes practicarla! Si te sale mal en la obra final, no puedes borrarla tan fácil).
-
-## Ejercicio Rápido
-
-Firma en el aire con tu dedo índice. Hazlo 3 veces hasta que sientas el movimiento natural y fluido.
+* A) Sí, debe ser lo más importante del cuadro.
+* B) No, debe ser sutil y dejar que el dibujo sea el protagonista.
+* C) Debe ser de color neón.

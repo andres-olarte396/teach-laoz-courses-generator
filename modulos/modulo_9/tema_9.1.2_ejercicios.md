@@ -1,36 +1,32 @@
-# Ejercicios: Animales Salvajes (León, Elefante, Jirafa)
+# Ejercicios: Gigantes de la Selva
 
-## Ejercicio 1: Formas Extremas
+## Ejercicio 1: La Jirafa Infinita
 
-**Objetivo**: Identificar y dibujar las formas geométricas base exageradas de animales salvajes.
-
-**Instrucciones**:
-
-1. Divide tu hoja en 3 secciones verticales.
-2. Sección 1 (Jirafa): Dibuja un triángulo rectángulo muy alto y estrecho (la hipotenusa es el cuello y espalda). A partir de ahí, construye la jirafa.
-3. Sección 2 (Elefante): Dibuja dos círculos grandes superpuestos horizontalmente y un rectángulo grueso debajo. Convierte esa masa en un elefante.
-4. Sección 3 (León): Dibuja un círculo pequeño dentro de un círculo grande (como un sol). El círculo grande es la melena. Añade el cuerpo.
-
-## Ejercicio 2: Texturas de la Sabana
-
-**Objetivo**: Practicar diferentes trazos para representar piel y pelaje característico.
+**Objetivo**: Exageración vertical.
 
 **Instrucciones**:
 
-1. **Melena de León**: Dibuja una forma circular y llénala con trazos rápidos, desordenados y radiales (hacia afuera) para simular pelo abundante.
-2. **Piel de Elefante**: Dibuja un rectángulo curvado (como una trompa) y añade líneas horizontales curvas y entrecruzadas para simular arrugas profundas.
-3. **Manchas de Jirafa**: Dibuja una forma de cuello y rellénala con formas poligonales irregulares (como piezas de puzzle) dejando espacios blancos finos entre ellas ("caminos").
+1. Empieza la cabeza de la jirafa casi tocando el borde de ARRIBA del papel.
+2. Baja dos líneas laaaaargas para el cuello.
+3. Dibuja el cuerpo pequeño abajo.
+4. ¡Siente la altura!
 
-## Ejercicio 3: El Safari de Exageración
+## Ejercicio 2: El Tanque Elefante
 
-**Objetivo**: Dibujar un animal salvaje aplicando el concepto de exageración proporcional.
+**Objetivo**: Exageración de masa.
 
 **Instrucciones**:
 
-1. Elige tu animal favorito de los tres.
-2. Dibuja una versión "caricaturizada" donde lleves su rasgo principal al límite:
-    * Si es jirafa, haz el cuello el triple de largo que el cuerpo.
-    * Si es elefante, hazlo inmensamente gordo con patas cortas y gruesas.
-    * Si es león, haz la melena gigante y el cuerpo pequeño.
-3. Añade detalles de rostro simples.
-4. ¡Diviértete deformando la realidad!
+1. Dibuja dos círculos gordos empalmados (como un 8 acostado y gordo).
+2. Ponle patas gruesas como troncos de árbol.
+3. Ponle orejas de mariposa grandes.
+4. Dibuja arrugas en las rodillas. ¡Se ve pesado!
+
+## Ejercicio 3: La Peluca del León
+
+**Instrucciones**:
+
+1. Dibuja una carita de gato pequeña (ojos, nariz, boca).
+2. Ahora... ¡EXPLOSIÓN DE PELO!
+3. Dibuja un círculo gigante de rayitas alrededor de la cara.
+4. Entre más grande la melena, más poderoso el león.

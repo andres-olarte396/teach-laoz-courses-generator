@@ -1,15 +1,15 @@
-# Guion: Lluvia de ideas y bocetos
+# Guion: Lluvia de Ideas
 
-**(Sonido de lápiz escribiendo rápido y papel arrugándose)**
+**(Efecto de sonido: Lápiz garabateando rápido y papel arrugándose)**
 
-**Profesor**: "¡Alto ahí! ¿Vas a empezar a dibujar en tu cartulina nueva sin un plan?"
+**Profesor**: "¡Alto! Suelta ese lápiz. ¿Vas a empezar tu Gran Obra Maestra sin un mapa?"
 
-**Profesor**: "¡Error de novato! Los grandes artistas son como exploradores. No entran a la selva sin un mapa."
+**Profesor**: "Los exploradores no entran a la selva sin mapa. Los artistas tampoco. Antes de dibujar en tu papel bonito, necesitamos un PLAN."
 
-**Profesor**: "El mapa se llama **Boceto**. Son dibujos feos, rápidos y chiquitos que hacemos en papel sucio. Sirven para cometer errores rápido y gratis."
+**Profesor**: "Esto se llama **Lluvia de Ideas**. Quiero que pienses en las cosas que más te gustan. ¿Te gustan los ninjas? ¿Te gustan los gatos? ¡Haz un Gato Ninja!"
 
-**Profesor**: "Prueba esto: Antes de hacer tu obra maestra, dibuja 4 versiones pequeñitas, del tamaño de una estampilla. Prueba poner el sol a la izquierda, luego a la derecha. Prueba dibujar de cerca y de lejos."
+**(Efecto de sonido: Trueno suave y lluvia)**
 
-**Profesor**: "El boceto es tu laboratorio. Si te equivocas aquí, ¡qué bueno! Nadie lo verá. Pero te salvará de arruinar tu dibujo final."
+**Profesor**: "Ahora, hagamos **Miniaturas**. En una hoja sucia, dibuja 4 cuadritos pequeños. Dibuja tu Gato Ninja de lejos, de cerca, saltando, durmiendo... ¡Rápido! Son dibujos feos a propósito."
 
-**Profesor**: "Recuerda: Piensa mucho, dibuja rápido."
+**Profesor**: "Mira tus miniaturas. ¿Cuál se ve más genial? ¡Esa es la elegida! Ahora sí, estamos listos para la gran aventura."

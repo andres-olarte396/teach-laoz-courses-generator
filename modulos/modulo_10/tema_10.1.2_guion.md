@@ -1,17 +1,21 @@
 # Guion: Híbridos Imposibles
 
-**(Sonido de laboratorio científico, burbujas y electricidad estática)**
+**(Efecto de sonido: Burbujas de laboratorio y chispas eléctricas "Bzzzzt")**
 
-**Profesor**: "¡Bienvenidos al laboratorio del Dr. Frankenstein! Hoy no vamos a dibujar animales normales. Vamos a crear... ¡MONSTRUOS!"
+**Profesor**: "¡Pónganse sus batas blancas! Hoy estamos en el Laboratorio Científico del Arte."
 
-**Profesor**: "¿Saben qué es un Híbrido? Es una mezcla. Como mezclar helado de chocolate con sopa. Suena raro, ¡pero en el dibujo puede ser genial!"
+**Profesor**: "¿Saben qué es un Híbrido? Es una mezcla loca. Como cuando juntas un Caballo y un Pájaro para hacer un Pegaso."
 
-**(Sonido de perro ladrando y pato graznando al mismo tiempo)**
+**(Efecto de sonido: Mugido de vaca y ladrido de perro mezclados)**
 
-**Profesor**: "Imaginen un perro con pico de pato. ¿Cómo conectamos el pico a la cara peluda? No podemos simplemente pegarlo."
+**Profesor**: "Pero cuidado... si solo pegas la cabeza de un perro en una vaca... ¡se ve falso! Se ve como una máscara."
 
-**Profesor**: "El secreto es la **Costura Invisible**. Tienen que engañar al ojo. Si el perro tiene pelo, hagan que los pelitos cubran un poco el borde del pico. ¡Que parezca que nació así!"
+**Profesor**: "Hoy les voy a enseñar la técnica de la **Costura Invisible**."
 
-**Profesor**: "El ejercicio favorito de hoy es el 'Tiburonejo'. Mitad tiburón, mitad conejo. ¿Se lo imaginan saltando por el campo... o nadando en el mar con orejas largas?"
+**Profesor**: "Imaginen que tienen plastilina de dos colores. Para unirlos, tienen que aplastar y mezclar la unión con el dedo, ¿verdad? En el dibujo es igual."
+"Si el animal tiene pelo y el otro tiene escamas... tienen que entrelazarlos en el borde. ¡No hagan una línea recta!"
 
-**Profesor**: "¡A mezclar se ha dicho! ¡Quiero ver sus combinaciones más locas!"
+**Profesor**: "Vamos a hacer un experimento. Quiero que dibujen al famoso... ¡TIBURONEJO! Mitad tiburón terrible, mitad conejo tierno."
+"¿Tendrá dientes afilados? ¿Comerá zanahorias o peces? ¡Ustedes deciden!"
+
+**Profesor**: "¡A mezclar ADN, científicos!"

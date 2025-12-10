@@ -1,19 +1,11 @@
-# Guion: Pintando con Polvo
+# Guion: Magia de Humo
 
-**Personaje**: El Profe Lápiz con las manos sucias de gris
-**Duración**: 2 minutos
+**(Sonido suave: Shhh... shhh...)**
 
----
+**Profe Lápiz**: "¿Oyen eso? Es el sonido del silencio. Es el sonido del difumino."
 
-**(Sonido suave - fshhh fshhh)**
+**Profe Lápiz**: "Cuando queremos dibujar cosas suaves como la piel de un bebé, una nube o la niebla, las rayas se ven feas."
 
-**Profe Lápiz**: Mira mis manos. ¡Están grises! He estado difuminando.
-A veces, las rayas del lápiz son muy duras. Queremos dibujar nubes, piel de bebé o humo. Cosas suaves.
+**Profe Lápiz**: "Así que usamos nuestro dedo mágico para convertir el grafito en polvo. Frotamos suavemente... ¡y las rayas desaparecen!"
 
-**Profe Lápiz**: Para eso, convertimos el lápiz en polvo.
-Pintamos suave y luego... ¡frotamos! Puedes usar tu dedo (si está limpio) o un papelito enrollado llamado difumino.
-
-**Profe Lápiz**: Al frotar, las rayas desaparecen y queda una niebla mágica.
-Pero cuidado, ¡es adictivo! Si difuminas demasiado, todo tu dibujo se verá borroso, como si necesitaras anteojos.
-
-**Profe Lápiz**: El secreto es: Difumina las sombras, pero deja los bordes y brillos limpios. ¡A ensuciarse los dedos!
+**Profe Lápiz**: "Pero cuidado: Es tan divertido que a veces los niños difuminan TODO el dibujo y se ve borroso. ¡No lo hagas! Difumina las sombras, pero deja las líneas negras quietas."

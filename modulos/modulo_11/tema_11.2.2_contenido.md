@@ -1,108 +1,70 @@
-# Manchas divertidas (Tinta y imaginación)
+# Manchas divertidas (Tinta e Imaginación)
+
+![Ilustración de Manchas Divertidas](./tema_11.2.2_header.svg)
 
 **Tiempo estimado**: 40 minutos  
 **Nivel**: Creativo (6+ años)  
-**Prerrequisitos**: Ninguno
+**Concepto Clave**: Pareidolia (Ver formas en el caos)
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. El Miedo a la Hoja en Blanco
 
-A veces tenemos "Miedo a la Hoja en Blanco". No sabemos qué dibujar y nos bloqueamos.
-Esta técnica mata ese miedo.
-En lugar de planear, **provocamos un accidente** (una mancha) y luego lo arreglamos. Es el ejercicio definitivo de creatividad y adaptación.
+A veces te sientas a dibujar y no sabes QUÉ hacer. Te bloqueas.
+Esta técnica rompe el bloqueo porque empezamos con un **Accidente**.
 
----
-
-## Comprensión intuitiva
-
-### Pareidolia
-
-Es una palabra elegante para "ver caras donde no las hay".
-El cerebro humano es experto en esto. Vemos caras en los enchufes, conejos en las nubes y monstruos en las sombras.
-Vamos a usar este superpoder cerebral para dibujar.
+Vamos a hacer una mancha horrible a propósito, y luego nuestro cerebro va a buscarle forma.
 
 ---
 
-## Materiales necesarios
+## 2. Superpoder Cerebral: Pareidolia
 
-1. Acuarelas líquidas, tinta china, o café muy cargado.
-2. Popote (pajita) para soplar.
-3. Papel grueso.
-4. Plumón negro fino (o bolígrafo).
+¿Alguna vez has visto un conejo en una nube? ¿O una cara en un enchufe?
+Eso se llama **Pareidolia**. Tu cerebro es experto en encontrar caras y animales donde no los hay.
+Vamos a usar eso para crear monstruos únicos.
 
 ---
 
-## Paso a paso: El Monstruo de Tinta (Blow Painting)
+## 3. La Técnica: Soplado (Blow Painting)
 
-### Paso 1: El Charco
+Necesitamos tinta muy líquida (acuarela o colorante de comida) y un popote (pajita).
 
-Pon una gota GORDA de tinta o acuarela líquida en el papel. No la toques.
+### Paso 1: La Gota Gorda
+
+Pon un charco de tinta en el papel.
 
 ### Paso 2: El Viento
 
-Toma el popote.
-Sopla fuerte sobre la gota. ¡Mira cómo la tinta corre y le salen "patas" o "ramas"!
-Gira el papel y sopla desde otro lado.
+Sopla con el popote sobre la gota.
 
-### Paso 3: El Secado
+* ¡Fuuuuuu!
+* La tinta saldrá disparada creando "patas de araña", "rayos" o "pelo loco".
 
-Espera a que se seque (o usa una secadora de pelo si eres impaciente).
-Ahora tienes una mancha con forma de araña/pulpo/explosión.
+### Paso 3: La Espera (Paciencia)
 
-### Paso 4: La Personificación
+¡NO TOQUES LA MANCHA! Está mojada. Espera a que seque.
 
-Toma tu plumón negro.
+### Paso 4: La Vida
 
-- ¿Esas ramas parecen pelos? Dibújale una cara abajo.
-- ¿Parecen brazos? Ponle manos y guantes.
-- Ponle ojos a la mancha. ¡De repente cobra vida!
+Toma un plumón negro (cuando esté seco).
 
----
-
-## Ejercicios creativos
-
-### Ejercicio 1: El Zoológico de Café
-
-**Instrucciones**:
-
-1. Moja la base de una taza de café en... café.
-2. Estampa círculos de café en el papel (como sellos). Dejalos secar.
-3. Convertir cada círculo en algo diferente:
-    - Un planeta.
-    - Una cara de león.
-    - Una rueda de bicicleta.
-    - Un monóculo.
-
-### Ejercicio 2: Rorschach Artístico
-
-**Instrucciones**:
-
-1. Pon pintura en el centro de la hoja.
-2. Dobla la hoja por la mitad y aplasta.
-3. Ábrela. Tendrás una mancha simétrica (como una mariposa o alien).
-4. Dibuja encima para definir qué es.
+* Mira la mancha. Gira la hoja.
+* ¿Ves un alien? Dibújale un ojo.
+* ¿Ves un árbol? Dibújale pájaros.
+* ¿Ves un virus? Dibújale dientes.
 
 ---
 
-## Errores comunes y soluciones
+## 4. Rorschach (Mancha Espejo)
 
-### ❌ Error 1: Soplar tinta a la cara
-
-**Problema**: Aspirar por el popote en lugar de soplar.
-**Resultado**: ¡Boca pintada de negro! (Y sabe horrible).
-**Solución**: Sopla siempre hacia afuera. Y mantén la punta del popote lejos de la gota, no la toques.
-
-### ❌ Error 2: Dibujar sobre mojado
-
-**Problema**: Usar el plumón entintado cuando la mancha está fresca.
-**Resultado**: La tinta del plumón se corre y se arruina la punta.
-**Solución**: PACIENCIA. Toca la mancha. Si está fría o húmeda, espera.
+Otra técnica es poner pintura en el centro, DOBLAR la hoja y APLASTAR.
+Al abrirla, tendrás una mariposa o un murciélago perfectamente simétrico.
 
 ---
 
-## Reflexión final
+## 5. Resumen Visual
 
-El error no existe en el arte, solo existen "oportunidades inesperadas". Si se te cae el bote de pintura, no llores... ¡mira la mancha y dibújale unos ojos! Acabas de crear un Monstruo de Pintura.
-
-**Práctica diaria**: Si ves una mancha de humedad en la pared o en la banqueta, tómale una foto. Luego dibuja encima de la foto en tu tablet o celular.
+1. **Mancha**: Tira pintura.
+2. **Sopla**: Crea el caos.
+3. **Mira**: Encuentra la forma.
+4. **Dibuja**: Resalta lo que ves.

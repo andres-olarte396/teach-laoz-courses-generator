@@ -1,19 +1,18 @@
 # Guion: La Ciudad del Futuro
 
-**(Sonido de autos voladores pasando ziiuuuum y música electrónica futurista)**
+**(Efecto de sonido: Autos voladores pasando a toda velocidad "Zzzziuummmm" y música tecnológica)**
 
-**Profesor**: "¿Listos para viajar en el tiempo? Ajusten sus relojes al año 3000. ¡Bienvenidos a Metrópolis!"
+**Profesor**: "¡Bienvenidos al año 3000! Guau... miren hacia arriba. Los edificios son tan altos que atraviesan las nubes."
 
-**(Sonido de claxon robótico)**
+**Profesor**: "Aquí la arquitectura es increíble. Ya nadie vive en cajas cuadradas. ¡La gente vive en esferas, en pirámides y en torres con forma de dona!"
 
-**Profesor**: "Aquí abajo ya no cabe nadie, así que la ciudad creció hacia arriba. ¡Miren esos edificios! Ya no son cajas de zapatos aburridas."
+**(Efecto de sonido: Claxon de robot)**
 
-**Profesor**: "En el futuro, la arquitectura es loca. Tenemos edificios con forma de huevo, torres espirales y casas flotantes. ¡Todo vale!"
+**Profesor**: "Hoy vamos a diseñar nuestra propia **Metrópolis**. Puedes elegir dos estilos:
+Uno: El futuro limpio y verde, lleno de plantas y energía solar.
+Dos: El futuro oscuro y tecnológico, lleno de luces de neón y cables."
 
-**Profesor**: "¿Ven esas carreteras? No tocan el suelo. Son caminos de luz que cruzan entre los rascacielos. Y no hay ruedas... ¡todo levita!"
+**Profesor**: "Les voy a dar el truco de magia de los arquitectos: **LA ESCALA**.
+Si dibujas un edificio solo, parece un juguete. Pero si dibujas una nave espacial chiquitita volando al lado... ¡tu cerebro dice 'ESO ES GIGANTE'!"
 
-**(Sonido de viento y altura)**
-
-**Profesor**: "Cuando dibujen su ciudad, no olviden la **Escala**. Para que una torre se vea gigante, dibujen una nave pequeñita volando a su lado. Eso nos dice: '¡Guau, ese edificio es inmenso!'."
-
-**Profesor**: "¿Cómo será su futuro? ¿Lleno de plantas y energía solar? ¿O oscuro y lleno de luces de neón? ¡Ustedes son los arquitectos del mañana!"
+**Profesor**: "Así que, quiero ver rascacielos infinitos, puentes aéreos y muchos, muchos autos voladores. ¡El futuro está en sus manos!"

@@ -1,37 +1,33 @@
 # Evaluación: La Ciudad del Futuro
 
-## Pregunta 1
+## Pregunta 1: Estilos de Futuro
 
-¿Qué elemento visual ayuda a que una ciudad del futuro se vea tecnológicamente avanzada?
+¿Cómo se llama el estilo de futuro que mezcla tecnología con **Naturaleza** (plantas, sol, aire limpio)?
 
-- A) Calles de tierra y caballos.
-- B) Elementos flotantes, luces de neón, hilos de luz y formas aerodinámicas.
-- C) Casas de madera con chimeneas de humo.
+* A) Cyberpunk (Oscuro y Neón).
+* B) Solarpunk (Verde y Brillante).
+* C) Steampunk (Vapor y Engranajes).
 
-## Pregunta 2
+## Pregunta 2: El Truco de la Escala
 
-Para mostrar que un edificio es gigantesco (Escala), ¿qué truco podemos usar?
+Para que un edificio se vea GIGANTE en tu dibujo, ¿qué debes hacer?
 
-- A) Escribir "GIGANTE" en la pared.
-- B) Dibujar elementos pequeños conocidos (personas, ventanitas, naves) al lado para comparar tamaño.
-- C) Dibujarlo de color rojo.
+* A) Dibujarlo de color gris.
+* B) Escribir "Muy Grande" al lado.
+* C) Dibujar objetos pequeños conocidos (personas, autos, ventanas pequeñas) al lado para comparar.
 
-## Pregunta 3
+## Pregunta 3: Diseño Urbano
 
-¿Cuál es la diferencia principal entre el estilo **Solarpunk** y **Cyberpunk**?
+En muchas visiones del futuro, como el espacio en el suelo se acaba, la ciudad crece hacia:
 
-- A) Solarpunk es naturaleza+tecnología (limpio/verde), Cyberpunk es oscuro/industrial/neón.
-- B) Solarpunk es de noche y Cyberpunk es de día.
-- C) Son lo mismo.
+* A) Abajo (Subterránea siempre).
+* B) Arriba (Rascacielos verticales conectados por puentes).
+* C) Los lados.
 
-## Pregunta 4
+## Pregunta 4: Formas
 
-Verdadero o Falso:
-"En el dibujo de ciudades futuristas, estamos obligados a usar siempre formas cuadradas y rectangulares como en las ciudades actuales."
+¿Qué formas son comunes en la arquitectura futurista de ciencia ficción?
 
-- ( ) Verdadero
-- ( ) Falso (¡Al contrario! Buscamos formas curvas, orgánicas o imposibles).
-
-## Ejercicio Rápido
-
-Transforma un **Objeto de tu mesa** (lápiz, taza, goma) en un edificio gigante. Dibuja ventanas diminutas para darle escala.
+* A) Solo cubos perfectos.
+* B) Formas aerodinámicas, curvas, agujas, esferas y anillos.
+* C) Formas de animales solamente.

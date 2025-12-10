@@ -1,103 +1,63 @@
 # Texturas secretas (Frottage)
 
+![Ilustración de Frottage](./tema_11.2.1_header.svg)
+
 **Tiempo estimado**: 35 minutos  
 **Nivel**: Básico (6+ años)  
-**Prerrequisitos**: Crayones o lápices suaves
+**Concepto Clave**: Textura Táctil vs Visual
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. ¿Qué es el Frottage?
 
-Max Ernst, un artista surrealista, miraba el piso de madera y veía monstruos en las vetas.
-El **Frottage** (frotar en francés) es la técnica de "calcar" la textura de un objeto poniendo el papel encima y frotando con lápiz.
+Es una palabra francesa chistosa que significa "Frotar".
+Es la técnica de **robar texturas** del mundo real sin dibujarlas.
 
-Te permite capturar la "piel" del mundo real y usarla en tus dibujos.
-
----
-
-## Comprensión intuitiva
-
-### El Escáner Manual
-
-¿Has puesto una moneda debajo de un papel y rayado encima para que aparezca la cara? ¡Eso es frottage!
-Estás convirtiendo una textura 3D (la moneda) en un dibujo 2D (el papel) sin dibujar ni una línea tú mismo.
+¿Recuerdas cuando pones una moneda bajo el papel y rayas encima para ver la cara del presidente? ¡Eso es Frottage!
+Estás usand tu lápiz como un **Escáner Manual**.
 
 ---
 
-## Materiales necesarios
+## 2. Herramientas de Detective
 
-1. Papel delgado (el papel bond de impresora es perfecto). Si es muy grueso (cartulina), no funciona.
-2. Lápices de grafito suaves (2B, 4B) o Crayones de cera (sin papelito).
-3. El mundo entero (Suelas de zapato, paredes, hojas de árbol, monedas, madera).
+1. **Papel Delgado**: Esto es vital. Si usas cartulina, no funciona. Usa papel de impresora o de cuaderno barato.
+2. **Lápiz o Crayón**:
+    * Lápiz suave (2B, 4B) acostado.
+    * Crayón de cera (sin papel) acostado.
+3. **Superficies Rugosas**: Paredes, piso, suelas de zapato, monedas, hojas secas, corteza de árbol.
 
 ---
 
-## Paso a paso: Cazadores de Texturas
+## 3. Paso a paso: El Mapa de Texturas
 
-### Paso 1: Exploración
+### Paso 1: Encontrar la Pista
 
-Busca superficies rugosas. La lisura es enemiga del frottage.
+Busca algo que se sienta rasposo al tacto. (Si es liso como un vidrio, no sirve).
 
-- Pared de ladrillo.
-- Corteza de árbol.
-- Alfombra.
-- Tapa de alcantarilla.
+### Paso 2: La Posición Secreta
 
-### Paso 2: La Captura
-
-1. Pon tu hoja sobre la textura. ¡Sujétala fuerte para que no se mueva!
-2. Acuesta tu lápiz o crayón (no uses la punta, usa el lado largo).
-3. Frota suavemente de lado a lado.
-4. ¡Mira cómo aparece el patrón mágicamente!
+* Pon el papel quieto sobre el objeto.
+* **NO uses la punta del lápiz**. (La punta solo hace rayas).
+* **ACUESTA el lápiz** y frota suevemente con el costado de la mina.
+* ¡Verás aparecer el patrón mágicamente!
 
 ### Paso 3: El Catálogo
 
-Haz cuadritos en tu hoja y llénalos con diferentes texturas. Etiquétalos: "Piso de la cocina", "Zapato de papá".
+Haz una hoja llena de muestras.
+"Esta mancha es la pared de la cocina". "Esta es la suela de mi tenis".
 
 ---
 
-## Ejercicios creativos
+## 4. Ejercicios Diarios
 
-### Ejercicio 1: El Bosque Texturizado
-
-**Instrucciones**:
-
-1. Sal al jardín. Busca 3 hojas secas diferentes (con venas marcadas).
-2. Ponlas debajo de tu papel.
-3. Frota con crayón verde, amarillo y café.
-4. Dibuja un tronco con lápiz conectando las hojas frotadas.
-5. ¡Tienes un árbol hiper-realista!
-
-### Ejercicio 2: El Monstruo de la Pared
-
-**Instrucciones**:
-
-1. Busca una pared rugosa o un piso de piedra.
-2. Haz un frottage grande en tu hoja con lápiz gris.
-3. Mira la mancha aleatoria. ¿A qué se parece?
-4. ¿Ves una cara? ¿Un perro?
-5. Usa un plumón negro para delinear lo que ves sobre la textura. ¡Es como encontrar formas en las nubes!
+* **Piel de Monstruo**: Dibuja un monstruo grande (solo el contorno). Ve a buscar una pared rugosa y "coloréalo" con frottage. ¡Parecerá que tiene piel de piedra real!
+* **Paisaje de Hojas**: Pon hojas verdaderas bajo el papel y frota con verde. Dibuja ramas para unirlas.
 
 ---
 
-## Errores comunes y soluciones
+## 5. Resumen Visual
 
-### ❌ Error 1: Usar la punta
-
-**Problema**: Rayar con la punta del lápiz.
-**Resultado**: Solo se ven rayas, no la textura. Y rompes el papel.
-**Solución**: ¡Acuesta el lápiz! Usa el costado de la mina.
-
-### ❌ Error 2: Papel "Cartón"
-
-**Problema**: Usar papel de acuarela o cartulina.
-**Resultado**: No se marca nada porque el papel es muy grueso.
-**Solución**: Usa las hojas más delgadas que tengas.
-
----
-
-## Reflexión final
-
-El frottage te enseña que no tienes que inventar todas las texturas. El mundo ya las inventó por ti. Tu trabajo es encontrarlas y robarlas (artísticamente) para tus dibujos.
-
-**Práctica diaria**: Haz un "mapa de texturas" de tu casa. ¿Cuál es la habitación más rugosa? ¿Cuál es la más suave?
+1. **Toca**: Busca algo rugoso.
+2. **Cubre**: Pon papel delgado encima.
+3. **Acuesta**: Lápiz horizontal.
+4. **Frota**: Suavemente para copiar la textura.

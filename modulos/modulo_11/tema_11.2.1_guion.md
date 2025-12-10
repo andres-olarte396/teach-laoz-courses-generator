@@ -1,17 +1,17 @@
-# Guion: Texturas secretas (Frottage)
+# Guion: Texturas Secretas (Frottage)
 
-**(Sonido de lápiz raspando suavemente scritch-scritch)**
+**(Efecto de sonido: Lápiz raspando suavemente rrrrrrr-rrrrrrr)**
 
-**Profesor**: "¿Alguna vez han jugado a ser detectives? Hoy vamos a buscar pistas escondidas en las cosas."
+**Profesor**: "Hola detectives. Hoy no vamos a dibujar... vamos a COPIAR. Pero shhh, es un secreto."
 
-**(Sonido de pasos)**
+**Profesor**: "El mundo está lleno de texturas. Toquen su zapato. Toquen la pared. ¿Sienten los granitos? Dibujar eso punto por punto es aburrido. Mejor usamos magia."
 
-**Profesor**: "El mundo no es liso. Las paredes tienen granitos, la madera tiene líneas, las hojas tienen venas. Pero dibujarlas una por una es muuuy lento."
+**Profesor**: "Esta técnica se llama **Frottage**. Tomen un papel delgadito y pónganlo sobre una moneda."
 
-**Profesor**: "El truco de hoy se llama Frottage. Es una palabra francesa que significa 'frotar'. Es como usar un escáner mágico."
+**Profesor**: "¡ALTO! No usen la punta del lápiz. Si usan la punta, solo harán rayas feas. Tienen que **ACOSTAR** el lápiz. Usen la pancita del lápiz."
 
-**Profesor**: "Pongan su hoja sobre una moneda. Acuesten el lápiz (¡no la punta!). Froten suavemente... ¡y tarán! La cara de la moneda aparece en el papel."
+**(Efecto de sonido: Tono de descubrimiento "¡Ding!")**
 
-**Profesor**: "Prueben con todo: la suela de sus tenis, la pared del patio, una hoja seca. ¡Vamos a robarle la piel a los objetos!"
+**Profesor**: "Frote suavemente... ¡Y miren! La moneda aparece en el papel como un fantasma."
 
-**Profesor**: "Recuerden: si el papel es muy grueso, no funciona. ¡Usen papel delgadito!"
+**Profesor**: "¡Vayan por toda la casa! Quiero ver texturas de paredes, de árboles, de todo. ¡A robar texturas!"

@@ -1,31 +1,32 @@
-# Evaluación: Colores Secundarios
+# Evaluación: Examen de Alquimia
 
-**Tipo**: Pareo (Unir con líneas)
+## Pregunta 1
 
----
+Suma de colores:
+**AZUL + AMARILLO = ...**
 
-## 1. Receta de Cocina de Colores
+- A) Café feo.
+- B) Verde bonito.
 
-Une los ingredientes con su resultado:
+## Pregunta 2
 
-1. Rojo + Amarillo ....... ( ) Verde
-2. Azul + Amarillo ....... ( ) Morado/Violeta
-3. Rojo + Azul ........... ( ) Naranja
+Suma de colores:
+**ROJO + AMARILLO = ...**
 
-## 2. Detective de Errores
+- A) Naranja.
+- B) Morado.
 
-El Profe Lápiz se equivocó. Marca cuál frase es FALSA:
-a) El Naranja es un color secundario.
-b) Si mezclo Rojo y Azul sale Amarillo.
-c) El Verde se hace con Azul y Amarillo.
+## Pregunta 3
 
-## 3. Práctica
+Si quiero un Verde muy clarito (como limón), ¿qué debo usar más?
 
-En el cuadro de abajo, intenta crear el color **VERDE MÁS OSCURO** que puedas usando tus lápices Azul y Amarillo. (Pista: Usa más azul).
+- A) Más Azul (oscuro).
+- B) Más Amarillo (luz).
 
----
+## Reto de Mezcla
 
-## Respuestas
+Intenta hacer el color **MORADO** en una esquinita de tu hoja.
+(Es el más difícil. Tienes que usar un rojo suavecito y un azul suavecito).
 
-1: Naranja, Verde, Morado
-2: b (¡Es falso! Sale morado)
+- [ ] Me salió Morado.
+- [ ] Me salió Café (No te preocupes, ¡sigue practicando!).

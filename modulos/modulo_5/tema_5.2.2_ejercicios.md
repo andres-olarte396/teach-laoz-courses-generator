@@ -1,34 +1,29 @@
-# Ejercicios: Niebla y Terciopelo (Difuminado)
+# Ejercicios: Suavidad Total
 
-## Ejercicio 1: El Tornado de Humo
+## Ejercicio 1: El Tornado Fantasma
 
-**Objetivo**: Crear degradado suave.
-**Tiempo**: 15 minutos.
+**Objetivo**: Crear degradado sin rayas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Pinta una mancha oscura con tu lápiz en la hoja.
-2. Envuelve tu dedo en un pedazo de papel higiénico.
-3. Frota la mancha haciendo círculos pequeños, arrastrando el grafito hacia afuera.
-4. Intenta que la "cola" del humo desaparezca suavemente en el papel blanco, sin que se note dónde termina.
+1. Haz una mancha oscura con tu lápiz.
+2. Usa un papelito (o tu dedo) y arrastra esa mancha hacia afuera haciendo círculos.
+3. Crea una cola de humo que desaparece en el blanco.
+4. ¿Se ven rayas? ¡No! Se ve como gas.
 
----
+## Ejercicio 2: La Gota de Agua (Nivel Pro)
 
-## Ejercicio 2: La Gota de Agua
+**Objetivo**: Realismo.
 
-**Objetivo**: Realismo y brillo.
-**Tiempo**: 20 minutos.
-
-### Instrucciones
+**Instrucciones**:
 
 1. Dibuja un círculo suave.
-2. Sombrea la parte de arriba (adentro) y la parte de abajo (afuera, sombra proyectada).
-3. Difumina todo para que se vea liso como vidrio.
-4. ¡EL TRUCO: Toma tu goma de borrar y borra un puntito blanco limpio en la parte de arriba y otro abajo (reflejo).
-5. Parece mojado, ¿verdad?
+2. Sombrea un lado y difumina todo con tu dedo para que quede gris suave.
+3. Usa tu **GOMA DE BORRAR** para "dibujar" un puntito blanco brillante arriba.
+4. ¡Parece mojado! El brillo blanco es la clave.
 
-### Criterios de Éxito
+## Ejercicio 3: Nube Esponjosa
 
-- [ ] Tu dibujo se ve suave, sin rayas de lápiz.
-- [ ] Lograste un tono gris parejo.
-- [ ] Los brillos blancos son nítidos (hechos con goma).
+**Instrucciones**:
+Dibuja una nube. Sombrea solo la parte de abajo (la panza de la nube) y difumínala hacia arriba.
+Deja la parte de arriba blanca.

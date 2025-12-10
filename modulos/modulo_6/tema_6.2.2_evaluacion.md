@@ -1,34 +1,23 @@
-# Evaluación: Punto Focal
+# Evaluación: Director de Cine
 
-**Tipo**: Análisis de Atención
+## Pregunta 1
 
----
+Si dibujo 50 pájaros iguales... ¿tengo un Punto Focal?
 
-## 1. ¿Dónde miras primero?
+- A) No, todos son iguales. Nadie destaca.
+- B) Sí, todos son focales.
 
-Imagina un dibujo con 50 ovejas blancas.
-Y en medio hay un lobo negro con ojos rojos.
-¿Cuál es el Punto Focal?
-a) Las ovejas (porque son muchas).
-b) El lobo (porque es diferente).
+## Pregunta 2
 
-## 2. La Regla de los Tercios
+¿Cómo hago que un personaje destaque?
 
-¿Dónde es mejor poner al personaje principal para que se vea interesante?
-a) Justo en el centro matemático, aburrido.
-b) Un poco hacia un lado (en los puntos de cruce del Gato #).
+- A) Lo dibujo igual que el fondo.
+- B) Lo pinto de un color diferente y brillante (Contraste).
 
-## 3. Líneas Guía
+## Reto
 
-Si dibujas a un hombre señalando con el dedo hacia un árbol...
-¿A dónde va a mirar la gente?
-a) Al dedo del hombre.
-b) Al árbol (porque el dedo apunta allá).
+Mira tu dibujo del Camino Mágico.
+¿Tus ojos siguen el camino hasta la casa?
 
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+- [ ] Sí, llego directo a la puerta.
+- [ ] No, el camino se va para otro lado.

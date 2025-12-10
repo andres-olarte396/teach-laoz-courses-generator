@@ -1,19 +1,17 @@
-# Guion: Magia con cera y agua
+# Guion: Magia con Cera
 
-**(Sonido de varita mágica y chispas)**
+**(Efecto de sonido: Música de misterio y varita mágica "Ting-a-ling")**
 
-**Profesor**: "¡Abracadabra! Hoy no somos dibujantes, somos magos. Vamos a hacer aparecer dibujos invisibles."
+**Profesor**: "¡Bienvenidos a la Escuela de Magia! Hoy vamos a hacer aparecer cosas invisibles."
 
-**Profesor**: "¿Saben por qué los patos no se mojan cuando nadan? Porque sus plumas tienen aceite. El agua y el aceite (o la cera) son enemigos. ¡Se repelen!"
+**Profesor**: "¿Tienen su varita mágica? (Muestra el crayón blanco). Parece un crayón normal, pero tiene un poder secreto: **El Escudo de Cera**."
 
-**(Sonido de agua fluyendo)**
+**Profesor**: "El agua odia a la cera. No pueden estar juntos. Si dibujas una estrella con cera, estás creando un escudo impermeable."
 
-**Profesor**: "Vamos a usar este superpoder. Tomen su crayón blanco. Es nuestro 'lápiz invisible'. Dibujen fuerte sobre el papel. Estrellas, lunas, espirales..."
+**(Efecto de sonido: Agua corriendo)**
 
-**Profesor**: "Ahora, viene la magia. Tomen su pincel con mucha agua y pintura oscura. ¡Pinchen sin miedo! Pasen por encima del dibujo."
+**Profesor**: "Vamos a hacer la prueba. Dibujen fuerte, ¡con ganas! Si dibujan despacito, el escudo se rompe."
 
-**(Sonido de "Ahhh" de asombro)**
+**Profesor**: "Ahora, tomen su poción mágica (pintura con mucha agua) y... ¡ZAS! Pinchen todo el papel. ¡Miren eso! El agua corre, pero el dibujo se queda. ¡Es magia científica!"
 
-**Profesor**: "¡Miren eso! El agua huye de la cera y el papel blanco se queda seco. ¡Su dibujo brilla en la oscuridad! Acaban de crear una Resistencia."
-
-**Profesor**: "Prueben con crayones neón y fondo negro. ¡Parece magia de verdad!"
+**Profesor**: "¡Quiero ver sus mensajes secretos! ¿Qué escondieron en el papel?"

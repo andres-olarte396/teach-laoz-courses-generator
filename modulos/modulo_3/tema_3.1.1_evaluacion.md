@@ -1,37 +1,32 @@
-# Evaluación: El juego de las diferencias
+# Evaluación: Examen de Detective
 
 ## Pregunta 1
 
-¿Cuál es la diferencia entre **Mirar** y **Observar**?
+¿Cuál es la regla más importante del **Dibujo a Ciegas**?
 
-- A) Ninguna, es lo mismo.
-- B) Mirar es rápido y superficial; Observar es lento, detallado y atento.
-- C) Mirar es con gafas y observar es sin gafas.
+- A) Dibujar con los ojos cerrados.
+- B) Dibujar mirando el objeto, sin mirar nunca el papel.
+- C) Dibujar con la luz apagada.
 
 ## Pregunta 2
 
-En el ejercicio de **Dibujo a Ciegas** (Blind Contour), ¿cuál es la regla más importante?
+¿Qué es el **Espacio Negativo**?
 
-- A) Dibujar muy rápido.
-- B) No mirar nunca el objeto, solo mirar el papel.
-- C) No mirar nunca el papel, mantener los ojos fijos en el objeto que dibujas.
+- A) Un dibujo que te quedó mal.
+- B) El espacio vacío o hueco que hay alrededor y entre las cosas.
 
-## Pregunta 3
+## Misión Secreta
 
-¿Por qué a veces es útil dibujar los **Espacios Negativos** (los huecos vacíos) en lugar del objeto mismo?
+Busca tu zapato.
+Encuentra una costura, una mancha o un rasguño pequeño.
 
-- A) Porque ayuda al cerebro a ver las formas reales y proporciones correctas en lugar de inventar símbolos.
-- B) Porque es más fácil pintar de negro.
-- C) Porque gastas menos lápiz.
+- [ ] ¡Lo encontré! (Soy un buen detective).
+- [ ] Mi zapato es mágico y no tiene detalles.
 
-## Pregunta 4
+## Reflexión
 
-Verdadero o Falso:
-"Tu cerebro siempre trata de simplificar lo que ves para que sea más fácil de entender, pero eso hace que dibujes peor."
+Mira tu "Dibujo a Ciegas" de la mano.
+¿Se parece a una mano real?
 
-- ( ) Verdadero
-- ( ) Falso (El cerebro ayuda a dibujar cada detalle perfectamente sin esfuerzo).
-
-## Ejercicio Rápido
-
-Mira tu zapato. Encuentra una costura, una mancha o un desgaste que nunca habías notado antes. ¡Eso es observar!
+- [ ] No, parece un alienígena (¡Excelente! Eso significa que observaste bien las líneas).
+- [ ] Sí, se ve perfecta (Mmm... ¿hiciste trampa y miraste el papel?).

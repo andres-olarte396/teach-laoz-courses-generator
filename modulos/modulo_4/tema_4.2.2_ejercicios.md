@@ -1,33 +1,33 @@
-# Ejercicios: ¡Qué Frío! (Colores Fríos)
+# Ejercicios: El Rey del Hielo
 
-## Ejercicio 1: El Reino de Hielo
+## Ejercicio 1: El Castillo Congelado
 
-**Objetivo**: Uso exclusivo de paleta fría.
-**Tiempo**: 20 minutos.
+**Objetivo**: Usar solo colores fríos.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Esconde tus lápices rojos, naranjas y amarillos.
-2. Dibuja un castillo de hielo o un paisaje nevado.
+1. Esconde los lápices rojos, naranjas y amarillos.
+2. Dibuja un Castillo de Hielo.
 3. Usa **Azul Claro**, **Azul Oscuro**, **Morado** y **Verde Menta**.
-4. Deja espacios en blanco para la nieve.
+4. Deja partes blancas (papel) para que parezca nieve.
 
----
+## Ejercicio 2: El Bosque de los Secretos
 
-## Ejercicio 2: El Bosque Misterioso
+**Objetivo**: Ambiente nocturno.
 
-**Objetivo**: Crear atmósfera nocturna.
-**Tiempo**: 20 minutos.
-
-### Instrucciones
+**Instrucciones**:
 
 1. Dibuja un bosque de noche.
-2. Pinta el cielo de **Azul Oscuro** o **Negro**.
-3. Pinta los árboles de **Verde Oscuro** y **Morado** (no marrón).
-4. ¿Puedes hacer que se vea tenebroso usando solo colores fríos?
+2. Pinta el cielo de **Azul Oscuro** (o Morado).
+3. Pinta los árboles de **Verde oscuro** y **Azul**.
+4. ¿Se ve misterioso? ¡Sí!
 
-### Criterios de Éxito
+## Ejercicio 3: Sombras Mágicas
 
-- [ ] No usaste ningún color cálido.
-- [ ] Tu dibujo transmite frío o calma.
-- [ ] Usaste el blanco del papel como un color más (nieve/luna).
+**Objetivo**: Sombrear con frío.
+
+**Instrucciones**:
+
+1. Dibuja una naranja. Píntala de naranja.
+2. Ahora hazle la sombra en la mesa... ¡usando **MORADO**!
+3. ¿Ves qué interesante se ve? El morado hace que el naranja brille más.

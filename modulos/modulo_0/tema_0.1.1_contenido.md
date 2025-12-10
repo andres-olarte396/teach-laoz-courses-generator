@@ -85,5 +85,6 @@ Dibujar no es un examen. Es un juego. Cada línea que haces es única porque la 
 ¡Bienvenido a tu aventura artística!
 
 ## Galería de Inspiración
+
 ![Introducción](./tema_0.1.1_extra_introduccion.svg)
 ![Preconceptos](./tema_0.1.1_extra_preconceptos.svg)

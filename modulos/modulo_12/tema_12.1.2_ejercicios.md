@@ -1,37 +1,48 @@
-# Ejercicios: Creando la obra maestra
+# Ejercicios: Manos a la Obra
 
-## Ejercicio 1: Limpieza Previa
+---
 
-**Objetivo**: Preparar el "quirófano" artístico.
+## Ejercicio 1: El Trazo Fantasma
 
-**Instrucciones**:
-
-1. Limpia tu mesa. No debe haber migas de borrador ni manchas de grasa.
-2. Lávate las manos. La grasa de los dedos mancha el papel.
-3. Pega tu papel a la mesa con cinta suave (masking tape) en las esquinas para que no se mueva.
-4. Ten a la mano un "papel sucio" para probar colores o apoyar tu mano.
-
-## Ejercicio 2: El Trazo Fantasma
-
-**Objetivo**: Dibujar sin miedo a marcar el papel.
+**Objetivo**: Controlar la presión de la mano.
 
 **Instrucciones**:
 
-1. Toma el lápiz más duro y claro que tengas (H o HB).
-2. Dibuja el esquema de tu obra maestra.
-3. Hazlo tan suave que **apenas tú puedas verlo**.
-4. Si te alejas 1 metro, el dibujo debería ser invisible.
-5. Esto permite borrar fácil y que la pintura cubra el lápiz después.
+1. En una hoja de prueba, trata de dibujar un círculo.
+2. Hazlo tan suave que parezca humo.
+3. Intenta borrarlo. ¿Desapareció por completo?
+    * **Sí**: ¡Estás listo para el papel final!
+    * **No (quedó marca)**: Estás presionando mucho. Intenta de nuevo más suave.
 
-## Ejercicio 3: Capas de Paciencia
+---
 
-**Objetivo**: Entender el orden de trabajo.
+## Ejercicio 2: El Escudo de Mano
+
+**Objetivo**: Mantener la limpieza.
 
 **Instrucciones**:
 
-1. Divide un dibujo pequeño en 3 pasos mentales (escríbelos):
-    * Fondo (Cielo/Suelo).
-    * Figuras Grandes (Árboles/Casa).
-    * Detalles (Hojas/Ventanas).
-2. Empieza a pintar o colorear **SOLO EL FONDO**.
-3. Resiste la tentación de pintar los detalles todavía. ¡Disciplina!
+1. Toma una hoja de papel extra (puede ser usada).
+2. Ponla debajo de la mano con la que dibujas.
+3. Practica dibujar moviendo el "escudo" contigo.
+4. Al final, mira el escudo. ¿Está sucio de grafito por abajo?
+5. ¡Bien! Toda esa suciedad iba a quedar en tu dibujo, y el escudo lo salvó.
+
+---
+
+## Ejercicio 3: Paciencia Zen
+
+**Objetivo**: Evitar la prisa.
+
+**Instrucciones**:
+
+1. Pon un cronómetro o reloj.
+2. Dedica **10 minutos completos** solo a colorear una parte pequeña (ej. un árbol).
+3. No te salgas de la línea. Mezcla colores. Hazlo lento.
+4. Observa qué tan mejor queda cuando no corres.
+
+---
+
+## Tip Final
+
+Limpia tu mesa antes de empezar. Un borrador sucio o una migaja de pan pueden arruinar tu obra. ¡Orden en la sala!

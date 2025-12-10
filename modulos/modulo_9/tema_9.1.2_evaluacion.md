@@ -1,37 +1,22 @@
-# Evaluación: Animales Salvajes
+# Evaluación: Explorador Experto
 
 ## Pregunta 1
 
-¿Cuál es el "rasgo exagerado" principal que debemos resaltar al dibujar una Jirafa?
+Si dibujo una jirafa y me sobra mucho espacio arriba de su cabeza...
 
-- A) Sus orejas pequeñas.
-- B) Su cola corta.
-- C) Su cuello y patas extremadamente largas.
+- A) Está bien.
+- B) ¡Mal! Debería haber hecho el cuello más largo para llenar la hoja.
 
 ## Pregunta 2
 
-Al dibujar un Elefante, ¿cómo debemos representar sus patas para que parezcan fuertes y pesadas?
+¿Cómo son las patas del elefante?
 
-- A) Como palillos delgados.
-- B) Como columnas rectas y del mismo ancho arriba y abajo.
-- C) Con resortes para saltar.
+- A) Finas y elegantes.
+- B) Gruesas y rectas como columnas.
 
-## Pregunta 3
+## Reto
 
-Si comparamos un León con una mascota doméstica, ¿a cuál se parece más en anatomía básica?
+Dibuja la textura de un Elefante.
 
-- A) A un gato musculoso con peluca.
-- B) A un perro salchicha.
-- C) A un hámster gigante.
-
-## Pregunta 4
-
-Verdadero o Falso:
-"Para dibujar la textura de la piel del elefante, usamos líneas suaves y esponjosas."
-
-- ( ) Verdadero
-- ( ) Falso (Usamos líneas cruzadas para arrugas y grietas)
-
-## Ejercicio Rápido
-
-Dibuja rápidamente la silueta de un **Elefante** usando solo 3 formas geométricas (Cuerpo, Cabeza, Oreja).
+- [ ] Usaste líneas suaves como pelo de gato (Error).
+- [ ] Usaste líneas arrugadas y grietas (Correcto).

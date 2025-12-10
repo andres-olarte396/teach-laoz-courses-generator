@@ -1,33 +1,35 @@
-# Ejercicios: El Detective de la Luz
+# Ejercicios: Cazadores de Sombras
 
-## Ejercicio 1: La Flecha Guía
+## Ejercicio 1: La Brújula de Sombra
 
-**Objetivo**: Entender la dirección de la luz.
-**Tiempo**: 10 minutos.
+**Objetivo**: Mover el sol.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 4 manzanas en tu hoja.
-2. En cada una, dibuja un solecito en una posición diferente (Arriba, Izquierda, Derecha, Abajo).
-3. Marca con una 'X' dónde debería estar la sombra en la manzana (siempre al lado contrario del sol).
-4. No necesitas sombrear bonito, ¡solo marca el lugar correcto!
+1. Dibuja 4 círculos (pelotas).
+2. Dibuja un sol chiquito en diferente lugar para cada una (Arriba, Abajo, Izquierda, Derecha).
+3. Marca con una "X" dónde debe ir la sombra oscura. (Recuerda: ¡Al lado contrario!).
 
----
+## Ejercicio 2: El Misterio de la Linterna
 
-## Ejercicio 2: Sombras Locas
+**Objetivo**: Verlo en la vida real.
 
-**Objetivo**: Identificar errores de iluminación.
-**Tiempo**: 15 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Apaga la luz de tu cuarto.
+2. Prende una linterna (o la luz del celular).
+3. Pon tu mano o un juguete en la pared.
+4. Mueve la luz. ¿Ves cómo la sombra se mueve y cambia de tamaño?
+5. ¡La sombra siempre huye de la luz!
 
-1. Dibuja un paisaje simple: Un árbol, una casa y un perro.
-2. Dibuja el sol arriba a la izquierda.
-3. Ahora dibuja las sombras CORRECTAMENTE para el árbol y la casa.
-4. Pero dibuja la sombra del perro INCORRECTA (como si la luz viniera del otro lado).
-5. Muestra tu dibujo a alguien y pregúntale: "¿Qué está mal aquí?".
+## Ejercicio 3: Sombras Locas (Error)
 
-### Criterios de Éxito
+**Objetivo**: Detectar errores.
 
-- [ ] Todas las sombras "huyen" del sol (excepto la del perro trampa).
-- [ ] Las sombras tocan los objetos (no flotan).
+**Instrucciones**:
+
+1. Dibuja un árbol y un perro.
+2. Dibuja el sol a la derecha.
+3. Ponle la sombra al árbol correctamente (a la izquierda).
+4. Ponle la sombra al perro MAL (a la derecha, como si fuera al revés).
+5. ¿Verdad que se ve rarísimo?

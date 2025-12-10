@@ -1,31 +1,22 @@
-# Evaluación: Uso del Espacio
+# Evaluación: Inspector de Espacio
 
-**Tipo**: Análisis de Composición
+## Pregunta 1
 
----
+Si dibujo un oso entero, chiquitito en el centro de la hoja...
 
-## 1. El Síndrome de la Hormiga
+- A) Se ve poderoso y gigante.
+- B) Se ve como un juguete o una hormiga ("Síndrome de la Isla").
 
-Mira tu dibujo anterior. Si pones tu mano abierta sobre el dibujo...
-a) ¿Tapas todo el dibujo con una sola mano? (¡Síndrome de Hormiga detectado!).
-b) ¿Sobran partes del dibujo fuera de tu mano? (¡Bien hecho!).
+## Pregunta 2
 
-## 2. Bordes Valientes
+¿Está mal si mi dibujo se "sale" del papel (por ejemplo, si dibujo solo la mitad de un sol en la esquina)?
 
-¿Cuántos bordes del papel "toca" o "corta" tu dibujo?
+- A) Sí, está roto.
+- B) No, ¡está genial! Significa que el mundo del dibujo es más grande que el papel.
 
-- ( ) 0 (Flotando en el centro).
-- ( ) 1-2 (Mejor).
-- ( ) 3-4 (¡Excelente uso del espacio!).
+## Reto
 
-## 3. Pregunta de Lógica
+Pon tu mano abierta sobre tu dibujo.
 
-Si quiero que un monstruo parezca GIGANTE, ¿qué es mejor?
-a) Dibujarlo entero y pequeñito en el centro para que se vea todo.
-b) Dibujar solo su ojo y sus dientes gigantes llenando toda la hoja.
-
----
-
-## Respuestas
-
-3: b
+- [ ] Tu mano tapa todo el dibujo (¡Muy chiquito!).
+- [ ] El dibujo es más grande que tu mano (¡Bien hecho!).

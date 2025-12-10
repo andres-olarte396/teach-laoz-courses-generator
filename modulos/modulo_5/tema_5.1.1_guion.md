@@ -1,20 +1,13 @@
-# Guion: El Sol es el Jefe
+# Guion: El Sol Manda
 
-**Personaje**: El Profe Lápiz con linterna
-**Duración**: 2 minutos
+**(Sonido de amanecer: pajaritos y gallo)**
 
----
+**Profe Lápiz**: "Buenos días. Ha salido el sol."
 
-**(Sonido de click - Linterna encendiéndose y apagándose)**
+**Profe Lápiz**: "En tu dibujo, TÚ eres quien decide dónde está el sol. ¿Está arriba? ¿Está a la derecha?"
 
-**Profe Lápiz**: ¿Me ves? (Click) ¿Ahora no? (Click) ¿Ahora sí?
+**Profe Lápiz**: "Es muy importante decidirlo antes de empezar. Porque la sombra es tímida. Siempre se esconde del sol."
 
-**Profe Lápiz**: La luz es la tinta invisible. Sin ella, no vemos nada.
-Pero en el dibujo, tú eres quien controla el sol. ¡Tú eres el jefe!
+**Profe Lápiz**: "Si el sol te pega en la cara, tu sombra está en tu espalda. Si el sol te pega en la espalda, tu sombra está en tu cara."
 
-**Profe Lápiz**: Antes de poner tu lápiz en el papel para hacer sombras, tienes que hacerte la pregunta del millón:
-**¿Dónde está la luz?**
-
-**Profe Lápiz**: Imagina que la luz es una flecha. Si la flecha golpea la pelota por la derecha, la sombra se esconde a la izquierda. ¡La sombra siempre huye de la luz! Son enemigos.
-
-**Profe Lápiz**: Así que dibuja una flechita en tu papel. Esa será tu brújula. ¡Que no se pierdan tus sombras!
+**Profe Lápiz**: "Dibuja una flechita en tu papel para no olvidarlo. ¡Que no se te pierdan las sombras!"

@@ -1,17 +1,15 @@
-# Guion: Manchas divertidas (Tinta y imaginación)
+# Guion: Manchas Divertidas
 
-**(Sonido de soplido fuerte fuuuuuu y gotas cayendo plop)**
+**(Efecto de sonido: Soplido fuerte y risas)**
 
-**Profesor**: "¡Ups! Se me cayó la tinta. ¿Arruiné el dibujo?"
+**Profesor**: "¡Uy, qué desastre! Se me cayó la pintura. ¿Creen que arruiné mi dibujo?"
 
-**Profesor**: "¡NO! En el arte, los accidentes son regalos. Hoy vamos a manchar a propósito."
+**Profesor**: "¡Para nada! En el arte, no hay errores, solo accidentes felices. Hoy vamos a manchar a propósito."
 
-**Profesor**: "¿Han mirado las nubes y visto formas de animales? Eso se llama Pareidolia. Es cuando tu cerebro juega a imaginar."
+**Profesor**: "Vamos a hacer **Monstruos de Viento**. Necesitamos pintura muy líquida y un popote."
 
-**Profesor**: "Vamos a hacer monstruos de viento. Pongan una gota de pintura y... ¡SOPLEN con el popote! ¡Fuuuuuu!"
+**Profesor**: "Ponen una gota gorda y... ¡SOPLEN! FFFFFFUUUUUU. Miren como le salen patas y raíces a la mancha. ¡Parece un virus o una araña!"
 
-**(Sonido de burbujas)**
+**Profesor**: "Ahora viene la parte divertida: La **Pareidolia**. Es una palabra rara que significa 'ver caras en las cosas'. Miren su mancha. Giren la hoja."
 
-**Profesor**: "Miren como corre la tinta. Parecen raíces, o patas de araña, o pelo loco. ¡Nadie sabe qué va a salir!"
-
-**Profesor**: "Una vez que se seque, tomen su plumón. Esa mancha... ¿tiene cara de enojada o de feliz? Ustedes deciden. ¡Denle vida a la mancha!"
+**Profesor**: "¿Ven una nariz? ¿Ven una cola? ¡Dibújenla! Ustedes completan lo que la mancha empezó. ¡A ver qué monstruos nacen hoy!"

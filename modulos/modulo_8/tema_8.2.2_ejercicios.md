@@ -1,36 +1,34 @@
-# Ejercicios: Yo Mismo
+# Ejercicios: Yo Soy Yo
 
-## Ejercicio 1: La Mitad Perdida
+## Ejercicio 1: El Huevo Humano
 
-**Objetivo**: Entender la simetría y proporciones.
-**Tiempo**: 20 minutos.
+**Objetivo**: Proporciones correctas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Busca una foto tuya de frente (tipo pasaporte).
-2. Pídele a un adulto que la corte justo por la mitad (verticalmente).
-3. Pega una mitad en tu hoja de dibujo.
-4. Tu misión es dibujar la otra mitad.
-5. Fíjate bien: ¿Dónde está el ojo? ¿A qué altura está la oreja en la foto? Copia esas alturas.
+1. Dibuja un óvalo grande (Huevo invertido).
+2. Traza una línea suave a la **MITAD** horizontal.
+3. Dibuja los ojos en esa línea.
+4. A la mitad de abajo, pon la nariz.
+5. Debajo de la nariz, la boca.
+6. Dibuja las orejas (del ojo a la nariz).
+7. Ponle cuello ancho.
 
----
+## Ejercicio 2: El Espejo
 
-## Ejercicio 2: El Espejo Mágico
+**Objetivo**: Observación.
 
-**Objetivo**: Dibujando del natural.
-**Tiempo**: 30 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Siéntate frente al espejo.
+2. Dibuja tu cara usando las reglas del Ejercicio 1.
+3. Agrega TUS detalles: ¿Usas lentes? ¿Tienes pecas? ¿Pelo largo o corto?
+4. No te preocupes si no queda idéntico. ¡Es una práctica!
 
-1. Siéntate frente a un espejo grande.
-2. Dibuja un óvalo para tu cabeza (¡no lo hagas pequeño como una uva!).
-3. Marca la línea de los ojos justo a la MITAD del óvalo.
-4. Dibuja tus ojos en esa línea.
-5. Dibuja tu nariz y boca.
-6. Dibuja tu pelo (recuerda que el pelo tiene volumen, está fuera del cráneo).
+## Ejercicio 3: La Mitad
 
-### Criterios de Éxito
-
-- [ ] Los ojos están a la mitad de la cara (no en la frente).
-- [ ] Dibujaste cuello (la cabeza no flota).
-- [ ] Dibujaste tus "imperfecciones" especiales (lunares, pecas, dientes).
+**Instrucciones**:
+Toma una foto de una cara de una revista.
+Córtala a la mitad.
+Pégala en tu hoja y dibuja la otra mitad que falta.
+¡Es el mejor entrenamiento para el cerebro!

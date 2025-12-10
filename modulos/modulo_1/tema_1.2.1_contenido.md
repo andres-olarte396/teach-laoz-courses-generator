@@ -78,5 +78,6 @@ Solo la forma principal.
 3. **Ventanas Chuecas**: Ventanas de diferentes tamaños. (Usa líneas guía imaginarias).
 
 ## Galería de Inspiración
+
 ![Mi Primera Casa](./tema_1.2.1_extra_casa.svg)
 ![Parque de Formas](./tema_1.2.1_extra_parque.svg)

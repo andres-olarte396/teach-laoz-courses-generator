@@ -1,23 +1,13 @@
-# Guion: Somos Robots
+# Guion: Somos de Piezas
 
-**Personaje**: El Profe Lápiz bailando como robot
-**Duración**: 2 minutos
+**(Sonido de robot: Bip... Bop...)**
 
----
+**Profe Lápiz**: "¡Saludos terrícolas! Hoy vamos a construir humanos."
 
-**(Sonido electrónico - Bip bop bip)**
+**Profe Lápiz**: "Muchas personas dibujan 'Monitos de Palitos'. Una bolita y cuatro rayas. ¡Eso es muy aburrido!"
 
-**Profe Lápiz**: ¡Hola humanos!
-A veces, para dibujar una persona real, primero tienes que dibujar un robot.
+**Profe Lápiz**: "Ustedes no son planos. ¡Tienen carne! Tienen volumen."
 
-**Profe Lápiz**: Muchos niños dibujan palitos. Una bolita y 4 palitos.
-Pero tú no eres un palito, ¿verdad?
-Tócate el brazo. ¡Es gordito! Tienes carne, hueso y músculo. Tienes volumen.
+**Profe Lápiz**: "Así que vamos a dibujar 'Monitos de Tubos'. Un tubo para el brazo, una caja para la panza, un huevo para la cabeza."
 
-**Profe Lápiz**: Así que en lugar de palitos, vamos a dibujar tubos y cajas.
-Una caja para el pecho (el motor).
-Un huevo para la cabeza (la computadora).
-Y tubos para movernos.
-
-**Profe Lápiz**: Si aprendes a dibujar este robot simple, podrás vestirlo de lo que quieras: de princesa, de futbolista o de astronauta.
-¡Pero primero, construye el robot!
+**Profe Lápiz**: "Si aprendes a dibujar este robot, luego podrás ponerle ropa de superhéroe, de doctor o de futbolista. ¡Pero primero necesitamos el robot!"

@@ -1,34 +1,24 @@
-# Evaluación: Anatomía Básica
+# Evaluación: Inspector de Robots
 
-**Tipo**: Identificación de Errores
+## Pregunta 1
 
----
+¿De dónde salen los brazos?
 
-## 1. Brazos Extraños
+- A) De la cintura (panza).
+- B) De los hombros (esquinas de arriba).
 
-Mira estos dibujos. ¿Cuál es el CORRECTO?
-a) Los brazos le salen de las orejas.
-b) Los brazos le salen de la cintura.
-c) Los brazos le salen de las esquinas de arriba del tronco (hombros).
+## Pregunta 2
 
-## 2. El Cuello Desaparecido
+¿Qué es el "Tronco" o cuerpo?
 
-Verdadero o Falso:
-"La cabeza puede flotar encima del cuerpo sin tocarlo".
-( ) Verdadero.
-( ) Falso (Necesita un cuello).
+- A) Un palito flaco (`|`).
+- B) Una caja o rectángulo con volumen.
 
-## 3. Práctica de Observación
+## Reto
 
-Párate y baja los brazos. ¿Hasta dónde llegan tus manos?
-a) Hasta las rodillas (como un gorila).
-b) Hasta la mitad del muslo (un poco abajo de la cintura).
-c) Hasta el suelo.
+Párate frente al espejo.
+Baja los brazos.
+¿Tus manos llegan hasta tus rodillas?
 
----
-
-## Respuestas
-
-1: c
-2: Falso
-3: b
+- [ ] Sí (¡Eres un gorila!).
+- [ ] No, llegan un poco más arriba (¡Eres humano!).

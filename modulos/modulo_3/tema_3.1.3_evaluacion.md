@@ -1,37 +1,30 @@
-# Evaluación: Frutas y verduras
+# Evaluación: Inspector de Calidad
 
 ## Pregunta 1
 
-¿Qué diferencia una forma **orgánica** (como una pera) de una forma **geométrica** (como una caja)?
+¿Qué es una "Forma Orgánica"?
 
-- A) Las formas orgánicas suelen ser irregulares, curvas y asimétricas.
-- B) Las formas orgánicas son siempre verdes.
-- C) Las formas geométricas son más sabrosas.
+- A) Una forma recta y perfecta hecha por máquinas.
+- B) Una forma curva, natural e irregular (como las cosas vivas).
 
 ## Pregunta 2
 
-Al dibujar el tallo de una manzana, ¿cuál es el error común que debemos evitar?
+¿Cómo se dibuja correctamente el tallo de una fruta?
 
-- A) Dibujarlo muy largo.
-- B) Dibujarlo "pegado" encima de la fruta en lugar de saliendo de una cavidad (hundimiento).
-- C) Dibujarlo de color café.
+- A) Pegado encima como una vela.
+- B) Saliendo de un hundimiento (hoyo).
 
-## Pregunta 3
+## Reto de Sombra
 
-Para que una fruta dibujada no parezca que está "flotando" en el aire, ¿qué debemos agregar?
+Dibuja una naranja en la mesa.
+¿Te acordaste de dibujar la **Sombra Negra** abajo para que no flote?
 
-- A) Unas alas.
-- B) Una sombra de apoyo (sombra proyectada) en la base donde toca la mesa.
-- C) Un fondo de estrellas.
+- [ ] ¡Ups, olvidé la sombra! (Ahora vuela).
+- [ ] Sí, le puse sombra y se ve pesada.
 
-## Pregunta 4
+## Pregunta Final
 
-Verdadero o Falso:
-"Las frutas perfectas y simétricas (como emojis) se ven más reales en un dibujo artístico que las frutas con pequeñas imperfecciones."
+¿Está mal si mi dibujo de la manzana me quedó un poco chueco?
 
-- ( ) Verdadero
-- ( ) Falso (Las imperfecciones dan realismo y carácter).
-
-## Ejercicio Rápido
-
-Dibuja un plátano usando "bloques" o líneas rectas primero para marcar sus planos, y luego suavízalo. ¡No olvides las manchitas de madurez!
+- A) Sí, debe ser un círculo perfecto.
+- B) ¡No! Las manzanas reales son chuecas. Está perfecto.

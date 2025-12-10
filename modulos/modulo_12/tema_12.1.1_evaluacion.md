@@ -1,37 +1,33 @@
-# Evaluación: Lluvia de ideas y bocetos
+# Evaluación: Lluvia de Ideas
 
-## Pregunta 1
+## Pregunta 1: El Mapa
 
-¿Qué es un **Thumbnail** o Miniatura en el arte?
+¿Por qué hacemos bocetos pequeños (Miniaturas) antes del dibujo final?
 
-- A) Un dibujo de un dedo pulgar.
-- B) Un boceto muy pequeño y rápido para probar la composición y las ideas.
-- C) Un dibujo terminado y enmarcado.
+* A) Para probar ideas y composiciones sin arruinar el papel caro.
+* B) Para gastar la tinta de los plumones.
+* C) Porque nos gusta trabajar doble.
 
-## Pregunta 2
+## Pregunta 2: Selección
 
-¿Por qué se recomienda hacer varios bocetos antes de empezar la obra final?
+Si tienes 3 ideas para tu dibujo, ¿cuál deberías elegir?
 
-- A) Porque la primera idea suele ser la más común/aburrida y necesitamos explorar más opciones.
-- B) Para gastar lápiz.
-- C) Para aburrirnos.
+* A) La primera que se te ocurrió (la más fácil).
+* B) La que más te emocione y te divierta, después de compararlas todas.
+* C) La que tenga menos líneas.
 
-## Pregunta 3
+## Pregunta 3: El Boceto
 
-Si estás haciendo una prueba de color y no te gusta cómo se ve la combinación...
+¿Cómo debe ser el trazo de un boceto de prueba?
 
-- A) Te pones a llorar porque ya arruinaste el lienzo final.
-- B) ¡Te alegras! Porque lo descubriste en la prueba y ahora puedes cambiarlo antes de pintar el dibujo importante.
-- C) Sigues pintando igual.
+* A) Perfecto, limpio y fuerte.
+* B) Rápido, suelto y sin miedo a equivocarse.
+* C) Invisible.
 
-## Pregunta 4
+## Pregunta 4: Color
 
-Verdadero o Falso:
-"Los bocetos tienen que ser perfectos, con líneas limpias y muchos detalles."
+¿Es buena idea probar los colores en un papel aparte antes de pintar el dibujo final?
 
-- ( ) Verdadero
-- ( ) Falso (Deben ser sucios, rápidos y enfocados en la estructura general, no en los detalles).
-
-## Ejercicio Rápido
-
-Dibuja 3 rectángulos diminutos. En 1 minuto, dibuja 3 formas diferentes de colocar una **Manzana** y una **Botella** dentro de ellos.
+* A) Sí, para ver si combinan bien o si el plumón traspasa el papel.
+* B) No, es mejor que sea una sorpresa (aunque salga mal).
+* C) Solo si usas color rojo.

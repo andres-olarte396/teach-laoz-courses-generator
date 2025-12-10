@@ -1,38 +1,32 @@
-# Ejercicios: La Calle Realista
+# Ejercicios: Ingeniero de Ciudad
 
-## Ejercicio 1: Mi Propia Calle
+## Ejercicio 1: La Calle Maestra
 
-**Objetivo**: Aplicar perspectiva a una escena urbana.
-**Tiempo**: 30 minutos.
+**Objetivo**: Dibujo completo.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja Horizontal y Punto de Fuga (PF) al centro.
-2. Dibuja las líneas diagonales para la calle.
-3. Dibuja dos edificios grandes a los lados (uno izquierda, uno derecha).
-   - Recuerda: Paredes verticales RECTAS. Techos y bases van al PF.
-4. Agrega puertas y ventanas siguiendo las líneas de fuga.
-5. Agrega una acera (banqueta).
-6. **Reto**: Dibuja un paso de cebra en el suelo. Las líneas blancas horizontales se van juntando más mientras más lejos están.
+1. **Estructura**: Horizonte, Punto de Fuga, Líneas de piso.
+2. **Edificio Izquierda**: Dibuja un rectángulo alto. Conecta su techo al Punto.
+3. **Edificio Derecha**: Dibuja una casa baja. Conecta su techo al Punto.
+4. **Detalles**:
+    * Dibuja una puerta (recuerda: el marco de arriba apunta al Punto).
+    * Dibuja la banqueta (acera).
+    * Dibuja las líneas de la calle.
 
----
+## Ejercicio 2: El Pasillo de la Escuela
 
-## Ejercicio 2: El Túnel del Tiempo
+**Objetivo**: Interiores.
 
-**Objetivo**: Perspectiva interior.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un cuadrado grande. Pon el Punto en el centro.
+2. Tira líneas desde el punto pasando por las 4 esquinas del cuadrado.
+3. ¡Ahora estás dentro de un túnel cuadrado!
+4. Dibuja casilleros o cuadros en las paredes.
+5. Recuerda: Todo se hace chiquito hacia el centro.
 
-1. Dibuja un cuadrado grande. Este es el fondo de un pasillo.
-2. Pon el PF en el centro del cuadrado.
-3. Tira líneas desde el PF pasando por las esquinas del cuadrado hacia afuera.
-4. Ahora tienes paredes, techo y piso.
-5. Dibuja cuadros colgados en las paredes. (Recuerda fugarlos).
-6. Dibuja una alfombra larga en el piso.
+## Reto Pro
 
-### Criterios de Éxito
-
-- [ ] Las líneas verticales son paralelas al borde del papel.
-- [ ] Las líneas de profundidad convergen en el punto.
-- [ ] Los objetos lejanos tienen menos detalle.
+Dibuja un poste de luz al frente y una fila de postes yendose al fondo.
+¿Lograste que se hagan chiquitos?

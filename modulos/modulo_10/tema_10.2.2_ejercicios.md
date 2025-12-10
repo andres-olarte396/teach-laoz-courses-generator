@@ -1,42 +1,48 @@
-# Ejercicios: La Ciudad del Futuro
+# Ejercicios: Arquitecto del Mañana
 
-## Ejercicio 1: Formas Arquitectónicas
+---
 
-**Objetivo**: Diseñar edificios que no sean cajas rectangulares.
+## Ejercicio 1: Transformación de Objetos
 
-**Instrucciones**:
-
-1. Dibuja 3 objetos simples en tu hoja: Un Huevo, Una Dona (Torust), Un Cono de helado invertido.
-2. Conviértelos en edificios gigantes:
-    * **Edificio Huevo**: Añade ventanitas ovaladas y una puerta en la base.
-    * **Edificio Dona**: Añade antenas arriba y pilares abajo que lo sostienen.
-    * **Edificio Cono**: La punta toca el suelo y se ensancha hacia arriba. Añade plataformas de aterrizaje en el techo plano.
-
-## Ejercicio 2: Conexiones Aéreas
-
-**Objetivo**: Crear una red urbana vertical.
+**Objetivo**: Ver formas arquitectónicas en objetos cotidianos.
 
 **Instrucciones**:
 
-1. Dibuja dos torres altas y delgadas, separadas entre sí.
-2. Conéctalas con **Puentes Aéreos** (Skybridges) en diferentes niveles.
-    * Un puente recto y tecnológico.
-    * Un puente curvo de cristal.
-    * Un tubo de transporte transparente.
-3. Añade pequeños vehículos voladores pasando por debajo de los puentes.
+1. Busca 3 objetos en tu casa (Ej: Una botella de champú, una grapadora, una pila de libros).
+2. Dibújalos en tu papel pero GIGANTES.
+3. Añádeles detalles para volverlos edificios:
+    * **Botella** -> Rascacielos con ventanas curvas.
+    * **Grapadora** -> Estación de naves espaciales (Hangar).
+    * **Pila de libros** -> Apartamentos modulares.
+4. ¡Ponles una antenita arriba y listo!
 
-## Ejercicio 3: Estilo Cyberpunk vs Solarpunk
+---
 
-**Objetivo**: Practicar dos estéticas futuristas opuestas.
+## Ejercicio 2: El Reto de la Escala
+
+**Objetivo**: Hacer que algo se vea enorme usando referencias.
 
 **Instrucciones**:
 
-1. Divide la hoja en dos mitades.
-2. **Lado A (Cyberpunk)**:
-    * Dibuja de noche.
-    * Muchos cables colgando, carteles de neón, humo, edificios oscuros y sucios.
-    * Colores: Negro, Rosa Neón, Azul Eléctrico.
-3. **Lado B (Solarpunk)**:
-    * Dibuja de día.
-    * Edificios blancos y curvos, muchos árboles y cascadas en los balcones, paneles solares brillantes.
-    * Colores: Blanco, Verde, Azul Cielo.
+1. Dibuja un rectángulo vertical muy alto (tu edificio).
+2. No le pongas ventanas todavía.
+3. Dibuja una **hormiguita** (que representa a una persona) en la base. ¡Apenas se ve!
+4. Dibuja una **nave pequeña** volando a la mitad de la altura.
+5. Ahora añade las ventanas. Tienen que ser pequeñitas para coincidir con el tamaño de la "persona".
+6. ¿Ves lo GRANDE que se ve ahora?
+
+---
+
+## Ejercicio 3: Tu Ciudad Soñada
+
+**Objetivo**: Aplicar el estilo Solarpunk o Cyberpunk.
+
+**Instrucciones**:
+
+1. Elige tu bando: **Verde** (Solarpunk) o **Neón** (Cyberpunk).
+2. Dibuja una vista de tu ciudad.
+3. **Regla de Oro**: ¡Nada toca el suelo!
+    * Edificios conectados por puentes.
+    * Autos volando.
+    * Jardines flotantes.
+4. Llena el espacio. Una ciudad del futuro está llena de cosas.

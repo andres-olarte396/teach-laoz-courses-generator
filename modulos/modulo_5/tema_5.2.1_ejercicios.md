@@ -1,34 +1,34 @@
-# Ejercicios: Sombreado a Rayas (Hatching)
+# Ejercicios: Tejido de Sombras
 
-## Ejercicio 1: La Escalera de Rayas
+## Ejercicio 1: La Red de Araña
 
-**Objetivo**: Crear tonos usando densidad de líneas.
-**Tiempo**: 15 minutos.
+**Objetivo**: Aprender a oscurecer cruzando líneas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 4 cuadros.
-2. Cuadro 1: Haz líneas muy separadas `|   |   |`. (Gris claro).
-3. Cuadro 2: Haz líneas más juntas `||||||`. (Gris medio).
-4. Cuadro 3: Haz líneas verticales Y horizontales `######`. (Gris oscuro).
-5. Cuadro 4: Haz verticales, horizontales Y diagonales `******`. (Negro).
+1. Dibuja 3 cuadros.
+2. Cuadro 1: Llena de rayas verticales separadas `| | |`. (Se ve claro).
+3. Cuadro 2: Haz lo mismo, y luego pon rayas horizontales encima `+ + +`. (Se ve más oscuro).
+4. Cuadro 3: Haz verticales, horizontales y diagonales `* * *`. (¡Se ve casi negro!).
 
----
+## Ejercicio 2: La Serpiente Momia
 
-## Ejercicio 2: La Serpiente 3D
+**Objetivo**: Rayado Curvo (Contorno).
 
-**Objetivo**: Practicar el "Rayado de Contorno".
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja una serpiente larga (o un gusano).
+2. Imagina que la estás vendando como una momia.
+3. Dibuja rayitas curvas que envuelven su cuerpo.
+4. Pon más rayitas juntas en la parte de abajo (panza) para hacer la sombra.
+5. ¡Mira cómo se ve redonda!
 
-1. Dibuja una serpiente larga y curva (solo el borde).
-2. Ahora vamos a darle volumen.
-3. Dibuja líneas curvas que abracen su cuerpo, como si fueran anillos.
-4. Pon más líneas en la parte de abajo de la serpiente (sombra) y deja la parte de arriba casi vacía (luz).
+## Ejercicio 3: Sombrear sin Dedo
 
-### Criterios de Éxito
+**Objetivo**: Prohibido difuminar.
 
-- [ ] Tus líneas siguen la forma del objeto (curvas para la serpiente).
-- [ ] Hay zonas claras y zonas oscuras.
-- [ ] No parece sucio ni rayado al azar.
+**Instrucciones**:
+
+1. Dibuja una pelota.
+2. Sombréala usando SOLO rayitas cruzadas.
+3. Recuerda: Donde va la sombra oscura, pon MUCHAS rayitas encimadas. Donde va la luz, pon pocas o ninguna.

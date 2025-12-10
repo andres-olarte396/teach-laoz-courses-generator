@@ -1,35 +1,36 @@
-# Ejercicios: Los Tres Reyes (Colores Primarios)
+# Ejercicios: Entrenamiento de Jefes
 
-## Ejercicio 1: Cazadores de Colores
+## Ejercicio 1: Cazadores de Color
 
-**Objetivo**: Identificar primarios en el entorno.
-**Tiempo**: 10 minutos.
+**Objetivo**: Encontrar los primarios en la vida real.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Toma tu cuaderno y 3 lápices: Rojo, Amarillo, Azul.
-2. Camina por tu casa/aula.
-3. Encuentra 3 cosas ROJAS y dibújalas (Manzana, Camión de bomberos).
-4. Encuentra 3 cosas AMARILLAS y dibújalas (Sol, Plátano).
-5. Encuentra 3 cosas AZULES y dibújalas (Cielo, Pantalones).
+1. Toma tu cuaderno.
+2. Busca en tu casa 3 cosas **ROJAS** y dibújalas.
+3. Busca 3 cosas **AZULES** y dibújalas.
+4. Busca 3 cosas **AMARILLAS** y dibújalas.
 
----
+## Ejercicio 2: Arte Moderno (Mondrian)
 
-## Ejercicio 2: El Superhéroe Primario
+**Objetivo**: Usar colores puros sin salirte de la raya.
 
-**Objetivo**: Uso exclusivo de colores puros.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un rectángulo grande.
+2. Llénalo de rayas negras horizontales y verticales (como una reja loca).
+3. Escoge algunos cuadritos y píntalos de **ROJO** (aprieta fuerte el lápiz).
+4. Pinta otros de **AZUL**.
+5. Pinta otros de **AMARILLO**.
+6. Deja algunos BLANCOS.
+7. ¡Acabas de hacer una obra de arte famosa!
 
-1. Diseña un traje de superhéroe.
-2. REGLA DE ORO: Solo puedes usar Rojo, Amarillo y Azul.
-3. Puedes dejar partes blancas.
-4. Intenta que los colores no se toquen para que no se mezclen.
-5. ¡Ponle un nombre! (Ej: "Capitán Primario").
+## Ejercicio 3: El Superhéroe Tricolor
 
-### Criterios de Éxito
+**Objetivo**: Diseño de personajes.
 
-- [ ] Usaste colores puros (sin mezclar).
-- [ ] Tu superhéroe se ve brillante y fuerte.
-- [ ] No usaste verde, naranja ni morado.
+**Instrucciones**:
+
+1. Inventa un superhéroe.
+2. Solo puedes usar Rojo, Azul y Amarillo para su traje.
+3. ¡Mira qué fuerte se ve!

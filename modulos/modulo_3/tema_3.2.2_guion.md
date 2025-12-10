@@ -1,15 +1,13 @@
-# Guion: La regla del pulgar
+# Guion: El Brazo de Robot
 
-**(Sonido de música de misión imposible o espías)**
+**(Sonido robótico: Beep-boop-beep)**
 
-**Profesor**: "Para la misión de hoy, necesitas activar tu visión láser. ¿Has visto a los pintores cerrar un ojo y levantar el lápiz? No están saludando a nadie. Están... ¡MIDIENDO!"
+**Profe Lápiz**: "Activando modo robot. Brazo estirado. Ojo cerrado. Objetivo localizado."
 
-**Profesor**: "Tu lápiz es una regla mágica. Pero tiene reglas estrictas."
+**Profe Lápiz**: "¿Saben qué estoy haciendo? Estoy usando la Regla del Pulgar. Es el truco espía de los artistas."
 
-**Profesor**: "Regla número 1: Brazo de robot. Tienes que estirar el brazo COMPLETAMENTE. Si doblas el codo, la medida cambia y fallas la misión."
+**Profe Lápiz**: "Si quiero dibujar esa puerta, no saco una cinta métrica. Uso mi lápiz. Mido el ancho... y veo que cabe dos veces en la altura."
 
-**Profesor**: "Regla número 2: Cierra un ojo. Siempre el mismo. ¡Prueba ahora! Mira esa puerta. Pon la punta del lápiz en un lado de la puerta y tu dedo pulgar en el otro."
+**Profe Lápiz**: "Así sé que tengo que dibujar un rectángulo que sea el doble de alto que de ancho. ¡Matemáticas visuales! Y nadie se da cuenta."
 
-**Profesor**: "¡Congela el dedo! Ahora gira el lápiz. ¿Cuántas veces cabe ese ancho en la altura de la puerta? ¿Dos veces? ¿Tres?"
-
-**Profesor**: "Si en la vida real cabe dos veces... ¡en tu dibujo tiene que caber dos veces también! Así es como los artistas hacen que las cosas se vean perfectas sin usar una regla de verdad."
+**Profe Lápiz**: "¡Inténtenlo! Brazo de robot... ¡YA!"

@@ -1,35 +1,23 @@
-# Evaluación: Luz y Sombra
+# Evaluación: Examen de Luz
 
-**Tipo**: Razonamiento Visual
+## Pregunta 1
 
----
+Si la luz viene de la IZQUIERDA, la sombra está a la...
 
-## 1. Regla de Oro
+- A) Derecha.
+- B) Izquierda también.
 
-Completa la frase:
-"La sombra siempre está en el lado _______________ a la luz."
-a) Opuesto
-b) Mismo
+## Pregunta 2
 
-## 2. El Sol de Mediodía
+¿Qué hace que un dibujo se vea plano (como estampa) o con volumen (gordito)?
 
-Si el sol está JUSTO ARRIBA de ti (mediodía):
-¿Cómo es tu sombra?
-a) Muy larga y estirada.
-b) Cortita y debajo de tus pies.
+- A) El color rojo.
+- B) La luz y la sombra.
 
-## 3. Reto de Observación
+## Reto
 
-Pon una pelota (o una naranja) en una mesa.
-Ilumínala desde la DERECHA.
-¿Dónde está la parte más oscura de la pelota?
-a) A la derecha (mirando la luz).
-b) A la izquierda (escondida de la luz).
+Pon tu mano sobre la mesa. Mira la sombra.
+¿De dónde viene la luz de tu cuarto?
 
----
-
-## Respuestas
-
-1: a
-2: b
-3: b
+- [ ] Viene de arriba (foco del techo).
+- [ ] Viene de lado (ventana).

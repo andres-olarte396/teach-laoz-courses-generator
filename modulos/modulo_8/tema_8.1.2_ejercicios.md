@@ -1,39 +1,32 @@
-# Ejercicios: ¡Acción
+# Ejercicios: Olimpiadas de Dibujo
 
-## Ejercicio 1: Olimpiadas de Palitos
+## Ejercicio 1: Palitos Extremos
 
-**Objetivo**: Capturar la energía del movimiento.
-**Tiempo**: 15 minutos.
+**Objetivo**: Dibujar movimiento rápido.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 5 muñecos de palitos (cabeza de bolita, cuerpo de línea).
-2. Tienen que estar haciendo deportes extremos:
-   - Uno corriendo a toda velocidad.
-   - Uno saltando muy alto.
-   - Uno cayéndose de espaldas.
-   - Uno bailando disco.
-   - Uno peleando karate.
-3. ¡Exagera! Si corre, separa mucho las piernas. Si salta, dobla mucho las rodillas.
+1. Dibuja 5 muñecos de palitos (sin cuerpo gordo).
+2. Tienen que estar haciendo deportes locos:
+    * Karate.
+    * Salto de altura.
+    * Corriendo de un perro.
+3. **Regla**: ¡Ninguna línea del cuerpo puede ser recta vertical! Tércelas todas.
 
----
+## Ejercicio 2: Vistiendo al Atleta
 
-## Ejercicio 2: De Palito a Robot
+**Objetivo**: Dar volumen a la acción.
 
-**Objetivo**: Dar volumen a una pose dinámica.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
-
-1. Elige tu Stickman favorito del ejercicio anterior.
-2. Dibuja encima de los palitos usando cilindros (tubos) y cajas.
-   - La línea del cuerpo se convierte en un rectángulo flexible.
-   - Los palitos de brazos y piernas se convierten en tubos.
-3. Ahora tienes un robot haciendo deporte.
+1. Elige tu mejor palito del ejercicio anterior.
+2. Dibuja los tubos y cajas (el robot) ENCIMA de las líneas.
+3. Ahora tienes un personaje 3D en una pose de acción.
 4. Borra los palitos de adentro.
 
-### Criterios de Éxito
+## Ejercicio 3: La Estatua Aburrida
 
-- [ ] El personaje no se ve rígido (parece que se mueve).
-- [ ] Las articulaciones (codos/rodillas) se doblan hacia el lado correcto.
-- [ ] Mantuviste las proporciones (cabeza y cuerpo del tamaño correcto).
+**Instrucciones**:
+Dibuja a un personaje parado totalmente recto y rígido.
+Ahora dibuja al lado al mismo personaje en pose de superhéroe (piernas abiertas, pecho fuera).
+¿Cuál se ve más genial?

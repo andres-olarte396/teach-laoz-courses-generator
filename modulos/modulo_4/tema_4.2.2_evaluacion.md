@@ -1,32 +1,31 @@
-# Evaluación: Psicología del Color
+# Evaluación: El Congelador
 
-**Tipo**: Asociación de Emociones
+## Pregunta 1
 
----
+¿Cuáles son los colores fríos?
 
-## 1. El Director de Cine
+- A) Rojo, Naranja, Amarillo.
+- B) Azul, Verde, Morado.
 
-Quieres filmar una escena donde el personaje está TRISTE y SOLO bajo la lluvia.
-¿Qué filtro de color le pones a la cámara?
-a) Tono anaranjado y cálido.
-b) Tono azulado y grisáceo.
+## Pregunta 2
 
-## 2. Paleta de Personajes
+Si quiero dibujar algo que está MUY LEJOS (como una montaña), ¿de qué color se ve?
 
-- Si dibujo un **Monstruo de Lava**, uso colores: (Cálidos / Fríos)
-- Si dibujo un **Fantasma en un Cementerio**, uso colores: (Cálidos / Fríos)
+- A) Azulada y borrosa (Colores fríos).
+- B) Roja brillante.
 
-## 3. Reto de la Sombra
+## Pregunta 3
 
-Dibuja una manzana roja.
-Ahora hazle la sombra. ¿Qué color funciona mejor para una sombra profunda y rica?
-a) Negro puro.
-b) Morado oscuro (Frío).
+¿Qué color es mejor para las sombras que el negro?
 
----
+- A) Amarillo.
+- B) Morado o Azul Oscuro.
 
-## Respuestas
+## Reto
 
-1: b
-2: Cálidos, Fríos
-3: b
+Dibuja dos caritas felices.
+
+- Pinta una de **Amarillo y Naranja**.
+- Pinta la otra de **Azul y Verde**.
+¿Cuál se ve más alegre? (La cálida).
+¿Cuál se ve más tranquila? (La fría).

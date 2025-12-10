@@ -1,100 +1,83 @@
 # Lluvia de ideas y bocetos
 
+![Ilustración de Lluvia de Ideas](./tema_12.1.1_header.svg)
+
 **Tiempo estimado**: 45 minutos  
 **Nivel**: Todos (6+ años)  
-**Prerrequisitos**: Módulos 0-11
+**Concepto Clave**: Planificación (El Mapa del Tesoro)
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. El Secreto Profesional: ¡No Empieces Todavía
 
-Un edificio no se construye sin planos. Una película no se filma sin guion. Y una Gran Obra Maestra no se pinta sin planear.
+Imagina que un arquitecto empieza a poner ladrillos sin tener los planos de la casa. ¡La casa se caería!
+En el dibujo es igual.
+Si te lanzas directo al papel final, te vas a frustrar porque "la cabeza quedó muy grande" o "me faltó espacio para los pies".
 
-Muchos niños (y adultos) se lanzan directo al papel final y luego se frustran porque "no cupo el dibujo" o "me equivoqué".
-Los artistas profesionales gastan el 50% del tiempo PENSANDO antes de tocar el lienzo.
-
----
-
-## Comprensión intuitiva
-
-### El Mapa del Tesoro
-
-Tu dibujo final es el tesoro.
-Los bocetos son el mapa para llegar ahí sin perderte.
-Si te equivocas en el boceto, ¡genial! Es papel barato. Mejor equivocarse ahí que en tu cartulina cara.
+**El 50% del éxito es pensar antes de dibujar.**
 
 ---
 
-## Paso a paso: La Tormenta de Ideas
+## 2. La Técnica de las Pulgares (Thumbnails)
 
-### Paso 1: La Pregunta Mágica
+Los artistas de cine y videojuegos hacen dibujos pequeñitos (del tamaño de un pulgar) para probar ideas rápido.
+Se llaman **Bocetos Miniatura**.
 
-¿Qué te gusta MÁS?
-No dibujes lo que crees que al maestro le gustará. Dibuja lo que tú amas.
-
-- ¿Dragones espaciales?
-- ¿Gatos comiendo pizza?
-- ¿Un paisaje de dulces?
-Escribe 3 ideas en un papel.
-
-### Paso 2: Thumbnails (Uñas de pulgar)
-
-Dibuja 4 rectángulos pequeñitos (del tamaño de un timbre postal o uña) en una hoja sucia.
-Haz garabatos rápidos de tus ideas.
-
-- Idea A: El dragón volando.
-- Idea A2: El dragón durmiendo.
-- Idea B: La pizza gigante.
-No tienen que verse bonitos, solo son para ver la COMPOSICIÓN (dónde van las cosas).
-
-### Paso 3: El Boceto Ganador
-
-Elige tu miniatura favorita.
-Dibújala en tamaño real en una hoja de práctica.
-Aquí resuelves los problemas difíciles: "¿Cómo dibujo esa mano?", "¿Qué tan grande es el árbol?".
+* Son feos.
+* Son rápidos (30 segundos).
+* ¡Son geniales! Porque si te equivocas, no duele.
 
 ---
 
-## Ejercicios prácticos
+## 3. Paso a paso: La Tormenta Creativa
 
-### Ejercicio 1: El Desafío de 3 Minutos
+### Paso 1: Lluvia de Ideas (Brainstorming)
 
-**Instrucciones**:
+Escribe 3 cosas que te encanten:
 
-1. Tienes 3 minutos para bocetar 3 versiones diferentes de "Tu Casa".
-    - Versión 1: Desde el frente (normal).
-    - Versión 2: Desde arriba (vista de pájaro).
-    - Versión 3: Casa embrujada o futurista.
-2. Elige la mejor.
+1. Dinosaurios.
+2. Helado.
+3. El espacio.
+¿Puedes mezclarlas? -> "Un T-Rex astronauta comiendo helado en la Luna". ¡Esa es una gran idea!
 
-### Ejercicio 2: Probando materiales
+### Paso 2: Miniaturas
 
-**Instrucciones**:
-En tu hoja de práctica, prueba los colores que vas a usar.
+En una hoja sucia, dibuja 4 cuadritos pequeños.
+Dibuja tu idea de 4 formas diferentes:
 
-- "¿Este azul se ve bien con este verde?"
-- "¿Uso lápiz o acuarela?"
-Es mejor descubrir que los colores no combinan AHORA, no en la obra final.
+* A) De cerca (Solo la cara del T-Rex).
+* B) De lejos (Se ve toda la Luna).
+* C) Desde arriba.
+* D) Desde abajo.
 
----
+### Paso 3: El Elegido
 
-## Errores comunes y soluciones
+Elige el mejor cuadrito.
+Dibújalo en tamaño real en una hoja de práctica.
 
-### ❌ Error 1: Enamorarse del primer boceto
-
-**Problema**: Hacer un solo dibujo y decir "ya está".
-**Verdad**: La primera idea casi nunca es la mejor. Es la más obvia.
-**Solución**: Oblígate a hacer al menos 3 versiones. A veces la tercera es la genial.
-
-### ❌ Error 2: Bocetar demasiado fuerte
-
-**Problema**: Dibujar el boceto presionando el lápiz como si fuera el final.
-**Solución**: El boceto es suave, fantasmagórico. Se tiene que poder borrar fácil o cubrir con pintura.
+* Aquí resuelves los problemas: "¿Cómo dibujo el casco espacial?".
+* Prueba los colores.
 
 ---
 
-## Reflexión final
+## 4. Errores Comunes
 
-Planear no es aburrido, es estratégico. Te da confianza. Cuando empieces tu obra final, no tendrás miedo a la hoja en blanco, porque ya sabes exactamente qué vas a hacer. Eres un general entrando a la batalla con un plan perfecto.
+### ❌ Error: "Me caso con la primera idea"
 
-**Práctica diaria**: Antes de dormir, visualiza en tu mente qué vas a dibujar mañana. ¡Eso también es bocetar (mentalmente)!
+* **Problema**: Dibujar lo primero que se te ocurre.
+* **Verdad**: La primera idea suele ser la más aburrida.
+* **Solución**: Oblígate a pensar 3 opciones. A veces la última es la más loca y divertida.
+
+### ❌ Error: "Boceto de Hierro"
+
+* **Problema**: Dibujar el boceto presionando fuerte el lápiz.
+* **Solución**: El boceto debe ser como un fantasma. Apenas visible. Si no lo puedes borrar fácil, estás presionando mucho.
+
+---
+
+## 5. Resumen Visual
+
+1. **Piensa**: Mezcla temas.
+2. **Prueba**: Dibujos chiquitos.
+3. **Elige**: El mejor diseño.
+4. **Practica**: En hoja sucia antes de la final.

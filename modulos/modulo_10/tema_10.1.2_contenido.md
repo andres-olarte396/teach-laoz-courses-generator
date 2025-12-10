@@ -1,106 +1,68 @@
-# Híbridos imposibles
+# Híbridos Imposibles
+
+![Ilustración de Híbridos](./tema_10.1.2_header.svg)
 
 **Tiempo estimado**: 40 minutos  
 **Nivel**: Creativo (8+ años)  
-**Prerrequisitos**: Módulo 9 (Animales)
+**Técnica Clave**: Texturas de Transición (La Costura Invisible)
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. ¿Qué es un Híbrido?
 
-En la mitología antigua, casi todos los monstruos eran híbridos:
+Un híbrido es la fusión de dos cosas súper diferentes.
 
-- **Grifo**: Águila + León.
-- **Centauro**: Humano + Caballo.
-- **Sirena**: Humano + Pez.
-- **Pegaso**: Caballo + Pájaro.
+* Caballo + Humano = **Centauro**.
+* León + Águila = **Grifo**.
 
-Aprender a fusionar animales te enseña a controlar las transiciones. ¿Cómo conecto una piel de plumas con una de escamas sin que se vea como un recorte mal pegado?
-
----
-
-## Comprensión intuitiva
-
-### La Costura Invisible
-
-Para que un híbrido se vea "real", las partes no pueden simplemente chocar. Tienen que mezclarse.
-
-Si unes una cabeza de águila a un cuerpo de león:
-
-1. No hagas una línea recta en el cuello.
-2. Haz que las plumas del cuello bajen un poco sobre los hombros del león.
-3. Haz que el pelaje del león suba un poco hacia las plumas.
-4. La "zona de mezcla" debe ser suave o irregular.
+El problema es que, si solo dibujas una cabeza pegada a un cuerpo, parece un **recorte de revista**. ¡Se ve falso!
+Hoy aprenderemos a "coser" los animales para que parezca que nacieron así.
 
 ---
 
-## Técnica: El método del Dr. Frankenstein
+## 2. La Técnica: La Costura Invisible
 
-### Paso 1: Selección
+¿Cómo unes la piel suave de un humano con el pelo de un caballo?
+No uses una línea recta. Usa una **Zona de Mezcla**.
 
-Elige dos animales MUY diferentes (Contraste alto).
+### Las 3 Reglas de la Fusión
 
-- **Animal A**: Un Tiburón (Liso, marino, gris).
-- **Animal B**: Un Conejo (Peludo, terrestre, orejón).
-
-### Paso 2: Estructura Base
-
-Decide qué parte usas de cual.
-
-- Cuerpo de Tiburón / Cabeza de Conejo -> "El Tiburonejo".
-- Dibuja las formas básicas (óvalos y círculos) combinadas.
-
-### Paso 3: Unificación
-
-Aquí está el truco: **Elige una textura dominante**.
-
-- ¿El "Tiburonejo" tiene pelo o piel lisa?
-- **Opción A (Piel lisa)**: Dibuja la cabeza de conejo pero SIN pelo, lisa y gris como el tiburón. ¡Se ve escalofriante!
-- **Opción B (Peludo)**: Dibuja el cuerpo de tiburón cubierto de pelaje suave blanco. ¡Se ve chistoso!
+1. **Entrelazado**: Haz que los pelos del caballo suban un poco sobre la piel humana. (Como dientes de un cierre).
+2. **Gradiente**: Si pasas de escamas (pez) a piel lisa (delfín), haz las escamas cada vez más pequeñas hasta que desaparecen.
+3. **Collar Mágico**: Si es muy difícil, ¡ponle un collar, una bufanda o una armadura justo en la unión! (Es un truco de dibujante perezoso, pero funciona).
 
 ---
 
-## Ejercicios prácticos
+## 3. Experimento "Frankenstein": El Tiburonejo
 
-### Ejercicio 1: La Ruleta de Monstruos
+Vamos a practicar con dos animales opuestos:
 
-**Instrucciones**:
-Recorta nombres de 5 animales en papelitos. Saca dos al azar.
-¡TIENES que dibujarlos mezclados en 3 minutos!
+1. **Tiburón**: Liso, mojado, peligroso, gris.
+2. **Conejo**: Peludo, suave, tierno, blanco.
 
-- Jirafa + Tortuga
-- Sapo + Halcón
-- Gato + Pulpo ("El Gatopulpo" es un clásico).
+**¿Cómo los unes?**
 
-### Ejercicio 2: El Animal Utilitario
-
-**Instrucciones**:
-Diseña un híbrido para una tarea específica.
-
-- "Necesito un animal que pueda correr rápido y cargar cosas pesadas".
-  - Solución: Cuerpo de Buey + Patas de Guepardo.
-- "Necesito un animal que vigile mi casa y pueda volar".
-  - Solución: Búho + Doberman.
+* **Opción A (Mutante)**: Cuerpo de tiburón, pero con textura de PELO mojado.
+* **Opción B (Terror)**: Cabeza de conejo (orejas largas), pero SIN pelo. Piel de tiburón gris y dientes afilados. ¡Miedo total!
 
 ---
 
-## Errores comunes y soluciones
+## 4. Ejemplos de Texturas
 
-### ❌ Error 1: Pegamento duro
-
-**Problema**: Dibujar una línea recta separando los dos animales.
-**Parece**: Una persona usando una máscara, no un animal real.
-**Solución**: Usa textura (pelos, escamas, arrugas) para esconder la unión.
-
-### ❌ Error 2: Malas proporciones
-
-**Problema**: Poner una cabeza diminuta en un cuerpo gigante (o al revés) sin intención.
-**Solución**: Ajusta los tamaños. Si pones alas de mariposa en un elefante, ¡haz las alas GIGANTES para que puedan cargarlo!
+* **Plumas a Escamas**: Las plumas se vuelven pequeñas y duras hasta parecer escamas.
+* **Piedra a Carne**: Dibuja grietas en la piedra que se convierten en arrugas en la piel.
+* **Fuego a Humo**: Líneas picudas (fuego) que se vuelven curvas y suaves (humo).
 
 ---
 
-## Reflexión final
+## 5. Errores Comunes
 
-Los híbridos nos enseñan que la creatividad no es inventar algo de la nada (eso es imposible). La creatividad es **conectar cosas que ya existen de formas nuevas**.
+### ❌ Error: "La Línea Recta"
 
-**Práctica diaria**: Inventa un nombre para tu híbrido favorito y decide qué come. (Ej. El "Vacallina" - Vaca + Gallina. Come pasto y maíz. Pone huevos de leche).
+* **Problema**: Trazar una línea dura separando la cabeza del cuerpo.
+* **Solución**: ¡Borra esa línea! Usa textura (pelitos, arrugas o manchas) para esconder la unión.
+
+### ❌ Error: "Escala Loca"
+
+* **Problema**: Poner unas patas de hormiga en un elefante.
+* **Solución**: Ajusta el tamaño. Si juntas animales, haz que sus tamaños coincidan (o haz las patas de hormiga GIGANTES y musculosas).

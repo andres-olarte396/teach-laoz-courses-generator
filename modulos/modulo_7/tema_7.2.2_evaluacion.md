@@ -1,33 +1,23 @@
-# Evaluación: Maestría en Perspectiva
+# Evaluación: Inspector de Obra
 
-**Tipo**: Análisis de Errores
+## Pregunta 1
 
----
+Si dibujo un edificio y las paredes (verticales) están inclinadas...
 
-## 1. El Terremoto
+- A) Se ve moderno.
+- B) Se ve que se está cayendo (¡Error!).
 
-En un dibujo de perspectiva de 1 punto, ¿cómo deben ser las líneas verticales de los edificios?
-a) Inclinadas siguiendo el punto de fuga.
-b) Totalmente rectas y paradas (verticales).
+## Pregunta 2
 
-## 2. Ventanas Mágicas
+¿Hacia dónde va la parte de arriba de las puertas y ventanas?
 
-Si dibujo una ventana en la pared lateral de un edificio fugado:
+- A) Hacia el cielo.
+- B) Hacia el Punto de Fuga.
 
-- El lado de arriba de la ventana... ¿a dónde apunta?
-a) Al cielo.
-b) Al Punto de Fuga.
+## Reto
 
-## 3. Escala y Distancia
+Pon una regla sobre las líneas verticales de tu dibujo.
+¿Están paralelas al borde del papel?
 
-Si dibujo un auto cerca de mí y otro auto lejos (al final de la calle):
-a) Los dos son del mismo tamaño en el papel.
-b) El de lejos es diminuto, casi un puntito.
-
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+- [ ] Sí, están derechitas.
+- [ ] No, están un poco borrachas.

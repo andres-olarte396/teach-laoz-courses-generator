@@ -1,37 +1,33 @@
-# Evaluación: Creando la obra maestra
+# Evaluación: La Gran Obra
 
-## Pregunta 1
+## Pregunta 1: Preparación
 
-¿Cuál es la regla de oro al empezar el boceto en la hoja final?
+¿Qué debes hacer antes de poner tu papel final sobre la mesa?
 
-- A) Presionar fuerte para que se vea bien.
-- B) Usar plumón permanente directo.
-- C) Dibujar muy suave (trazo fantasma) para poder borrar y corregir sin dañar el papel.
+* A) Comer un sándwich grasoso.
+* B) Limpiar la mesa y lavarte las manos para evitar manchas de grasa.
+* C) Arrugar el papel.
 
-## Pregunta 2
+## Pregunta 2: El Fantasma
 
-¿Por qué es importante poner un papel extra debajo de tu mano al dibujar?
+¿Por qué dibujamos el primer boceto tan suavemente (Trazo Fantasma)?
 
-- A) Para que la mano esté acolchonada.
-- B) Para no manchar el dibujo con el sudor o la grasa de la piel, ni correr el grafito.
-- C) Para esconder el dibujo.
+* A) Porque tenemos miedo.
+* B) Para que el grafito no marque el papel y sea fácil de borrar o cubrir con pintura.
+* C) Porque se gastó el lápiz.
 
-## Pregunta 3
+## Pregunta 3: Higiene Artística
 
-Si llevas mucho tiempo dibujando y sientes que ya no sabes si está quedando bien...
+¿Para qué sirve poner un papelito extra bajo tu mano?
 
-- A) Debes romper el dibujo.
-- B) Debes tomar un descanso, alejarte y volver con "ojos frescos".
-- C) Debes dibujar más rápido.
+* A) Para escribir notas secretas.
+* B) Para proteger el dibujo del sudor y no arrastrar el grafito (manchar la hoja).
+* C) Para que se vea profesional.
 
-## Pregunta 4
+## Pregunta 4: Mentalidad
 
-Verdadero o Falso:
-"Una obra maestra debe estar libre de cualquier error para ser considerada arte."
+¿El arte hecho a mano debe ser matemáticamente perfecto como una impresión de computadora?
 
-- ( ) Verdadero
-- ( ) Falso (Los "errores" o marcas humanas son parte de la belleza del arte manual. La perfección es para las máquinas).
-
-## Ejercicio Rápido
-
-Lávate las manos y pega tu hoja a la mesa con cinta. Siente cómo la preparación te pone en "modo artista profesional".
+* A) Sí, si no es perfecto no vale.
+* B) No. Las pequeñas imperfecciones son la "firma" del artista y le dan vida.
+* C) Depende del día.

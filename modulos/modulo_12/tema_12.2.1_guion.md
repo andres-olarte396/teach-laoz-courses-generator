@@ -1,15 +1,15 @@
-# Guion: Firma y montaje
+# Guion: Firma y Montaje
 
-**(Sonido de aplausos y gente murmurando en una galería)**
+**(Efecto de sonido: Aplausos de mucha gente y flashes de cámara)**
 
-**Profesor**: "¡Felicidades! Terminaron su obra. ¿Ya está lista? ¡No!"
+**Profesor**: "¡Bravo! ¡Bravo! Maestro, su obra está terminada."
 
-**(Sonido de sello: CLACK!)**
+**Profesor**: "Pero espera... falta algo. El toque final. Tu **Firma**."
 
-**Profesor**: "Le falta lo más importante: Tu nombre. Firmar tu dibujo es decir 'Esto lo hice yo'. Es como poner la bandera en la cima de la montaña."
+**Profesor**: "Firmar es importante. Es decirle al mundo que tú hiciste ese trabajo con tus propias manos. Busca la esquina de abajo. Haz una firma pequeña y elegante."
 
-**Profesor**: "Pero cuidado. La firma no debe ser gigante. No queremos que la gente diga '¡Qué bonita firma... ah, y hay un dibujo atrás!'. Debe ser pequeña, en la esquinita de abajo."
+**(Efecto de sonido: Sonido de pluma escribiendo scritch-scratch)**
 
-**Profesor**: "Y para que se vea elegante, vamos a ponerle un traje de gala. Se llama 'Montaje'. Peguen su dibujo sobre una cartulina negra un poco más grande. Eso hace que los colores brillen y se vea súper profesional."
+**Profesor**: "Ahora, vamos a vestirlo de gala. Vamos a ponerle un **Marco**. Pega tu dibujo sobre una cartulina negra. ¡Guau! ¿Viste cómo brillaron los colores de repente?"
 
-**Profesor**: "¡Ahora sí! Listo para colgar en la pared."
+**Profesor**: "Ya no es un papel suelto. Ahora es un Cuadro. Está listo para la exposición."

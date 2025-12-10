@@ -60,4 +60,5 @@ El secreto para un buen triángulo no es dibujar líneas... es **dibujar puntos*
 * **Ciudad**: Velas de barco, señales de peligro, techos.
 
 ## Galería de Inspiración
+
 ![Triángulos Fuertes](./tema_1.1.3_extra_triangulos.svg)

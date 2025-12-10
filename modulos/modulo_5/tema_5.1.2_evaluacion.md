@@ -1,33 +1,23 @@
-# Evaluación: Escala de Valores
+# Evaluación: Inspector de Volumen
 
-**Tipo**: Práctica de Control
+## Pregunta 1
 
----
+¿Qué partes necesito para que un círculo parezca esfera?
 
-## 1. El Degradado Infinito
+- A) Solo el color gris.
+- B) Brillo blanco, tono gris y sombra negra.
 
-Intenta hacer una barra larga que empiece en NEGRO a la izquierda y termine en BLANCO a la derecha.
-**Reto**: No se deben notar rayas. Debe ser un cambio suave, como humo.
+## Pregunta 2
 
-[Espacio para dibujar barra de 10cm]
+Para que se vea real (suave), ¿qué debo hacer?
 
-## 2. Análisis de Esfera
+- A) Dejar rayas duras.
+- B) Hacer un degradado suave (mezclar los tonos como humo).
 
-Mira tu esfera terminada. Sé sincero:
+## Reto
 
-- ¿Parece una pelota de ping-pong (redonda)?
-- ¿Parece una galleta Oreo (plana y bicolor)?
-- ¿Parece una papa peluda (rayas visibles)?
+Mira tu esfera.
+¿Tienes una parte BLANCA pura (sin lápiz)?
 
-## 3. Pregunta Técnica
-
-¿Dónde debe estar la parte MÁS oscura de la esfera?
-a) Justo en el medio.
-b) En el lado opuesto a la luz.
-c) En el punto de brillo.
-
----
-
-## Respuestas
-
-3: b
+- [ ] Sí, respeté el brillo.
+- [ ] No, me emocioné y pinté todo de gris (¡Ups! Bórralo para sacar brillo).

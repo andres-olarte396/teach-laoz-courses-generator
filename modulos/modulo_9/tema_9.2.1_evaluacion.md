@@ -1,37 +1,22 @@
-# Evaluación: Árboles de diferentes tipos
+# Evaluación: Botánico Experto
 
 ## Pregunta 1
 
-¿Cuál es la "letra secreta" que nos ayuda a dibujar cómo se dividen las ramas de un árbol?
+¿Cuál es la letra secreta de las ramas?
 
-- A) La letra O.
-- B) La letra Y.
-- C) La letra Z.
+- A) La O.
+- B) La Y.
 
 ## Pregunta 2
 
-Si quieres dibujar un pino (árbol de Navidad), ¿qué forma geométrica básica usas como guía?
+Si dibujo una rama gorda saliendo de una ramita flaca...
 
-- A) Un círculo.
-- B) Un triángulo.
-- C) Un cuadrado.
+- A) Es un error. Las ramas siempre se adelgazan hacia la punta.
+- B) Es un árbol mágico.
 
-## Pregunta 3
+## Reto
 
-¿Qué error común llamamos "El Brócoli"?
+Dibuja un pino rápido.
 
-- A) Dibujar el árbol de color morado.
-- B) Dibujar un tronco recto con un círculo verde perfecto encima sin huecos.
-- C) Dibujar el árbol sin raíces.
-
-## Pregunta 4
-
-Verdadero o Falso:
-"Las ramas de un árbol suelen crecer hacia abajo buscando la tierra."
-
-- ( ) Verdadero
-- ( ) Falso (Crecen hacia arriba y afuera buscando el sol, excepto casos especiales como el Sauce Llorón)
-
-## Ejercicio Rápido
-
-Dibuja un **Tronco de Palmera**. No olvides su característica textura (anillos) y su forma delgada y flexible.
+- [ ] Parece un triángulo picudo.
+- [ ] Parece una bola redonda (¡Eso no es un pino!).

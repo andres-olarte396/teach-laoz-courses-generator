@@ -1,111 +1,71 @@
 # Recortes y pegamento (Collage)
 
+![Ilustración de Collage](./tema_11.1.2_header.svg)
+
 **Tiempo estimado**: 50 minutos  
 **Nivel**: Básico (6+ años)  
-**Prerrequisitos**: Tijeras y pegamento
+**Concepto Clave**: Composición y Reciclaje visual
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. ¿Qué es el Collage?
 
-¿Quién dijo que para "dibujar" solo puedes usar lápiz?
-Matisse, uno de los pintores más famosos, al final de su vida "dibujaba con tijeras".
+"Collage" viene del francés "Coller" (Pegar).
+Es el arte de armar un dibujo usando cosas que ya existen.
 
-El **Collage** te enseña a ver formas en lugar de líneas. Te enseña a componer y a reciclar. Puedes hacer una obra de arte con la basura de ayer.
+¿Te cuesta dibujar una mano realista? ¡Recórtala de una revista!
+¿Te cuesta dibujar el mar? ¡Recorta un pedazo de papel azul!
 
----
-
-## Comprensión intuitiva
-
-### Construyendo con pedazos
-
-El collage es como armar un rompecabezas que tú inventas.
-En lugar de dibujar un suéter rayado (que toma mucho tiempo), cortas un pedazo de papel de regalo rayado y ¡pum! Tienes el suéter perfecto en 2 segundos.
-
-Agrega textura real e interés visual que es imposible lograr solo con lápices.
+Es como jugar con Legos, pero con papel.
 
 ---
 
-## Materiales necesarios
+## 2. El Maestro Matisse
 
-1. Revistas viejas / Periódicos.
-2. Papel de colores / Papel de regalo.
-3. Tijeras.
-4. Pegamento en barra.
-5. Tu cuaderno de dibujo.
+Henri Matisse, un artista viejito y famoso, ya no podía pintar porque estaba enfermo.
+¿Se rindió? ¡No! Empezó a "pintar con tijeras". Recortaba formas de colores y las pegaba. Inventó un arte nuevo y feliz.
 
 ---
 
-## Paso a paso: El Monstruo de Revista
+## 3. Paso a paso: El Monstruo Frankenstein
 
-### Paso 1: La Caza de Tesoros
+### Paso 1: La Cacería
 
-Busca en las revistas:
+Abre una revista vieja. No leas, solo mira las IMÁGENES. Busca:
 
-- Una tele (o caja).
-- Unos zapatos de tenis.
-- Un reloj.
-- Ojos de diferentes personas.
-- Una boca sonriendo.
+* Una cabeza graciosa.
+* Un cuerpo de animal (o un objeto, como una lavadora).
+* Piernas (o ruedas).
+* Algo raro (un reloj, una flor, una joya).
 
-### Paso 2: El Ensamble
+### Paso 2: La Cirugía (Recortar)
 
-Recorta las piezas.
+* **Truco Pro**: No muevas la tijera alrededor del papel. **Mueve el PAPEL** hacia la tijera.
+* Trata de no dejar bordes blancos.
 
-- Pega la Tele como cuerpo.
-- Pega los Zapatos abajo.
-- Pon el Reloj en la panza.
-- Pon los Ojos y la Boca en la pantalla de la tele.
+### Paso 3: El Pegamento (¡Peligro!)
 
-### Paso 3: Intervención (Mixed Media)
+* No bañes el recorte en pegamento.
+* Solo pon un poquito en el centro y las esquinas.
+* Si usas mucho, el papel se arruga y se ve feo.
 
-Ahora toma tus plumones o lápices.
+### Paso 4: Técnica Mixta (Intervención)
 
-- Dibújale brazos mecánicos que salen de la tele.
-- Dibújale una antena y rayos láser.
-¡Acabas de mezclar foto + dibujo!
+* Una vez pegado, ¿qué le falta?
+* Usa tus plumones. Dibújale bigotes a la modelo. Ponle alas a la lavadora. ¡Mezcla todo!
 
 ---
 
-## Ejercicios creativos
+## 4. Ejercicios Diarios
 
-### Ejercicio 1: Paisaje de texturas
-
-**Instrucciones**:
-No busques fotos de objetos, busca COLORES y TEXTURAS.
-
-- Recorta pedazos de "Azul" (puede ser un cielo, un pantalón de mezclilla, un auto azul).
-- Recorta pedazos de "Verde" (pasto, lechuga, un suéter).
-- Arma un paisaje: Usa los azules para el cielo y el río. Usa los verdes para las montañas.
-- Se verá como un mosaico vibrante.
-
-### Ejercicio 2: Autorretrato cubista
-
-**Instrucciones**:
-
-1. Dibuja el contorno de tu cara.
-2. Busca en revistas una nariz, una boca y dos ojos (que no sean tuyos).
-3. Pégalos en tu cara dibujada.
-4. El resultado será extraño y artístico, estilo Picasso.
+* **El Menú Loco**: Recorta comidas diferentes y pégalas en un plato de papel. ¿Espagueti con helado?
+* **Moda Rara**: Recorta una persona y pégale ropa hecha de papel periódico o tela real.
 
 ---
 
-## Errores comunes y soluciones
+## 5. Resumen Visual
 
-### ❌ Error 1: Exceso de pegamento
-
-**Problema**: El papel se moja, se arruga y se rompe.
-**Solución**: Usa pegamento en barra. Solo pon un poco en los bordes y una X en el centro. No necesitas bañar el papel.
-
-### ❌ Error 2: Recortes sucios
-
-**Problema**: Dejar bordes blancos irregulares alrededor de la imagen recortada.
-**Solución**: Aprende a mover el PAPEL, no la tijera. Gira la revista mientras cortas para seguir las curvas perfectamente.
-
----
-
-## Reflexión final
-
-El collage es liberador porque no necesitas tener "buen trazo". Si cortas mal, pegas otro pedazo encima y listo. Es perfecto para esos días en que no te sale nada con el lápiz.
-
-**Práctica diaria**: Guarda los envoltorios de dulces bonitos. Pégalos en una hoja. Dibuja el dulce que venía adentro saliendo del envoltorio.
+1. **Busca**: Encuentra tesoros en la basura.
+2. **Corta**: Con cuidado.
+3. **Pega**: Poco pegamento.
+4. **Integra**: Dibuja encima para unir todo.

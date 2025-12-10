@@ -1,35 +1,23 @@
-# Evaluación: Equilibrio Visual
+# Evaluación: Examen de Peso
 
-**Tipo**: Clasificación
+## Pregunta 1
 
----
+¿Qué es la Simetría?
 
-## 1. ¿Espejo o Balanza?
+- A) Cuando los dos lados son diferentes y locos.
+- B) Cuando los dos lados son iguales como un espejo.
 
-Escribe "Simétrico" o "Asimétrico" al lado de cada cosa:
+## Pregunta 2
 
-- Una cara humana ................... ( )
-- Un árbol torcido .................. ( )
-- Una mariposa ...................... ( )
-- Un paisaje con montaña y sol ...... ( )
+¿Qué "pesa" más en un dibujo?
 
-## 2. El Peso Visual
+- A) Un punto chiquito y amarillo.
+- B) Una mancha grande y negra.
 
-¿Cuál de estas cosas "pesa" más en un dibujo (llama más la atención)?
-a) Un círculo pequeño amarillo pálido.
-b) Un cuadrado grande negro.
+## Reto de Balanza
 
-## 3. Arregla el Dibujo
+Mira tu dibujo del Elefante.
+¿Sientes que se cae hacia la izquierda?
 
-Tienes un dibujo con un edificio gigante a la derecha y NADA a la izquierda. Se ve "cojo".
-¿Qué le dibujas a la izquierda para arreglarlo?
-a) Nada, el espacio vacío es bonito.
-b) Unas nubes o un avión para hacer contrapeso.
-
----
-
-## Respuestas
-
-1: Simétrico, Asimétrico, Simétrico, Asimétrico
-2: b
-3: b
+- [ ] Sí (¡Dibuja más cosas a la derecha!).
+- [ ] No, se siente estable.

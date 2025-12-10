@@ -1,34 +1,22 @@
-# Evaluación: Línea del Horizonte
+# Evaluación: El Director de Cámara
 
-**Tipo**: Selección de Vista
+## Pregunta 1
 
----
+Si quiero que un villano se vea gigante y aterrador, ¿dónde pongo el horizonte?
 
-## 1. El Detective de Altura
+- A) Muy arriba (lo veo desde el cielo).
+- B) Muy abajo (lo veo desde el suelo, él me pisa).
 
-Miras un dibujo donde se ve el techo de una mesa y el piso de la habitación.
-¿Dónde estaba el dibujante?
-a) De pie o subido a una silla (Horizonte Alto).
-b) Tirado debajo de la mesa (Horizonte Bajo).
+## Pregunta 2
 
-## 2. Espacio Creativo
+La línea del horizonte siempre está a la altura de...
 
-Si quiero dibujar un cielo lleno de una batalla de dragones volando...
-¿Dónde pongo mi línea del horizonte?
-a) Muy arriba (para tener mucho suelo).
-b) Muy abajo (para tener mucho espacio de cielo).
+- A) Mis pies.
+- B) Mis ojos.
 
-## 3. Lógica Física
+## Reto
 
-La línea del horizonte...
-a) Es una cuerda física que puedes tocar si caminas mucho.
-b) Es una línea imaginaria que siempre se aleja.
-c) Solo existe si hay mar.
-
----
-
-## Respuestas
-
-1: a
-2: b
-3: b
+Mira por la ventana.
+Imagina que dibujas el paisaje en el vidrio.
+¿Dónde está la línea entre el cielo y la tierra? (Si hay edificios, imagina qué hay detrás).
+Márcala con tu dedo. Esa es tu Línea de Horizonte.

@@ -1,36 +1,28 @@
-# Evaluación: Temperatura del Color
+# Evaluación: Termómetro de Arte
 
-**Tipo**: Clasificación
+## Pregunta 1
 
----
+¿Cuáles son los colores cálidos (calientes)?
 
-## 1. Termómetro de Color
+- A) Azul, Verde, Morado.
+- B) Amarillo, Naranja, Rojo.
 
-Pon una (C) si el color es Cálido o una (F) si es Frío (aunque no los hemos visto, ¡adivina!):
+## Pregunta 2
 
-- Rojo de bombero ..... ( )
-- Azul de hielo ....... ( )
-- Naranja de sol ...... ( )
-- Amarillo de patito .. ( )
+Si pinto un cuarto de color Naranja brillante, ¿cómo se siente?
 
-## 2. El Experto en Sombras
+- A) Frío y triste.
+- B) Alegre y con energía.
 
-El Profe Lápiz quiere hacerle sombra a un limón amarillo.
-¿Qué color debería usar para que se vea natural y cálido?
-a) Negro (se ve sucio).
-b) Naranja (se ve brillante).
-c) Azul (se hace verde).
+## Pregunta 3
 
-## 3. Emociones
+¿Cuál es el mejor color para hacerle sombra a un objeto Amarillo?
 
-Si quieres dibujar una tarjeta de San Valentín o una señal de PELIGRO, ¿qué familia de colores usas?
-a) Cálidos (Rojo, Rosa).
-b) Fríos (Azul, Verde).
+- A) Negro (lo hace ver sucio).
+- B) Naranja (lo hace ver brillante y con volumen).
 
----
+## Reto
 
-## Respuestas
-
-1: C, F, C, C
-2: b
-3: a
+Toca algo rojo en tu salón.
+¿Se siente "caliente" a la vista?
+(¡No en temperatura real, sino en color!).

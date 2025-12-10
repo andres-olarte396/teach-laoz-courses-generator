@@ -1,21 +1,12 @@
-# Guion: Mi Paisaje Imaginario
+# Guion: Bienvenido a mi Mundo
 
-**(Música épica y aventurera, estilo película de fantasía)**
+**(Sonido de música de aventura)**
 
-**Profesor**: "¡Atención creadores de mundos! Hoy tenemos el poder más grande de un artista: crear un universo desde cero. Bienvenidos a su Paisaje Imaginario."
+**Profe Lápiz**: "Hoy tienes el poder máximo. Eres el creador de un mundo nuevo."
 
-**(Sonido de magia o destellos)**
+**Profe Lápiz**: "¿Cómo será tu mundo? ¿De dulces? ¿De dinosaurios? ¿De lego?"
 
-**Profesor**: "Un paisaje no es solo dibujar pasto y cielo. Es invitar a alguien a entrar en tu dibujo. Para eso, necesitamos la Receta Secreta de las 3 Capas."
+**Profe Lápiz**: "Para que tu mundo se vea real, recuerda las 3 capas."
+**Profe Lápiz**: "Pon algo cerca para que podamos entrar. Pon algo en medio para visitar. Y pon algo lejos para soñar."
 
-**Profesor**: "**Capa 1: El Fondo**. Es lo que está lejísimos. Las montañas azules, el sol, las nubes. Se ve suave y borroso."
-
-**Profesor**: "**Capa 2: El Medio**. Aquí pasa la acción. La casa, el río, los árboles. Es donde vivirían tus personajes."
-
-**Profesor**: "**Capa 3: ¡El Primer Plano!** Esto es lo que tienes justo en frente de tu nariz. Una flor grande, una roca, una rama que cruza. Es el marco de la ventana."
-
-**(Sonido de viento y pasos en grava)**
-
-**Profesor**: "Imaginen que caminan por su dibujo. Empiezan en el primer plano, caminan por el medio y miran hacia el fondo. Si olvidan una capa, el mundo se siente plano, como una calcomanía."
-
-**Profesor**: "¿Y si el pasto fuera de color violeta? ¿Y si los árboles fueran de cristal? En su paisaje imaginario, ¡ustedes ponen las reglas! ¡A dibujar!"
+**Profe Lápiz**: "¡No dejes espacios vacíos! Llénalo de vida. ¡A crear!"

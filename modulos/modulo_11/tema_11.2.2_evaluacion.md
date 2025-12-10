@@ -1,37 +1,33 @@
-# Evaluación: Manchas divertidas (Tinta y imaginación)
+# Evaluación: Manchas Divertidas
 
-## Pregunta 1
+## Pregunta 1: Superpoder Mental
 
 ¿Qué es la **Pareidolia**?
 
-- A) Una marca de pintura.
-- B) La capacidad del cerebro para reconocer formas familiares (como caras o animales) en estímulos vagos o aleatorios (como nubes o manchas).
-- C) Un tipo de pincel.
+* A) Un tipo de pasta italiana.
+* B) La habilidad de tu cerebro para ver formas conocidas (caras, animales) en manchas o nubes.
+* C) Una enfermedad de los ojos.
 
-## Pregunta 2
+## Pregunta 2: Técnica de Soplado
 
-En la técnica de "Blow Painting" (Pintura soplada), ¿para qué usamos el popote?
+Cuando usas un popote para mover la pintura:
 
-- A) Para bebernos la pintura.
-- B) Para empujar la pintura con aire y crear formas orgánicas (ramas, rayos) que no podríamos dibujar a mano.
-- C) Para hacer agujeros en el papel.
+* A) Debes aspirar hacia adentro (tomarte la pintura).
+* B) Debes SOPLAR hacia afuera para empujar la gota.
+* C) Debes usarlo como baqueta de tambor.
 
-## Pregunta 3
+## Pregunta 3: Secuencia
 
-¿Cuál es el paso más importante ANTES de dibujar con plumón sobre tu mancha de acuarela?
+¿Cuándo debes usar el plumón para dibujar detalles sobre la mancha?
 
-- A) Esperar a que se SEQUE completamente.
-- B) Ponerle más agua.
-- C) Borrar la mancha.
+* A) Cuando la pintura está fresca y mojada.
+* B) Cuando la pintura está totalmente SECA (para no arruinar el plumón).
+* C) Nunca.
 
-## Pregunta 4
+## Pregunta 4: Actitud
 
-Verdadero o Falso:
-"Si se te cae una gota de tinta por accidente en tu dibujo final, debes tirarlo a la basura inmediatamente."
+Si estás dibujando y se te cae una gota de pintura por error, ¿qué hacemos?
 
-- ( ) Verdadero
-- ( ) Falso (¡Intégralo! Convierte la mancha en un pájaro, una roca o parte del fondo. Adáptate).
-
-## Ejercicio Rápido
-
-Cierra los ojos y haz un garabato rápido en un papel aparte. Ábrelos. ¿Qué ves en ese garabato? (Un pato, un zapato, una cara...).
+* A) Llorar y romper la hoja.
+* B) Usar nuestra creatividad para convertir esa gota en parte del dibujo (un pájaro, una piedra, un planeta).
+* C) Esconder el dibujo.

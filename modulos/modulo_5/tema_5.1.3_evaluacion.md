@@ -1,35 +1,23 @@
-# Evaluación: Sombras Proyectadas
+# Evaluación: Controlador Aéreo
 
-**Tipo**: Análisis de Errores
+## Pregunta 1
 
----
+Si dibujo un coche y dejo un espacio blanco entre las llantas y la sombra negra... ¿qué está haciendo el coche?
 
-## 1. El Dibujo Flotante
+- A) Está estacionado.
+- B) Está saltando o volando.
 
-Mira el dibujo de abajo (imagínalo):
-Un coche. Debajo del coche hay espacio blanco. Más abajo hay una sombra gris.
+## Pregunta 2
 
-¿Qué está haciendo el coche?
-a) Está estacionado.
-b) Está volando o saltando.
+¿Cómo es la sombra de un árbol al atardecer (cuando el sol se va)?
 
-## 2. La Hora del Día
+- A) Cortita.
+- B) Muy larga y estirada.
 
-Si ves una foto donde la sombra de una persona es MUY LARGA y estirada...
-¿Qué hora es?
-a) Las 12:00 del mediodía (Sol arriba).
-b) Las 6:00 de la tarde (Sol bajando).
+## Reto
 
-## 3. Oscuridad Extrema
+Dibuja una pelota en la mesa.
+Hazla "aterrizar" dibujando una sombra bien negra pegada a su base.
 
-¿Dónde debe ser la sombra más negra y oscura?
-a) Lejos del objeto.
-b) Justo donde el objeto toca el suelo (Sombra de oclusión).
-
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+- [ ] Se ve pesada.
+- [ ] Parece que flota (¡Acerca más la sombra!).

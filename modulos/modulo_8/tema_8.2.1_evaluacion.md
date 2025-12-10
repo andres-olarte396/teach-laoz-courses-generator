@@ -1,34 +1,23 @@
-# Evaluación: Emociones
+# Evaluación: Adivina la Mueca
 
-**Tipo**: Adivina la Cara
+## Pregunta 1
 
----
+Si las cejas apuntan hacia abajo en el centro (`\ /`)...
 
-## 1. Cejas de Fuego
+- A) Está feliz.
+- B) Está enojado.
 
-Si dibujo unas cejas que apuntan hacia abajo así `\ /` y se tocan en el medio...
-¿Qué emoción es?
-a) Felicidad extrema.
-b) Enojo o Furia.
+## Pregunta 2
 
-## 2. Ojos de Plato
+Si las cejas están altísimas, lejos de los ojos...
 
-Si dibujo unos ojos grandotes y redondos con pupilas pequeñas...
-¿Qué emoción es?
-a) Sueño.
-b) Sorpresa o Miedo.
+- A) Está sorprendido.
+- B) Está dormido.
 
-## 3. Mezcla Rara
+## Reto
 
-Si alguien se está riendo pero tiene cejas de enojo (Cejas `\ /` + Sonrisa `)`)...
-¿Es un personaje bueno o malo?
-a) Un héroe amable.
-b) Un villano planeando una travesura.
+Dibuja una cara "Aburrida".
+(Pista: Cejas rectas, boca recta, ojos a medio cerrar).
 
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+- [ ] Parece aburrido.
+- [ ] Parece un robot asesino (¡Cuidado con las cejas!).

@@ -1,37 +1,33 @@
 # Evaluación: Mi Planeta Extraño
 
-## Pregunta 1
+## Pregunta 1: El Cambio Rápido
 
-¿Cuál es la forma más rápida y efectiva de hacer que un paisaje parezca alienígena?
+Si quieres que tu dibujo se vea "Alienígena" inmediatamente, ¿qué cambio de color es el más efectivo?
 
-- A) Dibujar una nave espacial en la esquina.
-- B) Cambiar la paleta de colores (ej: cielo rojo en vez de azul).
-- C) Escribir "Marte" en el título.
+* A) Cambiar el color de los zapatos del astronauta.
+* B) Cambiar el color del CIELO (Ej. Rojo o Verde).
+* C) Usar un lápiz más oscuro.
 
-## Pregunta 2
+## Pregunta 2: Física Espacial
 
-Si un planeta tiene **mucha gravedad** (muy pesada), ¿cómo deberían verse sus plantas y montañas?
+En un planeta con **Poca Gravedad** (como la Luna pero con aire), ¿cómo serían los árboles?
 
-- A) Altas, finas y flotantes.
-- B) Bajas, anchas y aplastadas contra el suelo.
-- C) Invisibles.
+* A) Bajitos y gordos.
+* B) Altísimos, delgados y frágiles (pueden crecer mucho porque no pesan).
+* C) Idénticos a los de la Tierra.
 
-## Pregunta 3
+## Pregunta 3: Coherencia
 
-¿Qué es la **bioluminiscencia**?
+Si decides que en tu planeta **No Hay Sol** (es noche eterna), ¿cómo verían las plantas?
 
-- A) Cuando los seres vivos producen su propia luz (brillan en la oscuridad).
-- B) Un tipo de pintura espacial.
-- C) El nombre de un planeta.
+* A) Serían invisibles.
+* B) Probablemente brillarían con luz propia (**Bioluminiscencia**) para atraer insectos.
+* C) Usarían linternas.
 
-## Pregunta 4
+## Pregunta 4: Creatividad
 
-Verdadero o Falso:
-"Para inventar plantas alienígenas, podemos inspirarnos en cosas microscópicas como bacterias o cristales y dibujarlas gigantes."
+¿Podemos usar formas de objetos cotidianos (como esponjas o cristales) para inventar plantas alienígenas?
 
-- ( ) Verdadero
-- ( ) Falso (Solo podemos copiar plantas de libros de botánica).
-
-## Ejercicio Rápido
-
-Dibuja un **Árbol Alienígena**. No uses hojas normales. ¿Qué tiene en las ramas? ¿Ojos? ¿Burbujas? ¿Espejos?
+* A) Sí, agrandándolas y cambiando su color.
+* B) No, está prohibido.
+* C) Solo si se parecen a una rosa.

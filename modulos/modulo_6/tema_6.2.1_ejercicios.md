@@ -1,34 +1,30 @@
-# Ejercicios: La Balanza del Arte
+# Ejercicios: Equilibrista
 
-## Ejercicio 1: El Espejo Mágico (Simetría)
+## Ejercicio 1: El Espejo
 
-**Objetivo**: Crear estabilidad perfecta.
-**Tiempo**: 20 minutos.
+**Objetivo**: Simetría perfecta.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dobla tu hoja por la mitad verticalmente.
-2. Dibuja la mitad de una mariposa (o un robot, o una máscara) en el lado izquierdo.
-3. Intenta copiarla EXACTAMENTE igual en el lado derecho.
-4. Si te cuesta, puedes usar una ventana para calcar la otra mitad.
-5. Píntalo con los mismos colores en ambos lados.
+1. Dobla tu hoja por la mitad.
+2. Dibuja la mitad de un robot en el lado izquierdo.
+3. Intenta dibujar la otra mitad exactamente igual en el derecho.
+4. Si te cuesta, ¡calca usando una ventana!
 
----
+## Ejercicio 2: El Elefante y las Plumas
 
-## Ejercicio 2: El Balancín (Asimetría)
+**Objetivo**: Asimetría.
 
-**Objetivo**: Equilibrar pesos diferentes.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja una línea de suelo (un subibaja imaginario).
+2. A la izquierda: Dibuja un **Elefante gordo y oscuro**. (¡Cuidado, se va a caer el dibujo!).
+3. A la derecha: Dibuja muchos **globos**, **pájaros** y **nubes** para hacer contrapeso.
+4. Necesitas muchas cosas ligeras para equilibrar a una pesada.
 
-1. Dibuja una línea de suelo.
-2. Dibuja una **Roca Gigante Negra** en el lado izquierdo (Pesa mucho).
-3. Ahora tienes que equilibrar el lado derecho para que la hoja no se "caiga".
-4. Dibuja un grupo de **Globos de Colores** o **Pájaros** en el lado derecho.
-5. Necesitas muchos objetos ligeros para igualar a uno pesado.
+## Ejercicio 3: Arregla el Desastre
 
-### Criterios de Éxito
-
-- [ ] Tu dibujo simétrico parece un espejo.
-- [ ] Tu dibujo asimétrico se siente equilibrado (no vacío de un lado).
+**Instrucciones**:
+Dibuja una casa grande a la derecha.
+El lado izquierdo está vacío y triste.
+¡Dibuja algo a la izquierda para salvar el dibujo! (Un árbol, un sol, un perro).

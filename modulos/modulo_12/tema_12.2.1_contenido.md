@@ -1,93 +1,52 @@
 # Firma y montaje
 
+![Ilustración de Firma y Montaje](./tema_12.2.1_header.svg)
+
 **Tiempo estimado**: 30 minutos  
 **Nivel**: Todos (6+ años)  
-**Prerrequisitos**: Obra terminada
+**Concepto Clave**: Presentación Profesional
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. El Sello de Garantía: Tu Firma
 
-Un dibujo sin firma es un dibujo huérfano.
-Firmar tu obra es decir: **"Yo hice esto. Y estoy orgulloso"**. Es el sello de garantía.
+Un dibujo sin firma es un huérfano. Nadie sabe quién lo hizo.
+Firmar tu obra es mirar al mundo y decir: **"Yo creé esto y estoy orgulloso"**.
 
-Y el montaje (ponerle marco o paspartú) es como vestir al dibujo de gala. Un dibujo arrugado se ve feo. El mismo dibujo en un marco bonito se ve profesional.
+### Reglas de Etiqueta para Firmar
 
----
-
-## Comprensión intuitiva
-
-### La etiqueta de la marca
-
-Cuando compras unos tenis, buscas la marca.
-Tu firma es TU marca.
-Pero cuidado: la marca no debe ser más grande que el zapato.
+1. **¿Dónde?**: Esquina Inferior Derecha (casi siempre).
+2. **¿Tamaño?**: Pequeña y discreta. No debe ser más grande que el dibujo.
+3. **¿Color?**: Usa un color que combine o lápiz grafito. No uses un plumón rojo gigante si arruina la armonía del cuadro.
+4. **Fecha**: Es buena idea poner el año (ej. '24) chiquito al lado. En el futuro te gustará saber cuándo lo hiciste.
 
 ---
 
-## Protocolo de la Firma
+## 2. El Traje de Gala: El Pasepartout
 
-### 1. ¿Dónde?
+¿Qué es un **Pasepartout**? (Se pronuncia "Pas-par-tú").
+Es ese marco de cartón que va alrededor del dibujo y lo hace ver elegante.
+No necesitas madera cara. Podemos hacerlo con cartulina.
 
-Casi siempre en la **esquina inferior derecha**.
-Debe estar dentro del dibujo pero sin tapar nada importante.
+### Instrucciones de Montaje Casero
 
-### 2. ¿Cómo?
-
-- Debe ser legible (que se entienda tu nombre).
-- Usa un color que combine o contraste suavemente. No uses rojo neón si tu cuadro es azul suave.
-- ¡Practica tu firma antes en un papel sucio! No la inventes en el momento.
-- Puedes poner el año (ej. '24) chiquito al lado.
-
----
-
-## El Montaje Casero (Pasepartout)
-
-No necesitas marcos caros de madera. Puedes hacer que tu dibujo se vea de museo con cartulina.
-
-### El Marco de Cartulina
-
-1. Toma una cartulina negra o de color neutro (gris, azul oscuro) que sea más grande que tu dibujo.
-2. Pega tu dibujo justo en el **centro**.
-3. Ese borde de color alrededor hace que el dibujo respire y se vea importante.
-
-### El Acetato Protector
-
-Si usaste tizas o lápiz muy suave que se corre, ponle una hoja de plástico o laca fijadora (spray de pelo funciona en emergencias) para protegerlo.
+1. Consigue una cartulina NEGRA o GRIS (colores neutros).
+2. Córtala para que sea unos 4 o 5 cm más grande que tu dibujo por cada lado.
+3. Pega tu dibujo JUSTO EN EL CENTRO.
+4. ¡Magia! Ese borde negro hace que los colores de tu dibujo "salten" y brillen más.
 
 ---
 
-## Ejercicios prácticos
+## 3. Protección
 
-### Ejercicio 1: Diseñando tu Firma
+Si usaste tizas (gis pastel) o lápiz muy suave, el dibujo se puede manchar si lo tocas.
 
-**Instrucciones**:
-En una hoja, inventa 5 firmas.
-
-- Solo tu nombre (JUAN).
-- Tus iniciales estilizadas (J.P.).
-- Tu nombre artístico (JUAN-ART).
-- Una firma con un dibujito (Juan + una estrella).
-Elige la que más te guste y úsala siempre.
+* **Truco Casero**: Pídele a un adulto que le rocíe un poco de "Spray para el Cabello" (Laca) desde lejos. Funciona como fijador y protege el polvo.
 
 ---
 
-## Errores comunes y soluciones
+## 4. Resumen Visual
 
-### ❌ Error 1: La firma gigante
-
-**Problema**: Escribir tu nombre tan grande que parece el título de la película.
-**Solución**: La firma debe ser discreta. Sutil. Quien quiera saber quién lo pintó, se acercará a buscarla.
-
-### ❌ Error 2: Pegar con cinta adhesiva fea
-
-**Problema**: Pegar el dibujo al marco con cinta "diurex" brillante por enfrente.
-**Solución**: El pegamento o cinta siempre va POR ATRÁS. Que no se vea el truco.
-
----
-
-## Reflexión final
-
-Cuando firmas, el dibujo deja de ser tuyo y empieza a ser del mundo. Es el momento en que sueltas el lápiz y dices: "Terminé". ¡Felicidades, Artista!
-
-**Práctica diaria**: Firma todos tus dibujos, incluso los bocetos rápidos. Acostúmbrate a reclamar tu autoría.
+1. **Firma**: Abajo a la derecha, pequeña.
+2. **Monta**: Sobre cartulina negra centrada.
+3. **Protege**: Con cuidado.

@@ -1,25 +1,13 @@
-# Guion: ¿Dónde están mis ojos?
+# Guion: La Escalera
 
-**Personaje**: El Profe Lápiz subido a una escalera
-**Duración**: 2 minutos
+**(Sonido de pasos en madera: Toc, toc, toc)**
 
----
+**Profe Lápiz**: "Estoy subiendo a una escalera de bomberos... ¡qué alto!"
+**Profe Lápiz**: "Desde aquí arriba (Vista de Pájaro) veo sus cabezas. El horizonte está muy alto."
 
-**(Sonido de escalera tambaleante - ñiii ñiii)**
+**(Sonido de resbaladilla: Fiuuuu)**
 
-**Profe Lápiz**: ¡Hola desde aquí arriba!
-Estoy subido a una escalera muy alta.
-Desde aquí veo el suelo, los techos de los autos y las cabezas de la gente.
-Mi **Línea del Horizonte** está ALTA.
+**Profe Lápiz**: "¡Bajé de golpe! Ahora estoy tirado en el suelo."
+**Profe Lápiz**: "Desde aquí abajo (Vista de Gusano) ustedes parecen gigantes. Veo sus zapatos enormes. El horizonte está muy bajo."
 
-**(Sonido de salto y caída - ¡PUM!)**
-
-**Profe Lápiz**: ¡Auch! Ahora estoy tirado en el suelo.
-Desde aquí veo zapatos gigantes, las panzas de los perros y mucho cielo.
-Mi **Línea del Horizonte** está BAJA.
-
-**Profe Lápiz**: Cuando dibujas esa raya que separa el cielo de la tierra, estás decidiendo dónde estás TÚ.
-¿Eres un pájaro (línea arriba)?
-¿O eres un gusano (línea abajo)?
-
-**Profe Lápiz**: ¡Tú decides la altura de la cámara!
+**Profe Lápiz**: "Tú eres el director de la película. ¿Dónde vas a poner la cámara hoy? ¿Arriba o abajo?"

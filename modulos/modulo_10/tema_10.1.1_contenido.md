@@ -1,107 +1,74 @@
 # Mi dragón único
 
+![Ilustración de Dragón](./tema_10.1.1_header.svg)
+
 **Tiempo estimado**: 50 minutos  
 **Nivel**: Avanzado-Creativo (8+ años)  
-**Prerrequisitos**: Animales (Módulo 9)
+**Concepto Clave**: Anatomía Comparada (Mezclar animales reales)
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. El Secreto: La Receta del Monstruo
 
-Un dragón no existe (que sepamos). No puedes ir al zoológico a dibujar uno.
-Para dibujarlo, tienes que usar **Imaginación Constructiva**. Tienes que tomar cosas que SÍ existen (un lagarto, un murciélago, un gato) y mezclarlas para crear algo nuevo que parezca real.
+¿Sabías que los dragones de las películas NO son inventados desde cero?  
+Los artistas usan un truco llamado **La Receta Secreta**.
 
-Este es el secreto de los diseñadores de criaturas de películas como *Star Wars* o *Avatar*.
+Para que un monstruo parezca REAL, tienes que mezclar partes de animales que SÍ existen.
 
----
+### La Fórmula Clásica
 
-## Comprensión intuitiva
+* **Cabeza de T-Rex o Cocodrilo** (Para dar miedo).
+* **Cuerpo de Gato o Lagartija** (Para moverse rápido).
+* **Alas de Murciélago** (Para volar).
 
-### La Fórmula del Dragón
-
-Un dragón suele ser una mezcla de 3 partes animales:
-
-1. **Reptil**: Escamas, cola larga, garras (Cuerpo de dinosaurio/lagarto).
-2. **Ave/Murciélago**: Alas, capacidad de vuelo.
-3. **Depredador**: Dientes afilados, ojos de gato o águila.
-
-Pero... ¡tú eres el creador! Tu dragón puede tener partes de pez, de insecto o de roca.
+¡Tú eres el chef! Puedes cambiar los ingredientes. ¿Qué tal un dragón con cabeza de tiburón?
 
 ---
 
-## Paso a paso: Diseñando la Bestia
+## 2. Paso a paso: Cómo dibujar tu Dragón
 
-### Paso 1: La Personalidad
+### Paso 1: El Cuerpo (El Chasis)
 
-Antes de dibujar, decide:
+Imagina qué "vehículo" es tu dragón:
 
-- ¿Es bueno o malo?
-- ¿Es gigante y pesado (como un tanque) o delgado y rápido (como una serpiente)?
-- ¿Vive en un volcán (Rojo/Negro) o en el hielo (Blanco/Azul)?
+* ¿Es un **Tanque**? Dibuja un óvalo gordo y pesado (como un hipopótamo).
+* ¿Es un **Tren Bala**? Dibuja un tubo largo y flaco (como una serpiente).
 
-### Paso 2: El Esqueleto Base
+### Paso 2: Las Alas (¡Cuidado aquí!)
 
-1. **Cuerpo**: Si es pesado, usa un óvalo grande. Si es rápido, usa un tubo largo y curvo (serpiente).
-2. **Cabeza**: Muchos dragones tienen cabeza triangular (como víboras) o rectangular (como caballos).
-3. **Cuello**: Suele ser largo y flexible para lanzar fuego.
+Este es el error número 1. Las alas NO se pegan en la espalda como una mochila.
+**Las alas son BRAZOS extra.**
 
-### Paso 3: Las Alas (Anatomía difícil)
+* Mira tu brazo: Hombro -> Codo -> Mano.
+* El ala de dragón es igual: Sale del hombro, sube al codo, y los dedos son larrrrrgos (como varillas de paraguas) para sostener la piel.
 
-Las alas de dragón no se pegan "así no más". Son como BRAZOS extra.
+### Paso 3: La Piel (Texturas)
 
-- Tienen hombro, codo y dedos largos.
-- La piel (membrana) se estira entre los dedos.
-- Dibuja un brazo largo doblado en "V" y luego conecta la piel al cuerpo.
+No trates de dibujar CADA escama. ¡Te vas a cansar!
 
-### Paso 4: Textura y Detalles
-
-- **Escamas**: No dibujes todas. Dibuja algunas agrupadas en los hombros y lomo.
-- **Cuernos**: Sirven para proteger la cabeza o para verse guapos. ¡Hazlos locos!
-- **Cola**: Necesita un final. ¿Una punta de flecha? ¿Un mazo de picos? ¿Una aleta de pez?
+* **Truco Pro**: Dibuja grupitos de escamas solo en las zonas duras (hombros, rodillas, lomo).
+* Deja la panza lisa o con rayas (como las serpientes).
 
 ---
 
-## Ejercicios prácticos
+## 3. Errores Comunes (¡Evítalos!)
 
-### Ejercicio 1: El Mezclador de Partes
+### ❌ Error: "Alas de Mosquito"
 
-**Instrucciones**:
-Tira un dado (o elige al azar):
+* **Problema**: Dibujas un dragón gigante con alitas de hada.
+* **Por qué falla**: Tu cerebro sabe que eso no puede volar. ¡Se caería!
+* **Solución**: Si el dragón es grande, ¡las alas deben ser GIGANTES! (Más grandes que el cuerpo).
 
-1. Cabeza de... (T-Rex / Cocodrilo / Águila).
-2. Cuerpo de... (León / Serpiente / Gorila).
-3. Alas de... (Murciélago / Mariposa / Ángel).
-4. Piel de... (Piedra / Plumas / Fuego).
-¡Combínalos en un solo dibujo!
+### ❌ Error: "El Perro Disfrazado"
 
-### Ejercicio 2: El Dragón Elemental
-
-**Instrucciones**:
-Inventa un dragón basado en un elemento que NO sea fuego.
-
-- **Dragón de Agua**: Tiene aletas, branquias, es azul y suave.
-- **Dragón de Bosque**: Tiene ramas en vez de cuernos, piel de corteza y hojas en las alas.
-- **Dragón de Trueno**: Es amarillo, picudo y eléctrico.
+* **Problema**: Dibujas un perro y solo le pones alas.
+* **Solución**: Cambia las patas. Los reptiles tienen dedos largos y garras curvas. Cambia la cola: hazla gruesa y larga (como de cocodrilo), no peluda.
 
 ---
 
-## Errores comunes y soluciones
+## 4. Resumen Visual
 
-### ❌ Error 1: Alas inútiles
-
-**Problema**: Dibujar alas pequeñitas en un dragón gordo.
-**Logica**: ¡Ese pobre no podría volar!
-**Solución**: Si el dragón es grande, las alas deben ser GIGANTES (mínimo el doble de largo que el cuerpo). Si no quieres alas grandes, haz un dragón que no vuele (Dragón de tierra).
-
-### ❌ Error 2: El "Perro con alas"
-
-**Problema**: Dibujar un perro normal y pegarle alas.
-**Solución**: Cambia la anatomía. Haz el cuello más largo, la cola más reptiliana, las patas con garras más grandes. ¡Hazlo monstruoso!
-
----
-
-## Reflexión final
-
-Crear criaturas es el ejercicio máximo de libertad. No hay respuestas incorrectas, solo respuestas aburridas. Haz que tu dragón sea tan único que si alguien lo ve, quiera saber su historia.
-
-**Práctica diaria**: Mira una lagartija o una iguana. Imagínala gigante y con alas. ¿Cómo se movería?
+1. **Mezcla**: Elige 3 animales.
+2. **Estructura**: Cuerpo pesado o ligero.
+3. **Alas**: Son brazos largos, no estampas.
+4. **Verdad**: Si parece que puede moverse y comer, ¡es un buen dragón!

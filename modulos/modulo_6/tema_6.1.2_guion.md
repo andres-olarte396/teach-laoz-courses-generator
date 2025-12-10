@@ -1,24 +1,13 @@
-# Guion: El Sándwich de Dibujo
+# Guion: Capas de Sabor
 
-**Personaje**: El Profe Lápiz comiendo un sándwich
-**Duración**: 2 minutos
+**(Sonido de mordida: Crunch)**
 
----
+**Profe Lápiz**: "Un buen dibujo es como una hamburguesa. Tiene capas."
 
-**(Sonido de mordida crujiente - Crunch)**
+**Profe Lápiz**: "Abajo, muy cerca de ti, está el pan (Primer Plano). Se ve gigante y detallado."
 
-**Profe Lápiz**: Mmm... me encantan los sándwiches.
-Pan arriba, queso en medio, pan abajo. Capas.
+**Profe Lápiz**: "En medio está la carne y el queso (Plano Medio). Ahí está lo sabroso, la historia."
 
-**Profe Lápiz**: Un buen dibujo es como un sándwich. Tiene capas.
+**Profe Lápiz**: "Y hasta atrás, lejos, están las semillas de sésamo (Fondo). Se ven chiquititas."
 
-1. **Lo de Cerca**: Es lo que tienes en la nariz. Se ve gigante.
-2. **Lo de En Medio**: Donde está la acción.
-3. **Lo de Lejos**: Las montañas pequeñitas allá al fondo.
-
-**Profe Lápiz**: Si dibujas todo del mismo tamaño, tu dibujo se ve plano como una tortilla.
-¡Queremos un sándwich gordo jugoso!
-Pon cosas grandes al frente y cosas chiquitas atrás.
-¡Y deja que se tapen entre sí! No sean tímidos.
-
-**Profe Lápiz**: A cocinar... digo, ¡a dibujar!
+**Profe Lápiz**: "No pongas todo en una sola fila como soldados. ¡Pon cosas delante de otras! ¡Haz un sándwich visual!"

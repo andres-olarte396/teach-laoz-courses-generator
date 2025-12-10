@@ -1,15 +1,11 @@
-# Guion: Frutas y verduras
+# Guion: La Fruta Imperfecta
 
-**(Sonido de mordisco crujiente)**
+**(Sonido de mordida: ¡Crock!)**
 
-**Profesor**: "¡Mmm! Delicioso. Hoy vamos a dibujar... ¡nuestra merienda! Frutas y verduras."
+**Profe Lápiz**: "Mmm... qué rica manzana. ¿Saben por qué me gusta? Porque no es perfecta."
 
-**Profesor**: "¿Sabías que en la naturaleza no existen las líneas rectas perfectas? Mira esta manzana. No es una bola de billar. Tiene bultitos, un lado más plano, manchitas."
+**Profe Lápiz**: "En la naturaleza, nada es recto. Los árboles son chuecos, las piedras son boludas y las frutas son... raras."
 
-**Profesor**: "Eso se llama 'forma orgánica'. Y es lo que hace que un dibujo se vea vivo."
+**Profe Lápiz**: "Si dibujas una manzana como un círculo perfecto con un palito... parece un logo de computadora. ¡Aburrido!"
 
-**Profesor**: "Vamos a empezar. Dibuja un círculo suave. No aprietes el lápiz. Ahora, mira tu manzana. ¿Ves ese huequito arriba donde sale el tallo? Vamos a dibujarlo haciendo una pequeña curva, como una sonrisa triste."
-
-**Profesor**: "El tallo sale DE DENTRO de esa sonrisa. No lo pegues encima como una vela en un pastel."
-
-**Profesor**: "Y por último, el secreto para que no parezca que flota en el espacio... ¡Sombra! Dibuja una manchita oscura debajo, justo donde toca la mesa. ¡Listo! Se ve tan real que quiero morderla."
+**Profe Lápiz**: "Hoy vamos a dibujar las curvas locas, los chipotes y las manchitas. Recuerda: En el arte, lo 'feo' y 'chueco' es lo que lo hace ver real."

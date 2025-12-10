@@ -1,40 +1,52 @@
-# Ejercicios: Firma y montaje
+# Ejercicios: La Marca del Artista
 
-## Ejercicio 1: Buscando tu Marca
+---
 
-**Objetivo**: Crear una firma legible y con personalidad.
+## Ejercicio 1: Diseñando tu Firma
+
+**Objetivo**: Crear una identidad visual única.
 
 **Instrucciones**:
 
-1. En una hoja de cuaderno, escribe tu nombre 10 veces de formas diferentes:
-    * Letra ligada (cursiva).
-    * Letra de molde (mayúsculas).
-    * Letra tipo graffiti.
-    * Solo iniciales.
-    * Con un subrayado.
-2. Pídele a un amigo o familiar que elija cuál se ve más "profesional".
-3. Esa será tu firma oficial de artista.
+1. Toma una hoja de práctica.
+2. Escribe tu nombre de 5 formas diferentes:
+    * **Completa**: Juan Pérez.
+    * **Iniciales**: J.P.
+    * **Artística**: Juan-Art (con estrellas o garabatos).
+    * **Graffiti**: Letras gordas.
+    * **Minimalista**: Una sola línea rápida.
+3. Imagina que eres famoso. ¿Cuál firma se vería mejor en un museo? ¡Esa es la elegida!
+
+---
 
 ## Ejercicio 2: El Marco Instantáneo
 
-**Objetivo**: Mejorar la presentación de un dibujo.
+**Objetivo**: Ver el poder del contraste.
 
 **Instrucciones**:
 
-1. Toma un dibujo viejo que te guste.
-2. Busca una cartulina de color NEGRO o GRIS.
-3. Corta la cartulina para que sea 3 cm más grande que tu dibujo por cada lado.
-4. Pega tu dibujo en el centro usando pegamento en barra por atrás.
-5. ¡Mira la diferencia! Parece listo para una exposición.
+1. Toma un dibujo viejo (de práctica).
+2. Ponlo sobre una hoja de papel NEGRO o de color oscuro.
+3. ¿Ves cómo cambia? Parece más importante, ¿verdad?
+4. Pégalo con pegamento en barra (¡poquito, solo en las esquinas por atrás!).
+5. Ahora tienes una obra lista para colgar.
 
-## Ejercicio 3: Práctica de Ubicación
+---
 
-**Objetivo**: Colocar la firma sin arruinar la composición.
+## Ejercicio 3: Práctica de Puntería
+
+**Objetivo**: Ubicar la firma sin arruinar el dibujo.
 
 **Instrucciones**:
 
-1. Toma un dibujo o revista que no sirva.
-2. Imagina que es tu obra maestra.
-3. Firma en la esquina inferior derecha.
-    * Intenta que la firma no toque el borde del papel (deja un margen).
-    * Intenta que sea pequeña y elegante.
+1. Dibuja 4 rectángulos (simulando cuadros).
+2. Firma en cada uno tratando de caer en la **zona perfecta**:
+    * No muy pegado al borde (se corta si lo enmarcas).
+    * No muy al centro (estorba).
+    * Tiene que "flotar" en la esquina con elegancia.
+
+---
+
+## Tip Pro
+
+Si tu dibujo es oscuro (ej. un paisaje nocturno), ¡firma con lápiz de color blanco o plateado!

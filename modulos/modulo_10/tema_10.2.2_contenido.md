@@ -1,115 +1,68 @@
 # La ciudad del futuro
 
+![Ilustración de Ciudad del Futuro](./tema_10.2.2_header.svg)
+
 **Tiempo estimado**: 50 minutos  
 **Nivel**: Creativo-Avanzado (8+ años)  
-**Prerrequisitos**: Perspectiva básica (M7), Formas (M1)
+**Concepto Clave**: Escala y Formas Geométricas Avanzadas
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. Adiós a las Cajas de Zapatos
 
-El futuro no está escrito, ¡tú tienes que dibujarlo!
-Dibujar ciudades futuristas (Sci-Fi) es la mejor forma de practicar **Perspectiva** y **Formas Geométricas** sin aburrirse. Puedes inventar edificios que flotan, carreteras de luz y robots gigantes.
-
----
-
-## Comprensión intuitiva
-
-### Rompiendo la caja
-
-Las ciudades de hoy son cajas (edificios rectangulares).
-Las ciudades del futuro suelen ser:
-
-1. **Curvas y Orgánicas**: Como la ciudad de los Supersónicos o Zootopia. Formas de huevo, gota o flor.
-2. **Angulares y Agresivas**: Como en Blade Runner o Star Wars. Pirámides, agujas, metal oscuro.
-
-Tú eliges el estilo: ¿Futuro Feliz (limpio/blanco) o Futuro Rudo (sucio/industrial)?
+Mira por tu ventana. La mayoría de los edificios son cajas rectangulares aburridas.
+¡En el futuro eso se acabó!
+La arquitectura del futuro usa formas atrevidas: Esperas, donas, agujas, espirales.
 
 ---
 
-## Elementos del Futuro
+## 2. Los Dos Futuros (Estilos)
 
-### 1. Altura Extrema
+Para inspirarte, elige uno de estos dos estilos famosos:
 
-En el futuro, el espacio se acaba, así que construimos hacia arriba.
+### A. Solarpunk (Futuro Verde)
 
-- Dibuja edificios MUY altos y delgados (agujas).
-- Conéctalos con puentes aéreos (skybridges).
+* **Filosofía**: Tecnología + Naturaleza.
+* **Formas**: Curvas, suaves, blancas, cristal.
+* **Detalles**: Árboles en los techos, cascadas cayendo de edificios, paneles solares, molinos de viento.
+* **Vibe**: Feliz, brillante, limpio.
 
-### 2. Tecnología Visible
+### B. Cyberpunk (Futuro Neón)
 
-- Antenas, parábolas, luces de neón.
-- Tuberías gigantes por fuera de los edificios.
-- Pantallas holográficas flotando.
-
-### 3. Transporte
-
-- ¡Adiós llantas! Dibuja autos voladores.
-- Trenes que levitan (líneas de luz).
-- Drones por todos lados.
+* **Filosofía**: Alta Tecnología + Mucha Gente.
+* **Formas**: Cuadradas, agresivas, amontonadas.
+* **Detalles**: Cables colgando, tuberías, humo, luces de NEÓN, pantallas gigantes con anuncios.
+* **Vibe**: Oscuro, misterioso, eléctrico.
 
 ---
 
-## Paso a paso: Metrópolis 3000
+## 3. El Truco Mágico: LA ESCALA
 
-### Paso 1: La Perspectiva (Opcional pero recomendada)
+¿Cómo haces que un edificio se vea GIGANTE en el papel?
+**Truco**: Dibuja algo pequeñito al lado para comparar.
 
-Usa un punto de fuga bajo para que los edificios se vean gigantes hacia arriba.
-
-### Paso 2: Las Formas Base
-
-- No dibujes solo cajas. Dibuja cilindros, conos invertidos, esferas sobre palos.
-- **Reto**: Dibuja un edificio con forma de champiñón o de dona.
-
-### Paso 3: Capas de Profundidad
-
-1. **Fondo**: Siluetas de mega-torres gigantes entre la niebla.
-2. **Medio**: Autopistas de luz curvas que cruzan entre los edificios.
-3. **Primer Plano**: Una nave aterrizando en una plataforma o un robot mirando la ciudad.
+* Si dibujas un edificio solo, no sé si mide 1 metro o 1 kilómetro.
+* Si dibujas una **nave espacial pequeñita** volando al lado de la torre... ¡BOOM! Ahora sé que la torre es inmensa.
 
 ---
 
-## Ejercicios prácticos
+## 4. Paso a paso: Construyendo Metrópolis
 
-### Ejercicio 1: Solarpunk (Futuro Verde)
-
-**Instrucciones**:
-
-1. Dibuja una ciudad donde la tecnología y la naturaleza son amigas.
-2. Los edificios son de cristal pero tienen árboles creciendo en los balcones y techos.
-3. Hay molinos de viento y paneles solares con formas bonitas.
-4. Usa mucho blanco, verde y azul.
-
-### Ejercicio 2: Cyberpunk (Futuro Neón)
-
-**Instrucciones**:
-
-1. Dibuja una calle oscura de noche (usa papel negro o pinta el fondo azul oscuro).
-2. Dibuja edificios cuadrados y llenos de cables.
-3. Lo importante: ¡LUCES! Usa tus colores más brillantes (rosa, cian, amarillo limón) para hacer letreros luminosos y ventanas.
+1. **Suelo (o sin suelo)**: ¿Tu ciudad flota entre nubes? ¿O está en el suelo?
+2. **Edificios Principales**: Dibuja 3 formas grandes (Una aguja, un arco, una esfera).
+3. **Conexiones**: En el futuro no cruzamos la calle caminando. Dibuja **Puentes Aéreos** (tubos o carreteras) que conectan los edificios en las alturas.
+4. **Tráfico Aéreo**: Dibuja puntitos o líneas de autos voladores creando "ríos" de tráfico en el cielo.
 
 ---
 
-## Errores comunes y soluciones
+## 5. Errores Comunes
 
-### ❌ Error 1: Ventanas aburridas
+### ❌ Error: "Ventanas de Ajedrez"
 
-**Problema**: Dibujar cuadricula de ventanas "tabla de ajedrez" en todos los edificios.
-**Solución**: Varía.
+* **Problema**: Llenar todo el edificio con cuadritos iguales (aburrido).
+* **Solución**: Haz bandas de cristal, ventanas redondas o zonas sin ventanas. ¡Varía!
 
-- Un edificio tiene ventanas de tiras horizontales.
-- Otro tiene ventanas redondas.
-- Otro es todo de cristal (liso).
+### ❌ Error: "Falta de Vida"
 
-### ❌ Error 2: Falta de escala
-
-**Problema**: No se sabe si el edificio mide 3 metros o 3 kilómetros.
-**Solución**: Dibuja algo pequeño que conozcamos para comparar. Una ventanita, una personita o una nave pequeña al lado del edificio gigante. Eso da la sensación de tamaño inmenso.
-
----
-
-## Reflexión final
-
-El futuro siempre es una exageración del presente. Observa tu ciudad hoy e imagina: "¿Qué pasaría si este edificio fuera 10 veces más alto? ¿Qué pasaría si esa carretera flotara?". ¡Dibújalo!
-
-**Práctica diaria**: Convierte objetos de tu casa en edificios. ¿Esa botella de champú? Es una torre de apartamentos. ¿Esa engrapadora? Es una estación de policía espacial. Dibuja la "Ciudad Escritorio".
+* **Problema**: Una ciudad vacía parece maqueta.
+* **Solución**: Pon luces, antenas, humo, naves... ¡Que se vea que ahí vive gente (o robots)!

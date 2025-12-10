@@ -1,33 +1,24 @@
-# Evaluación: Difuminado
+# Evaluación: Inspector de Limpieza
 
-**Tipo**: Verdadero o Falso
+## Pregunta 1
 
----
+¿Qué pasa si difumino con el dedo sucio en una zona blanca?
 
-## 1. Herramientas
+- A) Se ve artístico.
+- B) Se ve manchado y sucio.
 
-¿Cuál de estas cosas NO sirve para difuminar?
-a) El dedo.
-b) Un papel higiénico.
-c) Una lija de madera.
+## Pregunta 2
 
-## 2. La Regla del Borroso
+¿Debo difuminar TODO el dibujo hasta que parezca una foto borrosa?
 
-Verdadero o Falso:
-"Para que un dibujo se vea bien, debo difuminar absolutamente TODO, incluyendo los bordes y las líneas negras."
-( ) Verdadero
-( ) Falso
+- A) Sí.
+- B) No. Hay que mantener bordes limpios también.
 
-## 3. Limpieza
+## Reto
 
-¿Qué pasa si uso un dedo sucio con grafito oscuro para difuminar una nube blanca?
-a) Se ve genial y misterioso.
-b) Se ve sucio y manchado.
+Haz una mancha de lápiz y difumínala.
+Luego pasa tu goma por en medio.
+¿Lograste hacer un camino blanco limpio?
 
----
-
-## Respuestas
-
-1: c
-2: Falso (Se pierde definición)
-3: b
+- [ ] Sí, se ve el contraste.
+- [ ] No, mi goma estaba sucia y manchó más.

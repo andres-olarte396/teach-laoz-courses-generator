@@ -1,37 +1,30 @@
-# Evaluación: La regla del pulgar
+# Evaluación: Examen de Robot
 
 ## Pregunta 1
 
-¿Cuál es la postura correcta del brazo para medir visualmente con el lápiz?
+Para medir con el lápiz, el brazo debe estar...
 
-- A) Brazo relajado y codo doblado.
-- B) Brazo totalmente estirado y rígido (como robot).
-- C) Brazo detrás de la espalda.
+- A) Dobladito y relajado.
+- B) Totalmente estirado y tieso (como robot).
 
 ## Pregunta 2
 
-¿Por qué cerramos un ojo al medir?
+¿Por qué cerramos un ojo?
 
-- A) Para aplanar la visión a 2D y medir mejor.
-- B) Porque nos duele el ojo.
-- C) Para hacer un guiño al modelo.
+- A) Para apuntar mejor y ver en 2D.
+- B) Porque la luz molesta.
 
 ## Pregunta 3
 
-Si mides una mesa y descubres que el ancho cabe 2 veces en el largo, ¿cómo debes dibujarla?
+Esta técnica sirve para...
 
-- A) Como yo quiera.
-- B) Dibujando un rectángulo donde el largo sea el doble (2 veces) que el ancho.
-- C) Cuadrada.
+- A) Saber cuántos centímetros mide algo.
+- B) Saber PROPORCIONES (cuántas veces cabe una cosa en otra).
 
-## Pregunta 4
+## Reto
 
-Verdadero o Falso:
-"Esta técnica sirve para saber cuántos centímetros mide un objeto real."
+Mide a tu papá o mamá desde lejos.
+¿Cuántas "cabezas" caben en su altura total?
 
-- ( ) Verdadero
-- ( ) Falso (Sirve para medir PROPORCIONES, no centímetros reales).
-
-## Ejercicio Rápido
-
-Mide tu propio dedo pulgar con el lápiz (estirando el otro brazo). ¡Ahora usa esa medida para ver cuántos "pulgares" mide tu mano entera!
+- [ ] Como 3 cabezas (¡Es un enano!).
+- [ ] Como 7 u 8 cabezas (¡Es un adulto normal!).

@@ -1,34 +1,35 @@
-# Ejercicios: Conquistando el Espacio
+# Ejercicios: Conquistando el Papel
 
-## Ejercicio 1: El Acuario Lleno
+## Ejercicio 1: Toca los 4 Bordes
 
-**Objetivo**: Tocar los 4 bordes del papel.
-**Tiempo**: 15 minutos.
+**Objetivo**: Perder el miedo al borde.
 
-### Instrucciones
+**Instrucciones**:
 
 1. Dibuja un pez en el centro.
-2. Dibuja arena que toque el borde de **ABAJO**.
-3. Dibuja algas altas que toquen el borde de **ARRIBA**.
-4. Dibuja una roca/cueva que salga por la **IZQUIERDA**.
-5. Dibuja burbujas saliendo por la **DERECHA**.
-6. ¡Tu acuario es gigante!
+2. Dibuja el suelo (arena) tocando el borde de **ABAJO**.
+3. Dibuja algas altas tocando el borde de **ARRIBA**.
+4. Dibuja burbujas saliéndose por la **DERECHA**.
+5. Dibuja una roca saliéndose por la **IZQUIERDA**.
+¡Tu dibujo ahora es un mundo completo, no una isla!
 
----
+## Ejercicio 2: El Gigante Selfie
 
-## Ejercicio 2: El Dinosaurio Selfie
+**Objetivo**: Dibujar cosas que no caben.
 
-**Objetivo**: Entender el recorte (cropping).
-**Tiempo**: 15 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Imagina que le tomas una foto de cerca a un T-Rex.
+2. Dibuja su ojo y sus dientes GIGANTES.
+3. No dibujes el cuerpo, ni la cola. ¡No caben!
+4. Haz que el dibujo toque todos los bordes.
+5. ¿Ves qué poderoso se ve?
 
-1. Imagina que tomas una foto muy cerca de un T-Rex.
-2. Dibuja su cabeza GRANDE ocupando casi toda la hoja.
-3. Deja que su cuello y parte de su mandíbula se "salgan" de la hoja.
-4. No intentes meter todo el cuerpo. Que se vea ENORME.
+## Ejercicio 3: Prohibido el Centro
 
-### Criterios de Éxito
+**Objetivo**: Composición asimétrica.
 
-- [ ] Tu dibujo toca al menos 3 de los 4 bordes del papel.
-- [ ] No dejaste espacios blancos gigantes vacíos.
+**Instrucciones**:
+Dibuja un árbol, pero NO en el centro.
+Dibújalo a un lado (izquierda o derecha).
+Se ve más interesante, ¿verdad?

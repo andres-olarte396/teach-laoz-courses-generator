@@ -1,33 +1,23 @@
-# Evaluación: Zoología Artística
+# Evaluación: Veterinario de Dibujo
 
-**Tipo**: Verdadero o Falso
+## Pregunta 1
 
----
+¿Qué forma geométrica le queda mejor a un perro fuerte?
 
-## 1. Patas de Palo
+- A) Círculos suaves y fideos.
+- B) Cuadrados y cajas robustas.
 
-Verdadero o Falso:
-"Las patas de los animales son totalmente rectas como palos de escoba".
-( ) Verdadero.
-( ) Falso (Tienen codos y rodillas).
+## Pregunta 2
 
-## 2. La Cola
+¿Cómo son las patas de los animales?
 
-¿De dónde sale la cola de un animal?
-a) Es una continuación de la columna vertebral.
-b) Sale de una de las patas traseras.
-c) Está pegada con pegamento en la espalda.
+- A) Rectas como palos de escoba.
+- B) Dobladas como resortes (con articulaciones).
 
-## 3. Formas Básicas
+## Reto
 
-Si quiero dibujar un gato ágil y rápido, ¿qué formas me sirven más?
-a) Cuadrados pesados y ladrillos.
-b) Círculos, óvalos y curvas suaves.
+Dibuja un gato durmiendo.
+Recuerda: ¡Es líquido! Puede ser un simple círculo peludo.
 
----
-
-## Respuestas
-
-1: Falso
-2: a
-3: b
+- [ ] Parece un gato cómodo.
+- [ ] Parece una piedra dura.

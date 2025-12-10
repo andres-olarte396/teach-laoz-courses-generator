@@ -1,17 +1,17 @@
-# Guion: La exposición de arte
+# Guion: La Exposición de Arte
 
-**(Sonido de copas brindando chin-chin y música de piano elegante)**
+**(Efecto de sonido: Copas brindando "Chin-chin" y música suave de piano)**
 
-**Profesor**: "Damas y caballeros, bienvenidos a la Gran Galería."
+**Profesor**: "Damas y caballeros, bienvenidos a la Gran Galería de Arte."
 
-**Profesor**: "Hoy no estamos aquí para aprender. Estamos aquí para celebrar. Han recorrido un camino largo. Desde los primeros círculos chuecos hasta esta obra maestra que tienen en sus manos."
+**Profesor**: "Hoy estamos de fiesta. Miren esas paredes. Miren esos colores. ¡Hay verdadero talento en esta sala!"
 
-**Profesor**: "Exponer da miedo. Es como pararse desnudo frente a la gente. Pero el arte no vive en la oscuridad. El arte necesita ojos que lo miren."
+**Profesor**: "Estudiante... o debería decir, colega Artista. Ha sido un honor dibujar contigo. Empezamos con garabatos simples y hoy veo obras maestras."
 
-**Profesor**: "Cuelguen su dibujo con orgullo. Invíten a su familia. Cuéntenles la historia de su dragón o de su paisaje."
+**Profesor**: "Exponer tu trabajo requiere valentía. Es decirle al mundo: 'Este soy yo'. Y tú has sido muy valiente."
 
-**Profesor**: "Y recuerden esto siempre: Un artista no es el que vende cuadros caros. Un artista es el que ve el mundo, lo filtra por su corazón y lo devuelve en una hoja de papel. Ustedes YA son artistas."
+**Profesor**: "Nunca dejes que nadie te diga que no sabes dibujar. El dibujo es como hablar: mientras más lo haces, mejor te comunicas. Sigue observando, sigue practicando y sigue creando."
 
-**Profesor**: "¡Felicidades, graduados! Sigan dibujando siempre."
+**Profesor**: "¡Este aplauso es para ti! ¡Felicidades!"
 
-**(Sonido de aplausos fuertes y ovación)**
+**(Efecto de sonido: Ovación de pie y fuegos artificiales)**

@@ -1,17 +1,18 @@
 # Guion: Mi Planeta Extraño
 
-**(Sonido de nave espacial aterrizando y radar escaneando)**
+**(Efecto de sonido: Estática de radio, pitidos de radar y motor de nave espacial)**
 
-**Profesor**: "¡Bitácora del Capitán! Hemos aterrizado en el Planeta X. Nada es como en la Tierra."
+**Profesor**: "¡Atención tripulación! Estamos aterrizando en el Planeta X-99. Pónganse sus cascos de oxígeno."
 
-**Profesor**: "¿Ven el cielo? ¡No es azul, es verde limón! Y las plantas no tienen hojas... ¡tienen tentáculos!"
+**Profesor**: "¡Miren por la ventana! ¡El cielo no es azul! Es... ¿Verde neón? ¡Y las nubes son moradas!"
 
-**(Sonido de burbujeo extraño)**
+**(Efecto de sonido: Viento ululante extraño)**
 
-**Profesor**: "Para dibujar un planeta alienígena, tenemos que romper las reglas. Si dibujamos pasto verde y sol amarillo... bueno, eso es el patio de tu casa, no el espacio exterior."
+**Profesor**: "Hoy vamos a ser exploradores espaciales. La regla número 1 para dibujar otros mundos es: **Olvida la Tierra**."
 
-**Profesor**: "Vamos a jugar con la física. Aquí la gravedad es muy débil. ¡Miren! Las piedras flotan en el aire. Y los árboles son altísimos, delgados como espaguetis, tratando de tocar las nubes de gas."
+**Profesor**: "Si dibujas pasto verde y sol amarillo... ¡Aburrido! Eso lo veo todos los días. Quiero que inventen colores nuevos. ¿Qué tal un río de lava rosa? ¿O árboles de cristal transparente?"
 
-**Profesor**: "¿Y si en este planeta nunca sale el Sol? Quizás todo brilla en la oscuridad, como las luciérnagas. ¡Eso se llama bioluminiscencia!"
+**Profesor**: "Y cuidado con la gravedad... ¡Aquí es muy baja! Miren esa roca gigante... ¡ESTÁ FLOTANDO!"
+"Si la gravedad es baja, las cosas flotan o son muy altas y delgadas. Si la gravedad es fuerte, todo es bajito y aplastado."
 
-**Profesor**: "Olviden lo que saben de la Tierra. Hoy, lo extraño es lo normal. ¡A explorar!"
+**Profesor**: "¿Listos para dibujar lo imposible? ¡Recojan muestras de plantas raras y comiencen su reporte!"

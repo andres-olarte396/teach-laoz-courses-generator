@@ -1,38 +1,52 @@
-# Ejercicios: Manchas divertidas (Tinta y imaginación)
+# Ejercicios: Domadores de Manchas
 
-## Ejercicio 1: Pareidolia (Ver caras)
+---
 
-**Objetivo**: Entrenar el cerebro para encontrar formas en el caos.
+## Ejercicio 1: El Zoológico de Manchas
 
-**Instrucciones**:
-
-1. Pide a alguien que haga 3 garabatos rápidos (ojos cerrados) en tu hoja.
-2. Míralos desde diferentes ángulos (gira la hoja).
-3. Encuentra una figura en cada garabato y delinéala con color.
-4. ¡No vale decir "no veo nada"! Esfuérzate.
-
-## Ejercicio 2: Monstruos de Tinta (Soplado)
-
-**Objetivo**: Crear personajes dinámicos sin dibujar el cuerpo.
+**Objetivo**: Flexibilidad mental (Imaginación).
 
 **Instrucciones**:
 
-1. Pon una gota grande de tinta/acuarela en el papel.
-2. Sopla con un popote en varias direcciones para crear "patas" o "pelos".
-3. Deja secar.
-4. Si la mancha tiene patas largas -> Es un monstruo corredor. Ponle tenis.
-5. Si la mancha es redonda y peluda -> Es un monstruo miedoso. Ponle ojos grandes.
-6. Si la mancha parece explosión -> Es un monstruo eléctrico.
+1. Haz 5 manchas pequeñas de diferentes colores en tu hoja (Sopla o aplasta).
+2. Déjalas secar.
+3. **Reto**: Convierte cada mancha en un animal distinto.
+    * Mancha 1 -> ¿Un gato enojado?
+    * Mancha 2 -> ¿Un pez globo?
+    * Mancha 3 -> ¿Una bacteria feliz?
+4. Usa plumón negro para ponerles ojos, bocas, pies y manos.
 
-## Ejercicio 3: Espejo Rorschach
+---
 
-**Objetivo**: Crear simetría y criaturas alienígenas.
+## Ejercicio 2: El Espejo Mágico (Simetría)
+
+**Objetivo**: Crear diseños complejos simétricos.
 
 **Instrucciones**:
 
-1. Dobla una hoja por la mitad y ábrela.
-2. Pon pintura de 3 colores en el pliegue central.
-3. Cierra y aplasta fuerte con la mano.
-4. Abre con cuidado.
-5. Observa la figura simétrica. ¿Parece un insecto? ¿Una máscara? ¿Un dragón?
-6. Dibuja los detalles faltantes (antenas, ojos, dientes) con plumón negro.
+1. Dobla una hoja a la mitad y vuelve a abrirla.
+2. Pon gotitas de 3 colores diferentes justo en la línea del doblez.
+3. Cierra la hoja y PÁSALE LA MANO ENCIMA para aplastar la pintura. frotando hacia afuera.
+4. Abre con emoción... ¡Wooooow!
+5. ¿Qué parece? ¿Una máscara tribal? ¿Un insecto espacial?
+6. Termínalo con detalles de plumón.
+
+---
+
+## Ejercicio 3: Nubes de Garabato (Sin pintura)
+
+**Objetivo**: Practicar Pareidolia sin ensuciar.
+
+**Instrucciones**:
+
+1. Cierra los ojos.
+2. Haz un garabato rápido con tu lápiz (3 segundos). ¡Rayones a lo loco!
+3. Abre los ojos.
+4. Busca una forma escondida entre las líneas.
+5. Colorea la forma que encontraste para que los demás también la vean.
+
+---
+
+## Tip de Limpieza
+
+¡Ten papel de baño o un trapo listo! Esta clase suele ser... explosiva.

@@ -1,39 +1,47 @@
-# Ejercicios: La exposición de arte
+# Ejercicios: La Gran Inauguración
 
-## Ejercicio 1: La Cédula del Museo
+---
 
-**Objetivo**: Escribir la información técnica y emocional de tu obra.
+## Ejercicio 1: El Curador de Museo
 
-**Instrucciones**:
-
-1. Recorta un rectángulo pequeño de papel blanco (como una tarjeta).
-2. Escribe con tu mejor letra:
-    * **Título**: (Ej. "El Dragón de Hielo").
-    * **Artista**: (Tu nombre y apellido).
-    * **Técnica**: (Ej. Lápiz y acuarela sobre papel).
-    * **Año**: 2024.
-    * **Descripción**: (Una frase corta sobre qué significa para ti).
-3. Pega esta tarjeta al lado de tu dibujo en la pared.
-
-## Ejercicio 2: Guía de Curador
-
-**Objetivo**: Seleccionar tus mejores obras para un portafolio.
+**Objetivo**: Seleccionar y organizar.
 
 **Instrucciones**:
 
-1. Reúne TODOS los dibujos que hiciste en este curso (sí, hasta los feos).
-2. Sepáralos en 2 pilas: "Prácticas" y "Obras Maestras".
-3. Elige tus 3 Obras Maestras favoritas.
-4. Ordénalas para que cuenten una historia (Ej. Del más simple al más complejo, o por colores).
-5. Esta es tu "Mini Colección".
+1. Reúne TODOS los dibujos que hiciste en el curso.
+2. Sepáralos en dos pilas: "Prácticas" y "Obras Maestras".
+3. Elige solo los **3 MEJORES**. (Es difícil elegir, pero un museo no puede mostrar todo).
+4. Decide el orden: ¿Primero el de animales? ¿Primero el paisaje? Cuenta una historia con el orden.
 
-## Ejercicio 3: Crítica Constructiva (Roleplay)
+---
 
-**Objetivo**: Aprender a pedir opinión sin miedo.
+## Ejercicio 2: La Cédula del Artista
+
+**Objetivo**: Escribir sobre tu obra.
 
 **Instrucciones**:
 
-1. Muestra tu dibujo a alguien de confianza.
-2. Dile: "Estoy practicando ser artista profesional. ¿Me puedes decir una cosa que te guste mucho y una cosa que podría mejorar?"
-3. Escucha en silencio. No te defiendas ("Es que el lápiz se rompió..."). Solo escucha.
-4. Di "Gracias" y anótalo en tu libreta secreta.
+1. Recorta 3 rectángulos de papel pequeños.
+2. Escribe la información de tus 3 obras elegidas:
+    * **TÍTULO**: (Inventa algo misterioso).
+    * **ARTISTA**: (Tu firma).
+    * **AÑO**: 2024.
+3. Pega cada cédula al lado de su dibujo correspondiente.
+
+---
+
+## Ejercicio 3: Ensayo General
+
+**Objetivo**: Practicar hablar de tu arte.
+
+**Instrucciones**:
+
+1. Párate frente a tu espejo con tu dibujo.
+2. Presenta tu obra: "Hola, esta obra se titula 'La Furia' y la hice con crayones derretidos porque quería expresar energía."
+3. ¡Si puedes explicarlo, la gente lo valorará más!
+
+---
+
+## Tip Final
+
+Guarda todos tus dibujos en una carpeta (Portafolio). En un año, ábrela y verás cuánto has mejorado. ¡Te vas a sorprender!

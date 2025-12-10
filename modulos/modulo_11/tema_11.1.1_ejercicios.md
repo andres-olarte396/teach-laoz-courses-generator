@@ -1,36 +1,43 @@
-# Ejercicios: Magia con cera y agua
+# Ejercicios: Magia con Cera
 
-## Ejercicio 1: El Mensaje Secreto
+---
 
-**Objetivo**: Entender la mecánica básica de la resistencia.
+## Ejercicio 1: Agente Secreto 007
 
-**Instrucciones**:
-
-1. Toma un crayón BLANCO.
-2. Escribe tu nombre o una palabra secreta en el centro de tu hoja blanca. Haz trazos gruesos (pasa el crayón 2 o 3 veces).
-3. Moja tu pincel con mucha agua y un poco de pintura (roja o azul).
-4. Pasa el pincel por encima de tu escritura.
-5. ¡Mira cómo aparece el mensaje!
-
-## Ejercicio 2: Lluvia Invisible
-
-**Objetivo**: Crear texturas atmosféricas.
+**Objetivo**: Entender la presión y la resistencia.
 
 **Instrucciones**:
 
-1. Dibuja gotas de lluvia, charcos y nubes usando crayón BLANCO y GRIS CLARO.
-2. Presiona fuerte.
-3. Prepara acuarela AZUL OSCURO (o Negro diluido).
-4. Pinta todo el papel.
-5. El resultado será una tormenta nocturna donde la lluvia brilla.
+1. Dobla tu hoja a la mitad.
+2. Usa el crayón BLANCO.
+3. En un lado, escribe "HOLA" presionando **suave**.
+4. En el otro lado, escribe "HOLA" presionando **FUERTE** (pásalo 3 veces).
+5. Pinta encima con acuarela roja.
+6. Compara: ¿Cuál se lee mejor? (El fuerte, ¿verdad?).
 
-## Ejercicio 3: Peces Luminosos
+---
 
-**Objetivo**: Usar colores neón con fondo oscuro (contraste).
+## Ejercicio 2: Acuario Neón
+
+**Objetivo**: Usar contraste de color.
 
 **Instrucciones**:
 
-1. Usa tus crayones más brillantes (Amarillo, Naranja, Verde Limón, Rosa).
-2. Dibuja peces simples, medusas y algas. ¡Rellenalos bien de cera!
-3. Pinta todo el fondo con acuarela AZUL MARINO o NEGRA.
-4. La pintura oscura se irá al fondo y tus peces parecerán lámparas de neón.
+1. Usa crayones brillantes: Amarillo, Naranja, Verde Lima, Rosa.
+2. Dibuja peces, medusas y corales por toda la hoja.
+3. ¡Rellénalos bien! No dejes huequitos blancos dentro de los peces.
+4. Pinta TODO el fondo con acuarela AZUL MARINO o AGUA DE TINTA NEGRA.
+5. ¡Parece que los peces tienen luz eléctrica!
+
+---
+
+## Ejercicio 3: Lluvia y Tormenta
+
+**Objetivo**: Crear atmósfera (clima).
+
+**Instrucciones**:
+
+1. Usa crayón BLANCO y GRIS.
+2. Dibuja muchas rayitas diagonales (lluvia) y charcos en el suelo.
+3. Pinta encima con acuarela GRIS OSCURO o MORADA.
+4. La lluvia se verá blanca y brillante sobre el día nublado.

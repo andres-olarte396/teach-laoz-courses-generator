@@ -1,22 +1,11 @@
-# Guion: El Laboratorio de Mezclas
+# Guion: El Científico del Color
 
-**Personaje**: El Profe Lápiz con bata de científico
-**Duración**: 2 minutos
+**(Sonido de burbujas de laboratorio: Glup, glup, pams)**
 
----
+**Profe Lápiz**: "¡Pónganse sus lentes de seguridad! Hoy vamos a hacer explosiones de color."
 
-**(Sonido de burbujas - Glup Glup)**
+**Profe Lápiz**: "Tengo aquí al Sr. Azul y al Sr. Amarillo. Si los junto... ¡BAM! ¡Aparece el Sr. Verde!"
 
-**Profe Lápiz**: ¡Bienvenidos al laboratorio! Pónganse sus gafas de seguridad.
-Hoy vamos a hacer explotar... digo, ¡mezclar colores!
+**Profe Lápiz**: "¿Quién quiere un atardecer? Tomo al Rojo, tomo al Amarillo y... ¡ZAZ! ¡Naranja explosivo!"
 
-**Profe Lápiz**: ¿Qué pasa si el Sr. Rojo le da un abrazo al Pequeño Amarillo?
-¡ZAS! Nace el Naranja, el color de las naranjas y los atardeceres.
-
-**Profe Lápiz**: ¿Y si el Amarillo salta a una piscina Azul?
-¡SPLASH! Se convierte en Verde, el color de los sapos y las hojas.
-
-**Profe Lápiz**: ¿Y si el Rojo y la Azul se dan la mano?
-¡PUF! Aparece el Violeta, el color de la magia y las uvas.
-
-**Profe Lápiz**: Recuerda la regla del científico: Pinta suave. Si aprietas mucho, los colores no se pueden mezclar. ¡A experimentar!
+**Profe Lápiz**: "Ustedes tienen el poder de crear colores nuevos. No necesitan comprar la caja de 100 lápices. Con sus 3 Jefes y un poco de magia, pueden pintar todo el arcoíris."

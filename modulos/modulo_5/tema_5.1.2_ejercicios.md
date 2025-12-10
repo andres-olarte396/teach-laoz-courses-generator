@@ -1,36 +1,33 @@
-# Ejercicios: La Magia del 3D
+# Ejercicios: Laboratorio de Volumen
 
-## Ejercicio 1: Escala de Fuerza
+## Ejercicio 1: La Escalera de Fuerza
 
-**Objetivo**: Controlar la presión del lápiz.
-**Tiempo**: 10 minutos.
+**Objetivo**: Controlar tu mano.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja una fila de 5 cuadraditos.
-2. Cuadro 1: Déjalo **Blanco** (Papel).
-3. Cuadro 5: Píntalo **Negro** total (Presiona fuerte).
-4. Cuadro 3: Píntalo Gris medio.
-5. Completa el 2 (Gris claro) y el 4 (Gris oscuro).
-6. ¡Tienes una escalera de valores!
+1. Dibuja 5 cuadritos juntos.
+2. Cuadro 1: BLANCO (No toques el papel).
+3. Cuadro 2: Gris muy suave.
+4. Cuadro 3: Gris normal.
+5. Cuadro 4: Gris oscuro.
+6. Cuadro 5: NEGRO (Aprieta fuerte).
+¿Puedes ver la diferencia entre todos?
 
----
+## Ejercicio 2: La Esfera Mágica
 
-## Ejercicio 2: La Esfera Perfecta
+**Objetivo**: Tu primer objeto 3D.
 
-**Objetivo**: Crear volumen con degradado.
-**Tiempo**: 25 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un círculo suave (usa una tapa o vaso).
+2. Elige dónde está la luz (Arriba-Derecha) y dibuja un circulito pequeño: ¡ESE ES EL BRILLO! NO LO TOQUES.
+3. Vete al lado contrario (Abajo-Izquierda) y pinta NEGRO siguiendo la curva.
+4. Llena el espacio del medio con GRIS.
+5. Usa tu dedo para mezclar el gris con el negro y el blanco suavemente.
+6. ¡PUM! ¡Parece una pelota real!
 
-1. Dibuja un círculo suave con algo redondo (un vaso o compás).
-2. Marca el brillo (Círculo pequeño arriba a la derecha) -> MANTENLO BLANCO.
-3. Sombrea el lado contrario (abajo a la izquierda) -> NEGRO.
-4. Conecta lo negro y lo blanco usando tus grises.
-5. ¡Difumina con el dedo si quieres que se vea suave!
+## Ejercicio 3: Planetas
 
-### Criterios de Éxito
-
-- [ ] Tu esfera tiene una zona blanca pura.
-- [ ] Tu esfera tiene una zona negra oscura.
-- [ ] El paso de blanco a negro es suave (no hay líneas duras).
+**Instrucciones**:
+Haz lo mismo pero con 3 círculos separados. Imagina que son planetas en el espacio.

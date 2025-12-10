@@ -1,32 +1,21 @@
-# Evaluación: Movimiento
+# Evaluación: Director de Escena
 
-**Tipo**: Análisis de Poses
+## Pregunta 1
 
----
+Para que un personaje parezca que corre rápido, lo dibujo...
 
-## 1. La Línea de Acción
+- A) Parado recto `|`.
+- B) Inclinado hacia adelante `/`.
 
-Si quiero dibujar a alguien corriendo muy rápido hacia la derecha...
-¿Cómo debería ser la línea principal de su cuerpo?
-a) Vertical recta `|` (Como un soldado).
-b) Diagonal inclinada hacia adelante `/` (Como una flecha).
+## Pregunta 2
 
-## 2. Articulaciones
+¿Qué dibujo primero?
 
-El codo humano...
-a) Se puede doblar hacia cualquier lado (como manguera).
-b) Solo se dobla hacia adentro (bisagra).
+- A) Los detalles de la ropa y los botones.
+- B) La línea de acción (el palito) para saber la pose.
 
-## 3. Exageración
+## Reto
 
-Para que un dibujo de acción se vea emocionante...
-a) Hay que dibujarlo exactamente como una foto aburrida.
-b) Hay que exagerar la pose (estirar más las piernas, torcer más el cuerpo).
-
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+Haz una pose loca frente al espejo.
+Intenta dibujarte en 10 segundos con puros palitos.
+¿Capturaste la energía?

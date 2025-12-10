@@ -1,38 +1,34 @@
-# Ejercicios: Dibujando mi juguete favorito
+# Ejercicios: Taller de Retratos
 
-## Ejercicio 1: La Geometría Secreta
+## Ejercicio 1: Visión Borrosa (Rayos X)
 
-**Objetivo**: Ver las formas simples dentro de objetos complejos.
-
-**Instrucciones**:
-
-1. Pon tu juguete frente a ti.
-2. Entrecierra los ojos hasta que se vea borroso.
-3. En tu papel, dibuja SOLO las figuras geométricas que lo forman.
-    * ¿La cabeza es un círculo?
-    * ¿El cuerpo es un rectángulo?
-    * ¿Las orejas son triángulos?
-4. No dibujes ni ojos ni boca. Solo el "robot" geométrico de tu juguete.
-
-## Ejercicio 2: El Retrato del Juguete
-
-**Objetivo**: Aplicar la observación detallada.
+**Objetivo**: Ignorar detalles y ver formas.
 
 **Instrucciones**:
 
-1. Usa el dibujo geométrico del ejercicio anterior como base (o haz uno nuevo muy suave).
-2. Ahora, redondea las esquinas para que se parezca a la forma real.
-3. Agrega los detalles grandes: Ojos, patas, ropa.
-4. Agrega los detalles pequeños: Costuras, botones, pelaje.
-5. ¡Dale un nombre a tu obra! (Ej: "La sonrisa de Señor Osito").
+1. Pon tu juguete en la mesa.
+2. Entrecierra los ojos (haz los ojos chiquitos) hasta que veas todo borroso.
+3. ¿Qué formas ves? ¿Un círculo grandote? ¿Dos triángulos?
+4. Dibuja SOLO esas formas geométricas en tu papel. Nada de ojos ni bocas. Solo el "robot" de tu juguete.
 
-## Ejercicio 3: Ángulos Locos
+## Ejercicio 2: El Retrato Real
 
-**Objetivo**: Comprender el volumen desde diferentes vistas.
+**Objetivo**: Dibujar el juguete completo.
 
 **Instrucciones**:
 
-1. Dibuja tu juguete desde el **Frente** (Cara a cara).
-2. Gíralo y dibújalo de **Perfil** (De lado).
-3. Ponlo en el suelo y dibújalo **Desde Arriba** (Vista de pájaro).
-    * ¿Notas cómo cambian las formas? Desde arriba, la cabeza se ve enorme y los pies chiquitos.
+1. Usa tu dibujo de formas geométricas (o haz uno nuevo suavecito).
+2. Ahora sí, dibuja encima los detalles reales.
+3. Observa mucho: ¿Dónde empiezan las orejas? ¿Qué tan grandes son los ojos?
+4. Borra las líneas guía.
+
+## Ejercicio 3: El Juguete de Cabeza
+
+**Objetivo**: Engañar al cerebro.
+
+**Instrucciones**:
+
+1. Pon tu juguete de cabeza (patas arriba).
+2. Se ve rarísimo, ¿verdad?
+3. Intenta dibujarlo así, de cabeza.
+4. Como tu cerebro no entiende qué es, ¡te obligará a observar mejor las líneas!

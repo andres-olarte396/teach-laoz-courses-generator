@@ -59,4 +59,5 @@ Un buen artista usa TODAS las líneas.
 ¡Es como cocinar! Mezcla los ingredientes para que quede rico.
 
 ## Galería de Inspiración
+
 ![Patrones Básicos](./tema_0.2.2_extra_patrones.svg)

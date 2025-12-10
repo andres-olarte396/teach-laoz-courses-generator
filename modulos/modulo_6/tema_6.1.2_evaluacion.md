@@ -1,37 +1,21 @@
-# Evaluación: Profundidad
+# Evaluación: Arqueólogo de Capas
 
-**Tipo**: Lógica Visual
+## Pregunta 1
 
----
+Si dibujo un árbol gigante que tapa una casa...
 
-## 1. Tamaño y Distancia
+- A) Arruiné el dibujo porque no se ve la casa entera.
+- B) Creé profundidad (se entiende que el árbol está más cerca).
 
-Si dibujo dos árboles:
+## Pregunta 2
 
-- Árbol A: Es gigante y ocupa media hoja.
-- Árbol B: Es pequeñito como una hormiga.
+Las cosas que están MUY LEJOS (Fondo) se dibujan...
 
-¿Cuál está más cerca de mí?
-a) Árbol A.
-b) Árbol B.
+- A) Arriba en el papel, chiquitas y borrosas.
+- B) Abajo en el papel, gigantes y detalladas.
 
-## 2. La Regla de Tapar
+## Reto
 
-Si el Gato tapa al Perro...
-a) El Gato está delante del Perro.
-b) El Perro está delante del Gato.
-
-## 3. Detalles Lejanos
-
-Si dibujo una casa en la cima de una montaña muy lejana...
-¿Debo dibujar los tornillos de la puerta?
-a) Sí, hay que ser detallista siempre.
-b) No, de lejos no se ven detalles pequeños.
-
----
-
-## Respuestas
-
-1: a
-2: a
-3: b
+Mira por la ventana.
+¿Qué es lo que está más cerca (Primer Plano)? (Tal vez el marco de la ventana).
+¿Qué es lo que está más lejos (Fondo)? (Tal vez las nubes).

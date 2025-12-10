@@ -1,41 +1,48 @@
-# Ejercicios: Mi Planeta Extraño
+# Ejercicios: Explorador Espacial
 
-## Ejercicio 1: Intercambio de Paletas
+---
 
-**Objetivo**: Romper la asociación de color terrestre.
+## Ejercicio 1: El Mundo Invertido (Color)
 
-**Instrucciones**:
-
-1. Dibuja un paisaje simple con montañas, un río y árboles.
-2. Ahora, **COLOREA** usando esta regla:
-    * Lo que debería ser Azul (Cielo/Agua) -> Píntalo de Naranja o Amarillo.
-    * Lo que debería ser Verde (Plantas) -> Píntalo de Morado o Azul Oscuro.
-    * Lo que debería ser Marrón/Gris (Piedras) -> Píntalo de Rojo o Rosa.
-3. Observa cómo cambia la atmósfera por completo.
-
-## Ejercicio 2: Gravedad Loca
-
-**Objetivo**: Visualizar cómo la física afecta la forma.
+**Objetivo**: Entrenar el cerebro para usar colores "incorrectos".
 
 **Instrucciones**:
 
-1. **Mundo de Baja Gravedad**:
-    * Dibuja rocas flotando en el aire, encadenadas al suelo.
-    * Dibuja árboles super delgados y altos como hilos, con hojas gigantes en la punta.
-    * Dibuja saltos muy altos.
-2. **Mundo de Alta Gravedad**:
-    * Dibuja todo aplastado contra el suelo.
-    * Los árboles son como arbustos planos y anchos.
-    * Las montañas son chatas y extendidas.
+1. Dibuja un paisaje simple (Montañas, río, sol, árboles).
+2. Prepara tus colores, pero vamos a cambiarlos:
+    * Donde va **VERDE** (Plantas) -> Usa **AZUL** o **MORADO**.
+    * Donde va **AZUL** (Cielo) -> Usa **NARANJA** o **AMARILLO**.
+    * Donde va **MARRÓN** (Tierra) -> Usa **ROJO** o **ROSA**.
+3. ¡Colorea! Al principio se siente raro, pero verás que crea un mundo fantástico al instante.
 
-## Ejercicio 3: Flora del Espacio
+---
 
-**Objetivo**: Inventar vegetación basada en objetos no vegetales.
+## Ejercicio 2: Gravedad Loca (Física)
+
+**Objetivo**: Dibujar cómo la gravedad afecta las formas.
 
 **Instrucciones**:
 
-1. Elige un objeto cotidiano: Una bombilla, un tenedor, una esponja.
-2. Usa esa forma para crear un "bosque":
-    * Bosque de Bombillas Luminosas (los tallos son cables).
-    * Pradera de Esponjas (absorben la lluvia ácida).
-3. Dibuja al menos 3 "plantas" diferentes en tu paisaje.
+1. Divide la hoja en dos.
+2. **Lado A: Gravedad Cero**:
+    * Dibuja islas de tierra flotando en el cielo.
+    * Dibuja rocas encadenadas al suelo para que no se vayan volando.
+    * Dibuja gotas de agua esféricas flotando.
+3. **Lado B: Gravedad Pesada**:
+    * Dibuja árboles bajitos y muy anchos (como hongos aplastados).
+    * Las montañas no son picudas, son suaves y chatas.
+    * Nubes pegadas al suelo (niebla pesada).
+
+---
+
+## Ejercicio 3: Flora Alienígena
+
+**Objetivo**: Inventar plantas usando objetos de casa.
+
+**Instrucciones**:
+
+1. Mira un objeto en tu mesa (una lámpara, un tenedor, un audífono).
+2. Dibuja ese objeto pero repítelo muchas veces como si fuera un bosque.
+    * Ejemplo: "El Bosque de Tenedores Gigantes".
+    * Ejemplo: "La Pradera de Bombillas Luminosas".
+3. Añade detalles orgánicos (raíces, texturas) para disimular.

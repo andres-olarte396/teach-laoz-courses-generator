@@ -1,35 +1,34 @@
-# Ejercicios: Amigos y Rivales del Color
+# Ejercicios: Diseñador de Modas
 
-## Ejercicio 1: Camisetas Deportivas (Complementarios)
+## Ejercicio 1: El Uniforme Explosivo
 
-**Objetivo**: Crear alto contraste.
-**Tiempo**: 15 minutos.
+**Objetivo**: Usar Complementarios (Opuestos).
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja 3 camisetas de fútbol vacías.
-2. Píntalas usando parejas de colores opuestos:
-   - Camiseta 1: **Rojo y Verde** (Equipo Navidad).
-   - Camiseta 2: **Azul y Naranja** (Equipo Atardecer).
-   - Camiseta 3: **Amarillo y Morado** (Equipo Real).
-3. ¿Cuál se ve más brillante?
+1. Dibuja una camiseta de fútbol.
+2. Queremos que los jugadores se vean desde kilómetros de distancia.
+3. Píntala usando **Azul y Naranja** (o Rojo y Verde).
+4. ¡Mira cómo brilla!
 
----
+## Ejercicio 2: La Pijama del Sueño
 
-## Ejercicio 2: El Paisaje en Calma (Análogos)
+**Objetivo**: Usar Análogos (Vecinos).
 
-**Objetivo**: Crear armonía y unidad.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja una pijama o una cama.
+2. Queremos que sea relajante para dormir.
+3. Píntala usando **Azul, Azul claro y Verde**.
+4. ¡Mira qué tranquila se ve!
 
-1. Dibuja un paisaje simple (montañas, mar o bosque).
-2. Elige 3 colores VECINOS en la rueda (ej: Amarillo, Verde Claro, Verde Oscuro).
-3. Pinta TODO el dibujo usando SOLO esos 3 colores.
-4. No hagas trampa (no metas rojo si elegiste verdes).
+## Ejercicio 3: La Flor Solitaria
 
-### Criterios de Éxito
+**Objetivo**: Contraste.
 
-- [ ] Tu camiseta vibra y llama la atención.
-- [ ] Tu paisaje se siente tranquilo y unido.
-- [ ] Entendiste la diferencia entre "chocar" y "combinar".
+**Instrucciones**:
+
+1. Pinta toda tu hoja de **Verde** (pasto).
+2. Dibuja UNA sola flor en el centro.
+3. ¿De qué color debe ser para resaltar al máximo?
+4. ¡**ROJA**! (El opuesto del verde).

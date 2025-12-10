@@ -1,35 +1,23 @@
-# Evaluación: Técnica de Rayado
+# Evaluación: Examen de Rayas
 
-**Tipo**: Identificación Visual
+## Pregunta 1
 
----
+Si quiero que una sombra se vea MÁS OSCURA con esta técnica, debo:
 
-## 1. Tipos de Rayado
+- A) Apretar el lápiz hasta romperlo.
+- B) Dibujar más rayitas juntas y cruzadas.
 
-Une con una línea:
+## Pregunta 2
 
-1. Líneas paralelas `||||` ............. ( ) Cross-Hatching (Cruzado)
-2. Líneas cruzadas `####` .............. ( ) Contour Hatching (Contorno)
-3. Líneas curvas `((((` ................ ( ) Hatching (Paralelo)
+Si estoy sombreando una pelota redonda, mis líneas deben ser...
 
-## 2. Lógica de Luz
+- A) Rectas como reglas `||||`.
+- B) Curvas como abrazos `((((`.
 
-Si quiero que una zona se vea MÁS OSCURA usando rayado, debo:
-a) Presionar más fuerte hasta romper la punta.
-b) Dibujar más líneas juntas y cruzadas.
-c) Usar un borrador.
+## Reto
 
-## 3. Reto Práctico
+Dibuja un cuadrado.
+Sombréalo usando líneas cruzadas (como una red de pesca).
 
-Dibuja un círculo. Sombreado usando SOLO líneas rectas paralelas `||||`.
-¿Se ve redondo y 3D?
-a) Sí.
-b) No, se ve plano porque las líneas son rectas. (Por eso necesitamos líneas curvas).
-
----
-
-## Respuestas
-
-1: Cruzado, Paralelo, Contorno (Orden visual)
-2: b
-3: b
+- [ ] Se ve como una red.
+- [ ] Se ve como rayones locos (¡Hazlo con calma!).

@@ -1,37 +1,27 @@
-# Evaluación: Dibujando mi juguete favorito
+# Evaluación: Crítico de Arte
 
 ## Pregunta 1
 
-Al empezar a dibujar un objeto complejo (como un peluche), ¿qué debemos dibujar PRIMERO?
+¿Qué es lo PRIMERO que debes dibujar cuando haces un retrato de un juguete?
 
-- A) Los ojos y las pestañas, porque es lo más bonito.
-- B) Las formas geométricas grandes (círculos, óvalos) que forman su estructura general.
-- C) La firma.
+- A) Los ojos y las pestañas.
+- B) Las formas grandes y generales (círculos, óvalos) muy suavecito.
 
 ## Pregunta 2
 
-¿Por qué es útil **entrecerrar los ojos** cuando empezamos a observar nuestro modelo?
+Si estás dibujando un coche de lado y sabes que tiene 4 ruedas, pero solo ves 2... ¿cuántas dibujas?
 
-- A) Porque se ve borroso y así eliminamos los detalles distractores, viendo solo las formas grandes y las sombras.
-- B) Para dormirnos.
-- C) Para ver mejor los colores.
+- A) 4 (Porque sé que tiene 4).
+- B) 2 (Porque dibujo lo que veo, no lo que sé).
 
-## Pregunta 3
+## Autoevaluación
 
-Si estás dibujando tu juguete de perfil (de lado), pero sabes que tiene dos ojos... ¿cuántos ojos debes dibujar?
+Mira tu dibujo y mira tu juguete.
 
-- A) Dos, porque yo sé que tiene dos.
-- B) Uno (y quizás una pestañita del otro), porque eso es lo que VEO desde este ángulo.
-- C) Ninguno.
+- [ ] ¿Se parecen en la forma general? (¿No quedó muy flaco o muy gordo?).
+- [ ] ¿Dibujaste algún detalle especial (una manchita, un botón)?
 
-## Pregunta 4
+## Reto Extra
 
-Verdadero o Falso:
-"Es mejor dibujar muy suave al principio (boceto) para poder corregir las formas antes de agregar los detalles finales."
-
-- ( ) Verdadero
-- ( ) Falso (Hay que dibujar fuerte desde el principio para demostrar seguridad).
-
-## Ejercicio Rápido
-
-Toma tu juguete. Ponlo de cabeza (patas arriba). Obsérvalo. ¿Verdad que las formas se ven raras? ¡Intenta dibujar ese "monstruo invertido" rápidamente!
+¡Dibuja tu juguete desde arriba! (Vista de pájaro).
+¿A que se ve cabezón?

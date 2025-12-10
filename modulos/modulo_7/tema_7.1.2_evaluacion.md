@@ -1,33 +1,21 @@
-# Evaluación: Casas en 3D
+# Evaluación: Inspector de Edificios
 
-**Tipo**: Corrección de Planos
+## Pregunta 1
 
----
+Las paredes de un edificio (líneas verticales) deben dibujarse:
 
-## 1. La Torre Inclinada
+- A) Inclinadas como la Torre de Pisa.
+- B) Totalmente rectas y paradas (`|`).
 
-Si dibujo un edificio y las líneas verticales están así `\ \` (inclinadas)...
-¿Qué parece?
-a) Un edificio moderno y estable.
-b) Un edificio que se está cayendo (terremoto).
+## Pregunta 2
 
-## 2. Ventanas Correctas
+Si dibujo ventanas en el lado de un edificio, ¿hacia dónde apuntan sus líneas?
 
-Mira una pared que se aleja hacia la izquierda.
-Las ventanas de esa pared deben ser:
-a) Cuadrados perfectos. [ ]
-b) Trapecios que se encogen hacia la izquierda. /_/
+- A) Hacia el cielo.
+- B) Hacia el Punto de Fuga.
 
-## 3. Lógica de Fuga
+## Reto
 
-Todas las líneas laterales de mi ciudad (los andenes, los techos, las ventanas, las puertas) apuntan hacia:
-a) El Sol.
-b) El mismo único Punto de Fuga.
-
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+Mira tu dibujo de la ciudad.
+Pon tu lápiz encima de las paredes verticales.
+¿Están derechitas o se van de boca?

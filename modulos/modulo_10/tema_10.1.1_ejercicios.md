@@ -1,43 +1,45 @@
-# Ejercicios: Mi dragón único
+# Ejercicios: Laboratorio de Dragones
 
-## Ejercicio 1: El Mezclador de Partes
+---
 
-**Objetivo**: Crear una criatura original combinando anatomía de diferentes animales.
+## Ejercicio 1: El Dado de la Bestia (Calentamiento)
 
-**Instrucciones**:
-
-1. Divide una hoja en 3 columnas: CABEZA, CUERPO, EXTRAS.
-2. Escribe 3 animales diferentes en papelitos y sácalos al azar.
-    * Ejemplo: Águila, Tortuga, Murciélago.
-3. Dibuja un boceto rápido combinándolos:
-    * Cabeza de Águila.
-    * Cuerpo (caparazón) de Tortuga.
-    * Alas de Murciélago.
-4. No te preocupes por los detalles, busca una silueta interesante.
-
-## Ejercicio 2: Anatomía de Alas
-
-**Objetivo**: Dibujar alas funcionales y creíbles.
+**Objetivo**: Romper el bloqueo creativo usando el azar.
 
 **Instrucciones**:
 
-1. Dibuja la estructura ósea de un brazo: Hombro -> Codo -> Muñeca -> Dedos muy largos.
-2. Conecta la piel (membrana) desde la punta del dedo más largo hasta el siguiente, y así sucesivamente hasta llegar al cuerpo (cerca de la cintura).
-3. ¡Recuerda! El ala no sale de la nada, sale de la espalda/hombros.
-4. Dibuja 3 posiciones de alas:
-    * Abiertas (Planeando).
-    * Plegadas (Descansando, como un paraguas cerrado).
-    * Aleteando (Hacia arriba).
+1. Busca 3 animales diferentes (o escribe sus nombres en papelitos y saca 3 al azar):
+    * Animal 1 (Para la Cabeza): Ej. Águila.
+    * Animal 2 (Para el Cuerpo): Ej. Tortuga.
+    * Animal 3 (Para las Armas): Ej. Escorpión (Cola).
+2. **¡FUSIÓN!** Dibuja una criatura rápida mezclando esos tres.
+3. No borres errores, hazlo rápido (5 minutos).
 
-## Ejercicio 3: Dragón Elemental
+---
 
-**Objetivo**: Diseñar texturas y formas basadas en un elemento de la naturaleza.
+## Ejercicio 2: Clínica de Alas (Técnica)
+
+**Objetivo**: Aprender a dibujar alas que parecen reales.
 
 **Instrucciones**:
 
-1. Elige un elemento: Hielo, Fuego, Bosque, Roca, Rayo.
-2. Diseña tu dragón usando solo formas que recuerden a ese elemento.
-    * **Hielo**: Formas picudas, cristales, colores azules y blancos.
-    * **Bosque**: Cuernos como ramas, escamas como hojas, cola de raíces.
-    * **Roca**: Formas cuadradas y pesadas, piel agrietada, sin alas (quizás).
-3. Dale un nombre a tu especie (ej: "Draco-Floris").
+1. **El Esqueleto**: Dibuja un brazo de palitos en forma de "V" invertida (Hombro -> Codo -> Muñeca).
+2. **Los Dedos**: Desde la muñeca, saca 3 o 4 líneas MUY largas hacia abajo.
+3. **La Tela**: Conecta las puntas de los dedos con líneas curvas (como telaraña o paraguas).
+4. **Conexión**: Conecta la última línea al cuerpo del dragón (cerca de la cintura, no del cuello).
+
+---
+
+## Ejercicio 3: Tu Dragón Guardián (Proyecto Final)
+
+**Objetivo**: Crear un personaje completo con personalidad.
+
+**Instrucciones**:
+
+1. Elige un **Elemento**: Fuego, Hielo, Bosque, Electricidad u Oscuridad.
+2. Diseña tu dragón usando formas de ese elemento:
+    * **Bosque**: Cuernos de ramas, escamas de hojas, piel de corteza.
+    * **Hielo**: Cuernos de cristal, formas picudas y afiladas.
+    * **Oscuridad**: Ojos grandes (visión nocturna), colores oscuros, humo.
+3. Dibuja a tu dragón en una pose de acción (volando o rugiendo).
+4. **Reto Extra**: Dibuja un humano al lado para que veamos qué tan GIGANTE es tu dragón (Escala).

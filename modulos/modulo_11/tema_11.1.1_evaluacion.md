@@ -1,37 +1,33 @@
-# Evaluación: Magia con cera y agua
+# Evaluación: Magia con Cera
 
-## Pregunta 1
+## Pregunta 1: La Regla de Oro
 
-¿Por qué aparece el dibujo de crayón cuando pintamos encima con acuarela?
+Para que el dibujo "invisible" aparezca bien, ¿cómo debes usar el crayón?
 
-- A) Porque el crayón es mágico.
-- B) Porque la cera es impermeable (repele el agua) y protege el papel.
-- C) Porque la acuarela borra el crayón.
+* A) Apenas tocando el papel.
+* B) Presionando FUERTE para dejar mucha cera.
+* C) Usando la goma de borrar.
 
-## Pregunta 2
+## Pregunta 2: Química
 
-Para que la técnica funcione bien, ¿cómo debemos dibujar con el crayón?
+¿Por qué funciona esta técnica?
 
-- A) Muy suavecito, apenas tocando el papel.
-- B) Presionando fuerte para dejar una capa gruesa de cera.
-- C) Usando la parte de atrás del crayón.
+* A) Porque el crayón tiene luz propia.
+* B) Porque la cera y el agua se repelen. (El agua resbala).
+* C) Porque el papel es inteligente.
 
-## Pregunta 3
+## Pregunta 3: La Pintura
 
-Si usamos crayón blanco y pintamos encima con acuarela amarilla muy clarita, ¿qué pasará?
+¿Cómo debe estar la acuarela para pintar encima?
 
-- A) Se verá un contraste increíble.
-- B) Probablemente no se note mucho el dibujo (Poco contraste).
-- C) El papel explotará.
+* A) Espesa como pasta de dientes.
+* B) Muy líquida (con mucha agua).
+* C) Seca.
 
-## Pregunta 4
+## Pregunta 4: Creatividad
 
-Verdadero o Falso:
-"La pintura (acuarela) debe estar espesa y pastosa para que funcione la resistencia."
+¿Qué color de fondo hace resaltar más un dibujo hecho con crayones neón?
 
-- ( ) Verdadero
-- ( ) Falso (Debe ser muy HÚMEDA/Líquida para que resbale sobre la cera).
-
-## Ejercicio Rápido
-
-Dibuja una espiral "invisible" con tu dedo en el aire imaginando que presionas fuerte. Ahora imagina que pasas una brocha gigante de pintura azul. ¡Visualiza el resultado!
+* A) Un fondo blanco.
+* B) Un fondo amarillo clarito.
+* C) Un fondo oscuro (Negro, Azul Marino).

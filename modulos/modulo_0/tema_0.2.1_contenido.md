@@ -62,4 +62,5 @@ No siempre tienes que agarrarlo igual. ¡Eres libre!
 Trata de llenar toda la hoja con una sola línea interminable que se cruza a sí misma mil veces. Es como un hilo enredado.
 
 ## Galería de Inspiración
+
 ![Formas Amigas](./tema_0.2.1_extra_formas.svg)

@@ -1,33 +1,23 @@
-# Evaluación: Proporciones de la Cara
+# Evaluación: Examen de Cara
 
-**Tipo**: Verdadero o Falso
+## Pregunta 1
 
----
+¿Dónde van los ojos?
 
-## 1. La Ubicación de los Ojos
+- A) En la frente (arriba).
+- B) A la mitad de la cabeza.
 
-¿Dónde van los ojos en una cabeza humana normal?
-a) En la frente, bien arriba.
-b) Justo a la mitad de la altura de la cabeza.
+## Pregunta 2
 
-## 2. El Cuello
+¿Cómo es el cuello?
 
-¿El cuello humano es...?
-a) Un palito delgado como una paleta.
-b) Un cilindro ancho que casi llega a las orejas.
+- A) Un palito de paleta.
+- B) Un cilindro fuerte y ancho.
 
-## 3. Orejas y Nariz
+## Reto
 
-Si tocas el top de tu oreja y trazas una línea imaginaria... llega a tus cejas/ojos.
-Si tocas la parte baja de tu oreja y trazas una línea... ¿a dónde llega?
-a) A tu boca.
-b) A tu nariz.
-c) A tu barbilla.
+Mídete tu propia cara con los dedos.
+¿Es verdad que tu oreja es del mismo tamaño que tu nariz (de arriba a abajo)?
 
----
-
-## Respuestas
-
-1: b
-2: b
-3: b
+- [ ] ¡Sí, casi igual!
+- [ ] No, tengo orejas de elefante (raro, pero posible).

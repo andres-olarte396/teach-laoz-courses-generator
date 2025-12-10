@@ -1,48 +1,36 @@
-# Ejercicios: La regla del pulgar (medición visual)
+# Ejercicios: Medidas Secretas
 
-## Ejercicio 1: El Cazador de Rectángulos
+## Ejercicio 1: El Cazador de Puertas
 
-**Objetivo**: Entender la relación alto vs. ancho.
+**Objetivo**: Entender ancho vs. alto.
 
 **Instrucciones**:
 
-1. Párate frente a una puerta o ventana.
-2. Estira el brazo completamente. Cierra un ojo.
-3. Usa tu lápiz para medir el ancho. Ese ancho será tu "Unidad 1".
-4. Ahora gira el lápiz y cuenta cuántas "Unidades" caben en la altura.
-    * ¿La puerta es 2 veces más alta que ancha? ¿2.5 veces?
-5. Dibuja un rectángulo en tu papel que tenga esa misma proporción.
+1. Párate lejos de una puerta.
+2. Brazo de robot. Ojo pirata.
+3. Mide el ANCHO de la puerta con tu lápiz. (Esa es tu medida "1").
+4. Gira el lápiz. ¿Cuántas veces cabe el ANCHO en la ALTURA?
+5. ¿Cabe 2 veces? ¿2 y media?
+6. Dibuja la puerta en tu papel con esas medidas.
 
 ## Ejercicio 2: La Botella Matemática
 
-**Objetivo**: Medir partes internas de un objeto.
+**Objetivo**: Proporciones internas.
 
 **Instrucciones**:
 
-1. Coloca una botella frente a ti.
-2. Mide el ancho de la tapa/boca. (Unidad 1).
-3. Mide el ancho del cuerpo (la parte gorda). ¿Cuántas tapas caben ahí? (Quizás 3 tapas).
-4. Dibuja la botella respetando esa regla: El cuerpo debe ser 3 veces más ancho que la boca.
+1. Pon una botella en la mesa.
+2. Mide el ancho de la TAPA.
+3. Cuenta: ¿Cuántas "tapas" caben en la parte gorda de la botella? ¿3 tapas?
+4. Dibuja la botella. La panza debe ser 3 veces más gorda que la tapa.
 
-## Ejercicio 3: Proporciones Humanas (Básico)
+## Ejercicio 3: Detectando Cabezones
 
-**Objetivo**: Romper mitos visuales midiendo.
-
-**Instrucciones**:
-
-1. Busca una foto de una cara de frente (o mira a alguien quieto).
-2. Mide desde los ojos hasta la barbilla.
-3. Mide desde los ojos hasta el tope de la cabeza.
-4. ¡Sorpresa! Son casi iguales.
-5. Dibuja un óvalo (la cabeza) y pon los ojos exactamente a la mitad de la altura, no arriba.
-
-## Ejercicio 4: Midiendo desde el Sofá
-
-**Objetivo**: Práctica informal.
+**Objetivo**: Proporción humana.
 
 **Instrucciones**:
 
-1. Siéntate en el sofá viendo la TV o un estante.
-2. Elige objetos al azar y adivina sus proporciones.
-3. "Creo que esa TV es 2 veces más ancha que alta".
-4. ¡Mide con tu lápiz para verificar si acertaste!
+1. Mira una foto de una persona.
+2. Mide la cabeza (de barbilla a pelo).
+3. Cuenta cuántas cabezas caben en todo el cuerpo.
+4. (En un adulto son como 7 o 8. En un niño, menos).

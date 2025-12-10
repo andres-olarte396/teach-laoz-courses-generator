@@ -68,5 +68,6 @@ Los lados de un cuadrado son paralelos. Significa que viajan en la misma direcci
   * *Solución*: Mide con tus dedos o lápiz antes de trazar.
 
 ## Galería de Inspiración
+
 ![Cuadrados y Rectángulos](./tema_1.1.2_extra_cuadrados.svg)
 ![Líneas Mágicas](./tema_1.1.2_extra_lineas_magicas.svg)

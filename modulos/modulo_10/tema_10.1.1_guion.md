@@ -1,27 +1,23 @@
 # Guion: Mi dragón único
 
-**(Sonido de rugido profundo y llamarada de fuego)**
+**(Efecto de sonido: Viento fuerte y un aleteo pesado "Wosh... Wosh...")**
 
-**Profesor**: "¡Cuidado, no se quemen! Hoy entramos a la Cueva del Dragón. Estas criaturas legendarias son el examen final de la imaginación."
+**Profesor**: "¡Agachen la cabeza! ¡Casi me despeina ese dragón!"
 
-**Profesor**: "¿Saben que los dragones no existen... pero parecen reales? El truco es la **Suma de Animales**."
+**Profesor**: "Hola exploradores. Hoy vamos a viajar a un lugar que no existe en el mapa: ¡Tu Imaginación! Vamos a aprender a dibujar **Dragones**."
 
-**(Sonido de águila)**
+**(Efecto de sonido: Rugido lejano)**
 
-**Profesor**: "Toman la vista y las garras de un águila..."
+**Profesor**: "¿Saben cuál es el secreto de los dragones de las películas? Que en realidad... ¡Son Frankenstein!"
 
-**(Sonido siseo de serpiente)**
+**Profesor**: "¡Sí! No son mágicos. Son mezclas. Toman la cabeza de un cocodrilo + el cuerpo de un león + las alas de un murciélago... ¡Y PUM! Tienes un dragón."
 
-**Profesor**: "El cuerpo largo y las escamas de una serpiente..."
+**Profesor**: "Hoy te voy a enseñar la regla más importante: **Las Alas**."
 
-**(Sonido de murciélago aleteando)**
+**(Efecto de sonido: Crujido de huesos o sonido de estiramiento caricaturesco)**
 
-**Profesor**: "Y las alas de un murciélago gigante. ¡BOOM! Tienes un dragón."
+**Profesor**: "Muchos niños dibujan las alas pegadas como si fueran estampas. ¡Error! Las alas son **BRAZOS**. Tienen codo y dedos largos. Si dibujas un brazo y le pones tela entre los dedos... ¡tienes un ala realista!"
 
-**Profesor**: "Pero, ¿por qué quedarse ahí? Ustedes pueden inventar sus propias especies. ¿Qué tal un Dragón Tiburón que nada en lava? ¿O un Dragón Insecto con cuatro alas transparentes?"
+**Profesor**: "Quiero que cierres los ojos e imagines el dragón más raro posible. ¿Un dragón con cuerpo de gelatina? ¿Un dragón robot? ¡Todo se vale en este módulo!"
 
-**(Sonido de lápiz dibujando sobre papel)**
-
-**Profesor**: "Lo más difícil son las alas. Recuerden: las alas son brazos. Tienen codo y dedos largos. No las peguen como estampas, ¡tienen que salir de los hombros con fuerza!"
-
-**Profesor**: "¡Abran sus alas creativas y déjenme ver sus monstruos!"
+**Profesor**: "¡Abran sus alas creativas (y sus cuadernos)! Vamos a dibujar."

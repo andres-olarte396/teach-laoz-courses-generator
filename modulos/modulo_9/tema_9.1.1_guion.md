@@ -1,21 +1,13 @@
-# Guion: Cuatro Patas
+# Guion: El Perro Cuadrado
 
-**Personaje**: El Profe Lápiz con orejas de perro
-**Duración**: 2 minutos
+**(Sonido: Guau Guau... Miau)**
 
----
+**Profe Lápiz**: "¿Eres team Perro o team Gato?"
 
-**(Sonido de ladridos y maullidos)**
+**Profe Lápiz**: "Para dibujar, hay que saber la diferencia."
 
-**Profe Lápiz**: ¡Guau! Digo, ¡Hola!
-Hoy vamos a dibujar a nuestros mejores amigos peludos.
+**Profe Lápiz**: "Los perros son como cajas fuertes. Son duros, leales y cuadrados."
 
-**Profe Lápiz**: ¿Sabías que los perros y gatos son casi iguales a nosotros por dentro?
-Tienen costillas, columna y cráneo.
-La diferencia es que ellos caminan en cuatro patas y de puntitas (como bailarinas de ballet).
+**Profe Lápiz**: "Los gatos son líquidos. Si metes un gato en un frasco, toma la forma del frasco. Son círculos y curvas."
 
-**Profe Lápiz**: Para dibujar un perro, piensa en CAJAS fuertes. ¡Son tanques peludos!
-Para dibujar un gato, piensa en LÍQUIDO. Son suaves y se derriten.
-
-**Profe Lápiz**: No intentes dibujar cada pelo. Dibuja primero los círculos de su cuerpo.
-Cabeza, pecho, pompis. ¡Conéctalos y tendrás un animal!
+**Profe Lápiz**: "Pero los dos tienen el mismo secreto: Tres bolitas conectadas. Cabeza, Pecho, Pompis. ¡Apréndete eso y podrás dibujar cualquier animal!"

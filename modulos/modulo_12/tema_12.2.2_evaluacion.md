@@ -1,37 +1,33 @@
-# Evaluación: La exposición de arte
+# Evaluación: Graduación Artística
 
-## Pregunta 1
+## Pregunta 1: Comunicación
 
-¿Qué es una **Cédula** en una exposición de arte?
+¿Por qué exponemos nuestro arte?
 
-- A) El boleto de entrada.
-- B) La tarjeta pequeña al lado de la obra que dice el título, el autor y la técnica.
-- C) El nombre del guardia de seguridad.
+* A) Para que se rían de nosotros.
+* B) Porque el arte es un mensaje, y compartirlo completa el ciclo de comunicación.
+* C) Para llenar la pared.
 
-## Pregunta 2
+## Pregunta 2: Curaduría
 
-¿Cuál es la actitud correcta al recibir una **crítica constructiva** (feedback) sobre tu dibujo?
+Si hiciste 50 dibujos en el curso, ¿cuántos deberías exponer en tu "Muro de la Fama"?
 
-- A) Enojarse y romper el dibujo.
-- B) Escuchar con atención, agradecer y usar la información para mejorar en el futuro.
-- C) Decirle a la persona que no sabe nada de arte.
+* A) Los 50, amontonados uno encima de otro.
+* B) Una selección de los mejores (3 o 5) para que cada uno tenga su espacio y brille.
+* C) Ninguno.
 
-## Pregunta 3
+## Pregunta 3: Feedback
 
-¿Por qué es importante exponer (mostrar) tu trabajo y no esconderlo?
+Si alguien te pregunta "¿Qué significa tu dibujo?", tú debes:
 
-- A) Porque el arte es una forma de comunicación y compartirlo completa el ciclo.
-- B) Para presumir y que te den dinero.
-- C) Porque se llena de polvo bajo la cama.
+* A) Quedarte callado y correr.
+* B) Explicar tu idea, tu técnica o la historia detrás del dibujo.
+* C) Decir "no sé".
 
-## Pregunta 4
+## Pregunta 4: El Futuro
 
-Verdadero o Falso:
-"Solo puedes llamarte 'Artista' si has expuesto en un museo famoso de París."
+Para seguir mejorando después de este curso, ¿qué debes hacer?
 
-- ( ) Verdadero
-- ( ) Falso (Eres artista desde el momento en que creas con intención y pasión, sin importar dónde expongas).
-
-## Ejercicio Rápido
-
-Escribe el **Título** definitivo de tu obra maestra en un papelito. Haz que suene épico.
+* A) Guardar los lápices y no volver a dibujar nunca.
+* B) Seguir observando el mundo y dibujando en tu libreta de práctica regularmente.
+* C) Ver la televisión todo el día.

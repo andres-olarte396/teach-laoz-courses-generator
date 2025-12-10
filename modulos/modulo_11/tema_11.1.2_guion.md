@@ -1,17 +1,15 @@
-# Guion: Recortes y pegamento (Collage)
+# Guion: Recortes y Pegamento
 
-**(Sonido de tijeras cortando papel scritch-scratch y papel arrugándose)**
+**(Efecto de sonido: Tijeras cortando rápido y papel arrugándose)**
 
-**Profesor**: "¡Hola artistas! Hoy guarden sus lápices. Vamos a dibujar... ¡con TIJERAS!"
+**Profesor**: "¡Hola! Hoy vamos a guardar los lápices por un rato. Hoy vamos a dibujar... ¡con tijeras!"
 
-**Profesor**: "Esto se llama Collage. Es una palabra elegante para decir 'cortar y pegar'. A veces, cuando dibujamos, nos preocupamos mucho: '¡Ay, no me sale la nariz! ¡Ay, el ojo me quedó chueco!'."
+**Profesor**: "Levante la mano quien tiene miedo de dibujar una mano realista... ¡Yo también! Es difícil. Pero con el Collage, es fácil. Solo buscas una foto de una mano, la recortas y... ¡listo! Mano perfecta."
 
-**Profesor**: "Con el collage, eso no pasa. Si necesitas una nariz, ¡buscas una foto de una nariz en una revista y la recortas! Tienes la nariz perfecta en dos segundos."
+**(Efecto de sonido: Pegamento pegajoso "Splosh")**
 
-**(Sonido de pegamento destapándose pop)**
+**Profesor**: "El arte del Collage es como ser un Científico Loco. Puedes tomar la cabeza de un león y ponerla en el cuerpo de una bailarina. Puedes hacer que lluevan donas del cielo."
 
-**Profesor**: "Lo más divertido es mezclar. Puedes ponerle cabeza de gato al cuerpo de un bebé. O ponerle ruedas de coche a una piña. ¡Ustedes son los doctores Frankenstein del papel!"
+**Profesor**: "El truco es usar poquito pegamento. Si usan mucho, su dibujo se va a arrugar como una pasa. Solo puntitos en las esquinas."
 
-**Profesor**: "Recuerden usar poco pegamento. Solo una gotita en las esquinas. Si ponen mucho, el papel se moja y se rompe. ¡Sean suaves!"
-
-**Profesor**: "¡Vamos a recortar!"
+**Profesor**: "¡Vamos a recortar! Cuidado con los dedos. Quiero ver sus monstruos más divertidos."

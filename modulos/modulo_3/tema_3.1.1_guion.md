@@ -1,13 +1,15 @@
-# Guion: El juego de las diferencias
+# Guion: El Detective Visual
 
-**(Sonido de lupa deslizándose shhhh)**
+**(Música de misterio tipo Pantera Rosa)**
 
-**Profesor**: "¿Saben cuál es el superpoder secreto de los artistas? No es la mano mágica. Es el OJO MÁGICO."
+**Profe Lápiz**: "(Susurrando) Acércate... Tengo un secreto. Tu cerebro te miente."
 
-**Profesor**: "La mayoría de la gente 'mira', pero los dibujantes 'observan'. Mirar es rápido: 'Ah, es una manzana roja'."
+**Profe Lápiz**: "Cuando quieres dibujar un ojo, tu cerebro te grita: ¡Haz un círculo! Pero tú eres un detective. Tú no adivinas. Tú investigas."
 
-**Profesor**: "Observar es lento: 'Es una manzana roja, pero tiene puntitos amarillos, una mancha café aquí y el tallo está chueco hacia la izquierda'."
+**Profe Lápiz**: "Mira bien ese ojo. No es un círculo. Tiene forma de limón. Tiene una línea arriba. Tiene brillito."
 
-**Profesor**: "Tu cerebro es flojo. Quiere dibujar símbolos fáciles. Si ves un ojo, tu cerebro dice: 'Dibuja un óvalo con un punto'. ¡Pero el ojo real no es así! Tienen que pelear contra su cerebro y dibujar solo lo que ven sus ojos."
+**(Sonido de lupa: ¡Pling!)**
 
-**Profesor**: "Hoy vamos a jugar a ser detectives visuales."
+**Profe Lápiz**: "Hoy vamos a entrenar tus Ojos de Detective. Vamos a dibujar sin mirar el papel. Vamos a dibujar los huecos invisibles. Vamos a ver lo que nadie más ve."
+
+**Profe Lápiz**: "¿Aceptas la misión?"

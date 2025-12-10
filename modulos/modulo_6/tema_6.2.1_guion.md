@@ -1,23 +1,14 @@
-# Guion: El Equilibrista
+# Guion: El Subibaja
 
-**Personaje**: El Profe Lápiz caminando por una cuerda floja
-**Duración**: 2 minutos
+**(Sonido de circo y tambores)**
 
----
+**Profe Lápiz**: "¡Damas y caballeros! Miren cómo camino por la cuerda floja."
 
-**(Sonido de tambores de circo - Brrrrrum)**
+**Profe Lápiz**: "Si cargo una caja pesada en mi mano izquierda... me voy de lado... ¡Ayuda!"
 
-**Profe Lápiz**: ¡Cuidado! ¡No respires! Estoy cruzando la cuerda floja.
-Si llevo una pesa en mi mano izquierda... ¡necesito otra pesa en mi mano derecha o me caeré!
+**Profe Lápiz**: "Para no caerme, necesito agarrar otra cosa con mi mano derecha. ¡Equilibrio!"
 
-**Profe Lápiz**: Tu dibujo es igual. Si pones todo en un lado, se cae.
-Hay dos formas de cruzar la cuerda:
+**Profe Lápiz**: "En el dibujo es igual. Si pones todo en una esquina, el dibujo se siente chueco."
+**Profe Lápiz**: "Puedes ser un Espejo (poner lo mismo en los dos lados) o puedes ser un Malabarista (poner cosas diferentes que se ayuden entre sí)."
 
-**Profe Lápiz**: La forma **Aburrida pero Segura** (Simetría):
-Pongo una pesa de 5kg a la izquierda y una de 5kg a la derecha. Soy un espejo. Perfecto.
-
-**Profe Lápiz**: La forma **Divertida y Loca** (Asimetría):
-Pongo un elefante a la izquierda... ¡y lo equilibrio con un millón de plumas a la derecha!
-Es más difícil, pero el público aplaude más.
-
-**Profe Lápiz**: ¡Intenta no caerte de la hoja!
+**Profe Lápiz**: "¡Que no se les caiga el dibujo!"

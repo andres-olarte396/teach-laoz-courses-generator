@@ -1,40 +1,33 @@
-# Ejercicios: Construyendo Personas
+# Ejercicios: Fábrica de Robots
 
-## Ejercicio 1: El Esqueleto Geométrico
+## Ejercicio 1: El Esqueleto de Cajas
 
-**Objetivo**: Identificar las partes principales del cuerpo.
-**Tiempo**: 15 minutos.
+**Objetivo**: Aprender las piezas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. No intentes dibujar una persona bonita todavía.
-2. Dibuja un **Óvalo** para la cabeza.
-3. Dibuja un **Rectángulo** (Caja) para el cuerpo.
-4. Conéctalos con un tubito (Cuello).
-5. Pon círculos en las esquinas de la caja (Hombros y Caderas).
-6. Dibuja tubos largos para brazos y piernas.
-7. ¡Tienes un maniquí!
+1. Dibuja un **Cubo** (Cabeza).
+2. Dibuja un **Rectángulo Grande** (Pecho).
+3. Dibuja **Tubos** para brazos y piernas.
+4. Pon circulitos en las uniones (Codos y Rodillas).
+5. ¡Acabas de dibujar un humano sin darte cuenta!
 
----
+## Ejercicio 2: Brazos Correctos
 
-## Ejercicio 2: El Robot Minecraft
+**Objetivo**: Corregir error común.
 
-**Objetivo**: Entender el volumen y las conexiones.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja la Caja del cuerpo.
+2. Dibuja los brazos saliendo de las **esquinas de ARRIBA** (Hombros).
+3. Haz que lleguen hasta la mitad del cuerpo.
+4. NO los dibujes saliendo de la panza.
 
-1. Vamos a dibujar lo mismo pero usando SOLO CAJAS cuadradas.
-2. Cabeza = Cubo.
-3. Pecho = Caja grande.
-4. Brazos = Cajas largas y flacas.
-5. Intenta dibujar al robot en diferentes poses:
-   - Saludando.
-   - Pateando una pelota.
-   - Sentado.
+## Ejercicio 3: Familia de Figuras
 
-### Criterios de Éxito
+**Instrucciones**:
+Dibuja a tu papá y a tu mamá usando SOLO formas geométricas.
 
-- [ ] Los brazos salen de los hombros (arriba), no de la cintura.
-- [ ] La cabeza no flota (tiene cuello).
-- [ ] Las piernas son más largas que los brazos.
+- Papá: Caja grande, Huevo grande.
+- Mamá: Caja mediana, Huevo mediano.
+- Tú: Caja chiquita.

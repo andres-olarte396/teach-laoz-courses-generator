@@ -1,20 +1,11 @@
-# Guion: El Polo Norte del Color
+# Guion: Temblando de Frío
 
-**Personaje**: El Profe Lápiz con bufanda y temblando
-**Duración**: 2 minutos
+**(Sonido de viento helado: Ffffuuuu... Brrr)**
 
----
+**Profe Lápiz**: "(Tiritando) B-b-brrr... ¡Qué frío hace aquí! Hemos llegado al Planeta Hielo."
 
-**(Sonido de viento helado - fffuuu)**
+**Profe Lápiz**: "Aquí viven el Azul, el Verde y el Morado. Son colores tranquilos, como cuando estás durmiendo. O tristes, como un día de lluvia."
 
-**Profe Lápiz**: ¡B-b-brrr! Hemos cruzado al otro lado de la Rueda.
-Bienvenidos al territorio de los Colores Fríos.
+**Profe Lápiz**: "¿Saben un secreto? Las sombras... ¡son frías! Nunca pinten una sombra negra como un agujero. Píntenla morada o azul oscuro. Se ve mucho más mágico."
 
-**Profe Lápiz**: Aquí viven el Azul, el Verde y el Morado.
-Son tranquilos, silenciosos y... ¡helados!
-Son los colores del agua, del hielo, de la noche y de los sueños.
-
-**Profe Lápiz**: Si te sientes triste o cansado, estos colores son como una canción de cuna.
-Pero cuidado, si usas demasiados, tu dibujo puede verse solitario.
-
-**Profe Lápiz**: Hoy vamos a dibujar el invierno. Así que abrígate bien y saca tus azules más bonitos.
+**Profe Lápiz**: "Ahora, pónganse su abrigo. ¡Vamos a dibujar la noche!"

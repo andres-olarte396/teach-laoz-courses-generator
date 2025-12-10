@@ -1,38 +1,33 @@
 # Evaluación: Híbridos Imposibles
 
-## Pregunta 1
+## Pregunta 1: La Costura Invisible
 
-¿Cuál es la clave para unir dos partes de animales diferentes y que parezca real?
+Cuando unes dos animales diferentes en un dibujo, ¿cómo debe ser la unión?
 
-- A) Dibujar una línea negra gruesa entre ellas.
-- B) Usar cinta adhesiva en el dibujo.
-- C) Hacer una transición suave o irregular (entrelazada) para que no parezca un recorte pegado.
+* A) Una línea recta negra y gruesa.
+* B) Una mezcla suave donde las texturas se cruzan (pelos sobre escamas).
+* C) Separada por un espacio en blanco.
 
-## Pregunta 2
+## Pregunta 2: Lógica de Texturas
 
-Si dibujamos un "Tiburonejo" y decidimos que tendrá piel de tiburón, ¿cómo deberíamos dibujar las orejas de conejo?
+Si dibujas un "Tiburonejo" (Tiburón + Conejo) y decides que vive en el Polo Norte, ¿qué textura le convendría más?
 
-- A) Peludas y suaves.
-- B) Lisas, grises y quizás con algún corte o textura de piel mojada.
-- C) Transparentes.
+* A) Piel lisa y fría.
+* B) Pelaje grueso y blanco (para el frío).
+* C) Plumas de colores.
 
-## Pregunta 3
+## Pregunta 3: Proporciones
 
-¿Qué criatura mitológica famosa es un híbrido de Caballo y Humano?
+Si mezclas un Elefante y una Abeja (cuerpo de elefante, alas de abeja), ¿qué tienes que hacer para que se vea creíble?
 
-- A) El Minotauro.
-- B) El Centauro.
-- C) La Sirena.
+* A) Nada, así está bien.
+* B) Hacer las alas GIGANTES, para que parezca que pueden levantar al elefante.
+* C) Hacer al elefante del tamaño de una hormiga.
 
-## Pregunta 4
+## Pregunta 4: Creatividad
 
-Verdadero o Falso:
-"Para crear un híbrido interesante, es mejor elegir dos animales que sean muy parecidos (como un gato y un perro)."
+¿Cuál de estos NO es un híbrido famoso?
 
-- ( ) Verdadero
-- ( ) Falso (Es mejor elegir animales muy DIFERENTES, como un elefante y una mariposa, para crear contraste).
-
-## Ejercicio Rápido
-
-Escribe la fórmula de tu propio monstruo:
-(Animal 1) ___________ + (Animal 2) ___________ = (Nombre del Monstruo) ___________
+* A) Sirena (Humano + Pez).
+* B) Minotauro (Toro + Humano).
+* C) Perro (Perro + Perro).

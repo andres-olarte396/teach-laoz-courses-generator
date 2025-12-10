@@ -1,72 +1,72 @@
-# La exposición de arte
+# La Exposición de Arte
 
-**Tiempo estimado**: 40 minutos  
+**Tiempo estimado**: 40 minutos (El evento)  
 **Nivel**: Todos (6+ años)  
-**Prerrequisitos**: Obra firmada y montada
+**Concepto Clave**: Comunicación y Celebración
 
 ---
 
-## ¿Por qué importa este concepto?
+## 1. El Arte es para Compartir
 
-El arte es comunicación. Si haces un dibujo increíble y lo escondes debajo de tu cama, nadie recibe el mensaje.
-Exponer es compartir. Es tener la valentía de mostrarle a otros cómo ves el mundo.
+![](tema_12.2.2_header.svg)
 
-Además, aprender a recibir críticas (comentarios) es la única forma de mejorar.
-
----
-
-## Comprensión intuitiva
-
-### El Regalo
-
-Cuando muestras tu dibujo, no estás presumiendo. Estás dando un regalo visual a los demás.
-
-- "Miren, encontré esta forma de dibujar un dragón".
-- "Miren qué colores tan bonitos tiene este atardecer".
+Imagina que escribes una carta hermosa y la rompes sin que nadie la lea. Qué triste, ¿no?
+El arte es una carta visual al mundo.
+Exponer tu dibujo (mostrárselo a otros) es la parte final del ciclo.
+No se trata de presumir. Se trata de decir: **"Así veo yo el mundo. ¿Te gusta?"**.
 
 ---
 
-## Organizando tu Exposición en Casa
+## 2. Tu Galería en Casa
 
-No necesitas una galería en París.
+Organiza una inauguración real:
 
-1. **El Lugar**: La puerta del refrigerador, una pared de la sala, o una cuerda con ganchos de ropa cruzando tu cuarto.
-2. **La Iluminación**: Asegúrate de que le dé buena luz.
-3. **La Inauguración**: Invita a tus papás, hermanos o amigos. Sirve juguito y galletas. ¡Hazlo un evento especial!
-
----
-
-## El Artist Statement (¿Qué quisiste decir?)
-
-En las galerías, al lado del cuadro hay un texto pequeño.
-Tú debes saber explicar tu obra:
-
-- **Título**: Ponle un nombre interesante. (No le pongas "Dibujo 1". Ponle "La Furia del Volcán").
-- **Técnica**: "¿Qué usaste?" (Ej. Acuarela y cera).
-- **Inspiración**: "¿Por qué lo dibujaste?" (Ej. "Porque soñé que volaba sobre el mar").
+1. **La Pared**: Pega tus mejores 3 dibujos del curso en la pared de la sala o en el refrigerador.
+2. **La Luz**: Pon una lámpara apuntando a los dibujos.
+3. **Los Invitados**: Invita a tu familia a una hora específica ("La expo abre a las 6:00 PM").
+4. **El Brindis**: ¡Sirve limonada y galletas!
 
 ---
 
-## Recibiendo Críticas (Feedback)
+## 3. La Cédula (La Ficha Técnica)
 
-Esto es difícil para el ego, pero necesario.
-Cuando alguien vea tu dibujo, pregúntale:
+En los museos, al lado del cuadro hay un papelito. Tienes que hacerlo:
 
-1. "¿Qué es lo que más te gusta?"
-2. "¿Qué crees que podría mejorar?"
-
-**Regla de Oro**: Si te dicen algo que no te gusta ("la nariz quedó chueca"), no te enojes. Di "Gracias". Luego, en tu próximo dibujo, decide si quieres arreglarlo o no.
+* **Título**: Ponle un nombre épico a tu obra. ("El Último Dragón").
+* **Autor**: Tu nombre.
+* **Técnica**: "Lápices de color sobre papel".
+* **Mensaje**: Una frase corta sobre qué significa para ti.
 
 ---
 
-## Reflexión final del curso
+## 4. Recibiendo Aplausos (y Críticas)
 
-Has recorrido un camino largo.
-Empezaste haciendo garabatos y círculos chuecos.
-Pasaste por formas, luces, sombras, colores, personas, animales y mundos imaginarios.
-Ahora tienes una Obra Maestra firmada en la pared.
+Cuando alguien mire tu dibujo, pregúntale:
 
-Ya no eres un "niño que dibuja". Eres un **Artista**.
-El mundo es tu lienzo. Nunca dejes de observarlo.
+* "¿Qué sientes al verlo?"
+* "¿Cuál es tu parte favorita?"
 
-**¡FIN DEL CURSO!**
+Si te dicen "¿Qué es esa mancha?", no te ofendas. Explícales: "Es un asteroide".
+Ser artista también es aprender a platicar sobre tu obra.
+
+---
+
+## 5. ¡Graduación
+
+¡Lo lograste! Ha sido un viaje increíble.
+
+* Aprendiste a ver formas.
+* Aprendiste a mezclar colores.
+* Aprendiste perspectiva, luz, cuerpo humano y animales.
+* Pero lo más importante: **Aprendiste a no tenerle miedo a la hoja en blanco.**
+
+Eres un Artista. Nunca dejes de dibujar.
+
+---
+
+## 6. Resumen Visual
+
+1. **Cuelga**: Tus obras en la pared.
+2. **Etiqueta**: Ponle título y nombre.
+3. **Invita**: A tu público.
+4. **Celebra**: ¡Eres un crack!
