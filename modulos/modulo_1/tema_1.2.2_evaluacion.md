@@ -1,33 +1,27 @@
-# Evaluación: Mi Robot
+# Evaluación: Control de Calidad
 
-**Tipo**: Encuesta de Diseño
+## Pregunta 1
 
----
+Si quiero que mi robot pueda doblar el brazo, ¿qué forma geométrica puedo dibujar en el codo para que parezca una articulación?
 
-## Análisis de tu Creación
+- A) Un círculo pequeño (como una tuerca o bisagra).
+- B) Una línea recta.
+- C) Un triángulo.
 
-Mira tu "Robot de Cocina" y responde:
+## Pregunta 2
 
-1. **Funcionalidad**
-   - [ ] Tiene herramientas en lugar de manos.
-   - [ ] Tiene botones o pantallas para controlarlo.
+Para que un robot no se caiga, sus pies deben ser:
 
-2. **Formas Usadas**
-   - Marca las formas que usaste:
-     ( ) Cuadrado
-     ( ) Círculo
-     ( ) Triángulo
-     ( ) Rectángulo
+- A) Diminutos como puntitos.
+- B) Grandes y planos (rectángulos anchos o semicírculos), para tener equilibrio.
 
-3. **Estabilidad**
-   - Si tu robot existiera en la vida real...
-     a) Se caería (pies muy pequeños).
-     b) Se mantendría de pie (pies grandes y planos).
+## Pregunta 3
 
----
+Observa tu dibujo del "Robot Ayudante".
+
+- [ ] ¿Tiene herramientas especiales (ganchos, escobas)?
+- [ ] ¿Tiene botones para encenderlo?
 
 ## Reto Flash
 
-Dibuja en 30 segundos:
-**Un robot que solo sirve para dar abrazos.**
-(Pista: Brazos muuuuy largos).
+¡Dibuja un robot usando SOLO círculos! (Cuerpo redondo, cabeza redonda, manos redondas). Tienes 1 minuto.

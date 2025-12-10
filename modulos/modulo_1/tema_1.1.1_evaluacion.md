@@ -1,31 +1,32 @@
-# Evaluación: Círculos
+# Evaluación: Inspector de Círculos
 
-**Tipo**: Lista de Cotejo
+## Pregunta 1
 
----
+¿Qué "motor" del cuerpo debes usar si quieres dibujar un círculo GRANDE (como una cabeza)?
 
-## Revisión de tus Círculos
+- A) Los dedos (Muñeca).
+- B) El Hombro (Todo el brazo).
+- C) Los pies.
 
-Mira tus dibujos del ejercicio "Planetas" y responde:
+## Pregunta 2
 
-1. **¿El círculo gigante se cierra bien?**
-   - [ ] Sí (Las puntas se tocan).
-   - [ ] No (Parece una 'C' abierta o una espiral).
+¿Por qué es útil la técnica del "Fantasma" (girar en el aire antes de tocar el papel)?
 
-2. **¿Cómo se ven los bordes?**
-   - [ ] Suaves y continuos.
-   - [ ] Peludos (muchas rayitas cortas). *Consejo: ¡Trata de hacer una sola línea continua!*
+- A) Para asustar al papel.
+- B) Para practicar el movimiento y asegurar que salga redondo antes de marcarlo.
+- C) Para secar la tinta.
 
-3. **¿Qué usaste para dibujar el grande?**
-   - [ ] Solo los dedos.
-   - [ ] Todo el brazo (Hombro).
+## Pregunta 3
 
----
+Verdadero o Falso:
+"Si mi círculo no sale perfecto a la primera, debo borrarlo inmediatamente y enojarme."
 
-## Reto Visual
+- ( ) Verdadero.
+- ( ) Falso (A veces puedes repasarlo o dejarlo así, ¡es práctica!).
 
-Busca en tu cuarto 3 cosas que sean círculos. Dibújalas aquí abajo:
+## Reto
 
-1. ______________
-2. ______________
-3. ______________
+Dibuja un círculo lo más rápido que puedas. ¿Salió más redondo que cuando lo haces lento?
+
+- [ ] Sí, la velocidad ayuda.
+- [ ] No, salió disparado.

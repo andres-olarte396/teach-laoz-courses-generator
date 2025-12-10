@@ -1,30 +1,17 @@
 # Guion: ¿Qué es el dibujo?
 
-**Personaje**: El Profe Lápiz (Voz amigable y entusiasta)
-**Duración**: 2-3 minutos
+**(Música alegre y sonido de lápiz dibujando)**
 
----
+**Profe Lápiz**: "¡Hola! Bienvenido a tu primera clase. Hoy vamos a resolver un misterio: ¿Qué es realmente dibujar?"
 
-**(Música alegre de fondo, sonido de lápiz rasgando papel)**
+**(Pausa misteriosa)**
 
-**Profe Lápiz**: ¡Hola, futuro artista! Bienvenido a tu primera clase oficial. Hoy vamos a responder una pregunta que parece tonta pero es muy importante: ¿Qué es dibujar?
+**Profe Lápiz**: "Mucha gente cree que dibujar es hacer copias perfectas de la realidad, como una cámara de fotos humana. ¡Pero no! Eso sería aburridísimo."
 
-**(Pausa breve)**
+**Profe Lápiz**: "Dibujar es... ¡Magia! Es la capacidad de sacar una idea que está escondida dentro de tu cabeza y ponerla en el papel para que los demás la vean."
 
-**Profe Lápiz**: Mucha gente cree que dibujar es "hacer cosas bonitas" o "copiar fotos perfectamente". ¡Pero eso es falso! Dibujar es algo mucho más genial.
+**Profe Lápiz**: "Hace miles de años, mucho antes de inventar la escritura, los humanos ya dibujaban en las cuevas. Pintaban animales y manos. Es nuestro primer idioma. Si sabes agarrar un lápiz, ¡ya hablas el idioma del arte!"
 
-**Profe Lápiz**: Imagina que tu lápiz es una varita mágica. Cuando tocas el papel... ¡PUM! Dejas una huella. Esa huella puede ser un dragón, una casa, o simplemente una línea loca que baila. Dibujar es **dejar huella**. Es decirle al mundo: "¡Yo estuve aquí y esto es lo que imaginé!".
+**Profe Lápiz**: "¿Y sabes qué es lo mejor? Que en el arte no hay errores graves. Si dibujas un gato con cinco patas... ¡felicidades! Acabas de inventar un gato alienígena. Aquí venimos a divertirnos y a explorar."
 
-**(Sonido de 'ding' o 'idea')**
-
-**Profe Lápiz**: Antes de que la gente aprendiera a escribir "mamá" o "bisonte", ¡ya los dibujaban en las cuevas! Es nuestro primer idioma. Así que, si sabes sostener un lápiz, ¡ya sabes el idioma secreto de los artistas!
-
-**Profe Lápiz**: "Pero Profe, ¡mis dibujos salen chuecos!". No te preocupes. Un dibujo "chueco" a veces es más divertido que uno perfecto. ¿Sabías que a los artistas famosos les encantan los "errores felices"?
-
-**(Música sube un poco de tono)**
-
-**Profe Lápiz**: En este curso vamos a aprender trucos para que tu mano obedezca a tu cerebro. Pero hoy, tu única misión es divertirte. Agarra una hoja, agarra un lápiz, y ¡haz un desastre maravilloso!
-
-**Profe Lápiz**: ¿Listo para empezar? ¡Vamos a dibujar!
-
-**(Fin música)**
+**Profe Lápiz**: "Así que relaja la mano, afila tu lápiz y prepárate. ¡Vamos a llenar el mundo de dibujos!"

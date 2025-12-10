@@ -1,57 +1,34 @@
 # Ejercicios: ¿Qué es el dibujo?
 
-## Ejercicio 1: Dibujo Libre de Calentamiento
+## Ejercicio 1: Calentamiento de Garabatos
 
-**Objetivo**: Perder el miedo a la hoja en blanco y disfrutar el acto de dejar marcas.
-**Tiempo**: 10 minutos.
+**Objetivo**: Perder el miedo a la hoja en blanco (¡el enemigo número 1 de los artistas!).
 
-### Instrucciones
+**Instrucciones**:
 
-1. Toma una hoja de papel totalmente en blanco.
-2. Elige tu lápiz o crayón favorito.
-3. Durante 3 minutos, llena la hoja con garabatos, líneas, círculos o puntos.
-4. No intentes dibujar "algo". Solo siente cómo se mueve tu mano.
-5. ¡Diviértete! Haz ruidos mientras dibujas (vroom, swish, plop).
+1. Toma una hoja nueva.
+2. Pon tu canción favorita.
+3. Mientras dura la canción, no pares de mover el lápiz. Haz círculos, rayas, puntos, espirales.
+4. ¡Llenar la hoja es la meta! No intentes dibujar nada en especial, solo garabatos.
+5. Siente cómo se relaja tu mano.
 
-### Reflexión
+## Ejercicio 2: Memoria vs. Realidad
 
-- ¿Te sentiste libre?
-- ¿Qué movimiento de mano te gustó más?
+**Objetivo**: Entender la diferencia entre lo que *creemos* ver y lo que *realmente* vemos.
 
----
+**Instrucciones**:
 
-## Ejercicio 2: Dibujo de Memoria vs. Observación
+1. **Dibuja de memoria (2 min)**: Sin mirar nada, dibuja una bicicleta.
+2. **Observa**: Ahora busca una foto de una bicicleta. Mírala bien. ¿Tiene cadena? ¿Dónde van los pedales? ¿Cómo se unen los tubos?
+3. **Dibuja observando (5 min)**: Intenta dibujar la bicicleta de la foto.
+4. **Compara**: ¿En qué son diferentes? (Casi siempre, nuestra memoria olvida detalles importantes).
 
-**Objetivo**: Entender la diferencia entre dibujar lo que vemos y lo que imaginamos.
-**Tiempo**: 15 minutos.
+## Ejercicio 3: Tu Firma de Artista
 
-### Instrucciones
+**Objetivo**: Crear tu identidad creativa.
 
-1. **Memoria**: Sin mirar nada, dibuja un gato en la esquina de la hoja. Tienes 2 minutos.
-2. **Observación**: Busca una foto de un gato (o usa tu mascota). Mírala fijamente. Dibuja ese gato tratando de copiar sus formas reales. Tienes 5 minutos.
-3. Compara los dos dibujos.
+**Instrucciones**:
 
-### Reflexión
-
-- ¿Cuál fue más fácil?
-- ¿Cuál se parece más a un gato real?
-- ¿Cuál tiene más "personalidad"?
-
----
-
-## Ejercicio 3: Tu "Pasaporte de Artista"
-
-**Objetivo**: Crear un símbolo personal que te indentifique.
-**Tiempo**: 10 minutos.
-
-### Instrucciones
-
-1. Dibuja un escudo o una medalla en el centro de la hoja.
-2. Adentro, dibuja 3 cosas que te gusten mucho (ej: pizza, balón, videojuego).
-3. Escribe tu nombre artístico debajo (puede ser tu nombre real con letras locas).
-
-### Criterios de Éxito
-
-- [ ] Llenaste la hoja de garabatos sin miedo.
-- [ ] Hiciste los dos gatos (memoria y observación).
-- [ ] Creaste tu pasaporte de artista.
+1. Los artistas suelen firmar sus obras.
+2. Inventa una firma especial. Puede ser tu nombre con letras divertidas, o ponerle un dibujo pequeño al lado (una estrella, una carita).
+3. Practícala 5 veces en la parte de abajo de tu hoja. ¡Esa será tu marca oficial en este curso!

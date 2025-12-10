@@ -1,40 +1,37 @@
 # Ejercicios: Conociendo materiales
 
-## Ejercicio 1: El Laboratorio de Texturas
+## Ejercicio 1: El Laboratorio de Pruebas
 
-**Objetivo**: Descubrir qué marcas puede hacer cada herramienta.
-**Tiempo**: 20 minutos.
+**Objetivo**: Sentir la diferencia entre cada herramienta.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Divide tu hoja en 4 cuadros.
-2. En el cuadro 1, usa LÁPIZ: Haz líneas suaves, luego fuertes. Haz puntitos. Acuesta el lápiz y sombrea.
-3. En el cuadro 2, usa CRAYÓN: Pinta suave. Pinta fuerte. Raspa un poco con tu uña.
-4. En el cuadro 3, usa MARCADOR: Haz puntos. Haz líneas rápidas. Pinta un área sólida.
-5. En el cuadro 4, combina DOS materiales (ej. marcador y luego lápiz encima).
+1. Divide una hoja en 4 partes.
+2. **Parte 1 (Lápiz)**: Haz líneas suaves (como un susurro) y líneas fuertes (como un grito). Pasa el dedo por encima... ¿se mancha?
+3. **Parte 2 (Crayón)**: Pinta un círculo. Intenta borrarlo con la goma. ¿Qué pasa? (Spoiler: ¡No se va!).
+4. **Parte 3 (Marcador)**: Haz puntos rápidos. Haz una línea lenta. ¿Ves cómo la tinta se expande en el papel?
+5. **Parte 4 (Mezcla)**: Dibuja con marcador y pinta encima con lápiz de color. ¿Se mezclan?
 
-### Reflexión
+## Ejercicio 2: La Escala de Fuerza (Presión)
 
-- ¿Cuál material se sintió más rápido?
-- ¿Cuál se sintió más suave?
-- ¿Con cuál te sentiste más en control?
+**Objetivo**: Aprender a controlar la fuerza de tu mano (Este es uno de los ejercicios MÁS importantes del dibujo).
 
----
+**Instrucciones**:
 
-## Ejercicio 2: La Escala de Presión
+1. Dibuja un rectángulo largo, como un tren.
+2. Empieza a pintar a la izquierda con tu lápiz, presionando **muy muy suave**. Apenas tocando el papel.
+3. A medida que avanzas a la derecha, presiona un poquito más.
+4. Y más...
+5. Al final, a la derecha, presiona FUERTE (sin romper la punta).
+6. Debe quedar como un degradado: de blanco a gris claro, a gris medio, a negro.
 
-**Objetivo**: Controlar la fuerza de la mano.
-**Tiempo**: 10 minutos.
+## Ejercicio 3: Sacapuntas Maestro
 
-### Instrucciones
+**Objetivo**: Cuidar las herramientas.
 
-1. Dibuja 3 rectángulos largos (como gusanitos).
-2. Con tu lápiz, empieza a colorear el primer rectángulo muy suave (casi invisible) a la izquierda.
-3. Avanza hacia la derecha presionando cada vez más fuerte.
-4. Al final, debe ser negro brillante.
-5. Intenta hacer lo mismo con un crayón de color.
+**Instrucciones**:
 
-### Criterios de Éxito
-
-- [ ] Lograste ver la diferencia entre suave y fuerte.
-- [ ] No rompiste el papel (o aprendiste el límite antes de romperlo).
+1. Toma tres lápices de colores que tengan la punta chata o rota.
+2. Saca punta con cuidado.
+3. No empujes el lápiz con fuerza dentro del sacapuntas. Gíralo suavemente.
+4. Consigue una punta perfecta sin romperla.

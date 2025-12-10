@@ -1,22 +1,16 @@
-# Guion: Las Líneas Hablan
+# Guion: Las Líneas Tienen Vida
 
-**Personaje**: El Profe Lápiz
-**Duración**: 2 minutos
+**(Sonidos divertidos)**
 
----
+**Profe Lápiz**: "¡Hola! Hoy te voy a presentar a mis amigas las líneas. Cada una tiene su propia personalidad."
 
-**(Sonido de pasos militares - Pum, pum, pum)**
+**(Voz de sargento)**
+**Profe Lápiz**: "Atención. Yo soy la **Línea Recta**. Soy firme, soy fuerte y sirvo para construir casas y cohetes. ¡Firmes, ya!"
 
-**Profe Lápiz**: ¡Atención! Soy la **Línea Recta**. Soy firme, soy fuerte y nunca me doblo. Me usas para dibujar casas y robots.
+**(Voz suave y relajada)**
+**Profe Lápiz**: "Holaaa... Yo soy la **Línea Curva**. Soy suavecita como una nube o una almohada. Me gusta rodar. Úsame para dibujar pancitas y pelotas."
 
-**(Sonido de tobogán o agua)**
+**(Voz eléctrica y rápida)**
+**Profe Lápiz**: "¡Bzzzzzt! ¡Cuidado! Soy el **Zigzag**. Soy eléctrico y pico si me tocas. Sirvo para rayos, dientes de tiburón y explosiones."
 
-**Profe Lápiz**: Ooooh... relájate... Soy la **Línea Curva**. Soy suave como una nube. Me usas para dibujar pelotas y sonrisas.
-
-**(Sonido eléctrico - Bzzzt!)**
-
-**Profe Lápiz**: ¡Cuidado! Soy el **Zigzag**. Soy rápido, peligroso y pico si me tocas. Me usas para rayos y dientes de monstruo.
-
-**Profe Lápiz**: ¿Ves? Cada línea tiene su propia voz. Si haces un dibujo solo con líneas rectas, se verá serio. Si usas puras curvas, se verá dulce.
-
-**Profe Lápiz**: ¡Tu misión es invitar a todas estas líneas a tu fiesta de dibujo!
+**Profe Lápiz (Voz normal)**: "¿Viste? Si quieres que tu dibujo se vea suave, usa curvas. Si quieres que se vea rudo, usa zigzags. ¡Tú eres el director de esta película!"

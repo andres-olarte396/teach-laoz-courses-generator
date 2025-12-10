@@ -1,34 +1,36 @@
-# Ejercicios: Mi primera casa
+# Ejercicios: Barrio de Artistas
 
-## Ejercicio 1: La Casa de Galleta (Proporciones)
+## Ejercicio 1: La Casa de Jengibre
 
-**Objetivo**: Dibujar una casa que se vea sólida y equilibrada.
-**Tiempo**: 15 minutos.
+**Objetivo**: Practicar formas básicas divirtiéndote.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja un cuadrado grande.
-2. Ponle un techo triangular que sobresalga un poco por los lados (como un sombrero).
-3. Dibuja una puerta que toque el suelo.
-4. Dibuja dos ventanas del mismo tamaño.
-5. Decórala como si fuera una casa de jengibre (caramelos en el techo, puerta de chocolate).
+1. Dibuja una casa básica (Cuadrado + Triángulo).
+2. Imagina que está hecha de dulces.
+3. El techo tiene **glaseado** (dibuja ondas en el borde).
+4. La puerta es una **barra de chocolate** (rectángulo con cuadritos).
+5. Las ventanas son **galletas**.
+6. El camino son **chicles** (círculos).
+7. ¡No te la comas!
 
----
+## Ejercicio 2: El Edificio Rascacielos
 
-## Ejercicio 2: El Vecindario Loco
+**Objetivo**: Usar rectángulos repetidos.
 
-**Objetivo**: Variar las formas básicas.
-**Tiempo**: 20 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja un rectángulo MUY alto (casi hasta el cielo).
+2. Dibuja una puerta pequeña abajo.
+3. Dibuja muchas filas de ventanas cuadradas hacia arriba. (¡Intenta hacer 10 pisos!).
+4. Ponle una antena (palito) en la punta.
 
-1. Dibuja una **Casa Alta**: Un rectángulo parado muy alto con un techo picudo.
-2. Dibuja una **Casa Gorda**: Un rectángulo acostado muy ancho con techo plano.
-3. Dibuja una **Casa Chueca**: Un cuadrado inclinado (si te atreves).
-4. Conecta las casas con una línea de suelo (la calle).
+## Ejercicio 3: Noche y Día
 
-### Criterios de Éxito
+**Objetivo**: Detalles de ambiente.
 
-- [ ] Dibujaste al menos 3 tipos de casas diferentes.
-- [ ] Todas las casas tienen puerta y ventanas.
-- [ ] Las puertas tocan el suelo (no flotan).
+**Instrucciones**:
+
+1. Dibuja dos casas iguales una al lado de la otra.
+2. **Casa 1 (Día)**: Dibuja un Sol con rayos rectos. Colorea el cielo de azul claro.
+3. **Casa 2 (Noche)**: Dibuja una Luna y estrellas (puntos). Colorea las ventanas de amarillo (¡luz prendida!) y el cielo de azul oscuro o negro.

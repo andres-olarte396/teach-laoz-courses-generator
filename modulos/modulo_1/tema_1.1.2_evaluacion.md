@@ -1,33 +1,32 @@
-# Evaluación: Cuadrados y Rectángulos
+# Evaluación: Inspector de Construcción
 
-**Tipo**: Identificación y Práctica
+## Pregunta 1
 
----
+¿Cuál es la diferencia principal entre un Cuadrado y un Rectángulo?
 
-## 1. ¿Cuál es cuál?
+- A) El color.
+- B) El Cuadrado tiene los 4 lados iguales, el Rectángulo tiene 2 largos y 2 cortos.
+- C) El Rectángulo no tiene esquinas.
 
-Dibuja una línea conectando la palabra con la forma correcta (imaginaria):
+## Pregunta 2
 
-- **Cuadrado** ........ ( ) Tiene 4 lados IGUALES.
-- **Rectángulo** ...... ( ) Tiene 2 lados largos y 2 cortos.
-- **Círculo** ........... ( ) No tiene esquinas.
+¿Cómo se llama cuando dos líneas van en la misma dirección y nunca se tocan (como las vías del tren)?
 
-## 2. Reto de Dibujo
+- A) Líneas Paralelas.
+- B) Líneas Peleadas.
+- C) Líneas Amigas.
 
-En el espacio de abajo, dibuja:
+## Pregunta 3
 
-1. Un cuadrado muy pequeño.
-2. Un rectángulo muy largo (como una serpiente).
-3. Un cuadrado dentro de otro cuadrado.
+Reto de Observación: Mira la puerta de tu habitación. ¿Qué forma tiene?
 
-## 3. Pregunta de Reflexión
+- A) Cuadrado.
+- B) Rectángulo Vertical.
+- C) Rectángulo Horizontal.
 
-¿Qué es más difícil de dibujar para ti?
-a) La curva del Círculo.
-b) La esquina del Cuadrado.
+## Autochequeo
 
----
+Mira tus dibujos de robots o edificios.
 
-## Respuestas
-
-1: (Definiciones claras)
+- [ ] ¿Tus esquinas parecen "L" (rectas)?
+- [ ] ¿Tus edificios se ven derechos o se están cayendo?

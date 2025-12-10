@@ -1,20 +1,15 @@
-# Guion: Arquitecto por un Día
+# Guion: El Pequeño Arquitecto
 
-**Personaje**: El Profe Lápiz
-**Duración**: 2 minutos
+**(Sonido de casco de construcción y martillazos)**
 
----
+**Profe Lápiz**: "¡Buenos días, Jefe de Obra! Hoy tenemos un encargo especial. Necesitamos construir un refugio para tu imaginación."
 
-**(Sonido de planos desenrollándose - Ffrrrrr)**
+**Profe Lápiz**: "Primero: Cimientos. ¡Traza la línea del suelo! No queremos casas voladoras."
 
-**Profe Lápiz**: ¡Buenos días, arquitecto! Hoy tienes un trabajo muy importante. Necesitamos construir una casa para... ¡un gigante!
+**Profe Lápiz**: "Segundo: Estructura. Trae el **Cuadrado**. Colócalo firme sobre la tierra."
 
-**Profe Lápiz**: ¿Qué necesitamos primero? ¿Un círculo? ¡No! La casa rodaría colina abajo. Necesitamos un **Cuadrado** fuerte y grande para las paredes.
+**Profe Lápiz**: "Tercero: Protección. ¡Va a llover! Rápido, ponle el sombrero... digo, el **Techo Triangular**. Recuerda, que sobresalga un poquito para que el algua no moje las paredes."
 
-**Profe Lápiz**: Ahora, ¿qué pasa si llueve? El gigante se mojará. Pongámosle un sombrero... digo, un **Techo**. ¿Qué forma es mejor para que el agua resbale? ¡Exacto! Un **Triángulo**.
+**Profe Lápiz**: "Cuarto: Acceso. Los dueños no pueden volar, así que dibuja la **Puerta Rectangular** pegadita al suelo."
 
-**(Sonido de lluvia suave)**
-
-**Profe Lápiz**: Perfecto. Ahora, ¿cómo entra el gigante? Necesita una puerta. Un **Rectángulo** alto y flaco. Y ventanas para ver el sol.
-
-**Profe Lápiz**: ¡Mira eso! Acabas de usar geometría para construir un hogar. Eres un constructor experto.
+**Profe Lápiz**: "¡Listo! Ya tienes una casa. Ahora, tú eres el decorador. ¿Quieres chimenea? ¿Flores? ¿Un perro guardián? ¡Es tu casa, tú mandas!"

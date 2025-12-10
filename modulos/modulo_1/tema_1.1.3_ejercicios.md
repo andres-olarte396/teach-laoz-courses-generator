@@ -1,34 +1,35 @@
-# Ejercicios: Triángulos
+# Ejercicios: El Mundo Picudo
 
-## Ejercicio 1: La Cordillera
+## Ejercicio 1: Conectando Puntos
 
-**Objetivo**: Dibujar triángulos irregulares y superpuestos.
-**Tiempo**: 15 minutos.
+**Objetivo**: Crear triángulos locos.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja una línea de suelo.
-2. Dibuja 3 triángulos GRANDES (Montañas principales).
-3. Dibuja triángulos pequeños entre ellos (Colinas).
-4. Ponles "nieve" en la punta con un triángulo pequeño blanco.
-
----
+1. Cierra los ojos y marca 3 puntos en el papel al azar con tu lápiz.
+2. Abre los ojos.
+3. Usa una regla (o tu mano firme) para conectarlos.
+4. ¿Qué tipo de triángulo salió? ¿Uno gordo? ¿Uno flaco?
+5. Repite esto 5 veces.
 
 ## Ejercicio 2: El Bosque de Pinos
 
 **Objetivo**: Apilar triángulos.
-**Tiempo**: 15 minutos.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja un triángulo pequeño en la parte de arriba.
-2. Debajo, dibuja un triángulo un poco más grande (la punta escondida detrás del primero).
-3. Dibuja un tercer triángulo más grande abajo.
-4. Ponle un palito (rectángulo) de tronco.
-5. ¡Tienes un pino! Haz 5 pinos de diferentes alturas.
+1. Dibuja un triángulo pequeño arriba.
+2. Debajo, dibuja uno mediano.
+3. Debajo, dibuja uno grande.
+4. Ponle un tronquito cuadrado.
+5. ¡Es un pino! Haz un bosque entero.
 
-### Criterios de Éxito
+## Ejercicio 3: El Helado Geométrico
 
-- [ ] Tus montañas se sienten conectadas.
-- [ ] Tus pinos parecen árboles y no flechas.
-- [ ] Usaste el método de "tres puntos" si te costó trabajo.
+**Objetivo**: Combinar formas.
+
+**Instrucciones**:
+
+1. Dibuja un Triángulo Techo (Isósceles) pero con la punta hacia abajo. (Ese es el cono).
+2. Dibuja un Círculo encima. (Esa es la nieve).
+3. Dibuja un Triángulo Perfecto chiquito encima del círculo. (Ese es un sombrero de fiesta para tu helado... ¡o un trozo de chocolate!).

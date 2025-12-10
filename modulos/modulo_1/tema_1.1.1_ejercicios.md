@@ -1,48 +1,46 @@
-# Ejercicios: Círculos
+# Ejercicios: El Señor de los Anillos
 
-## Ejercicio 1: El Calentamiento Olímpico
+## Ejercicio 1: Calentamiento de Hombro
 
-**Objetivo**: Soltar el brazo (Modo Hombro).
-**Tiempo**: 5 minutos.
+**Objetivo**: Activar el "Motor del Hombro".
 
-### Instrucciones
+**Instrucciones**:
 
-1. Levanta tu lápiz. No toques el papel.
-2. Dibuja círculos gigantes en el aire con todo tu brazo.
-3. Haz 10 hacia la derecha.
-4. Haz 10 hacia la izquierda.
-5. Ahora, baja el brazo y dibuja esos círculos grandes en el papel.
+1. Ponte de pie (o siéntate muy derecho).
+2. Estira el brazo frente a ti con el lápiz.
+3. Dibuja círculos gigantes en el aire. ¡Grandes como una pizza familiar!
+4. Haz 10 hacia un lado y 10 hacia el otro.
+5. Siente cómo trabaja tu hombro, no tu muñeca.
 
----
+## Ejercicio 2: Burbujas flotantes
 
-## Ejercicio 2: Las Uvas
+**Objetivo**: Practicar diferentes tamaños y "motores".
 
-**Objetivo**: Control de tamaño y agrupación.
-**Tiempo**: 15 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Tu hoja es el fondo del mar.
+2. Dibuja una burbuja GIGANTE abajo (Usa el hombro).
+3. Dibuja burbujas MEDIANAS subiendo (Usa el codo).
+4. Dibuja burbujitas PEQUEÑAS hasta arriba (Usa la muñeca).
+5. ¡Llena toda la hoja!
 
-1. Dibuja un círculo pequeño (una uva).
-2. Dibuja otro círculo pegado al primero.
-3. Sigue agregando círculos hasta formar un racimo de uvas triangular.
-4. Intenta que todos los círculos sean del mismo tamaño.
-5. Píntalas de morado o verde.
+## Ejercicio 3: El Gusanito Perfecto
 
----
+**Objetivo**: Hacer círculos iguales y pegaditos.
 
-## Ejercicio 3: Planetas y Lunas
+**Instrucciones**:
 
-**Objetivo**: Diferentes tamaños.
-**Tiempo**: 10 minutos.
+1. Dibuja un círculo pequeño (la cabeza).
+2. Dibuja otro círculo pegado atrás... y otro... y otro.
+3. Forma un gusano largo que cruce la página.
+4. Intenta que todos los círculos sean del mismo tamaño (como monedas).
 
-### Instrucciones
+## Ejercicio 4: Círculos Fantasma
 
-1. Dibuja un círculo GIGANTE en el centro (Júpiter).
-2. Dibuja 3 círculos medianos alrededor (Planetas rocosos).
-3. Dibuja muchos círculos diminutos (Lunas y asteroides).
+**Objetivo**: Practicar la técnica del fantasma.
 
-### Criterios de Éxito
+**Instrucciones**:
 
-- [ ] Tu círculo gigante se ve redondo, no cuadrado.
-- [ ] Tus uvas están pegadas, no flotando separadas.
-- [ ] Usaste el movimiento de hombro para los grandes.
+1. Gira el lápiz sobre el papel sin tocarlo 3 veces.
+2. A la cuarta vuelta... ¡baja el lápiz y dibuja!
+3. ¿Salió más redondo?

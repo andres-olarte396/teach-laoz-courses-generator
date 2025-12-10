@@ -1,32 +1,29 @@
-# Evaluación: Animales
+# Evaluación: Detective de Animales
 
-**Tipo**: Adivinanza Visual
+## Adivinanza Visual
 
----
+Si ves un dibujo que tiene:
 
-## Adivina el Animal
+* Un cuerpo ovalado grande y gris.
+* Una trompa larga.
+* Dos orejas gigantes.
+¿Qué animal es?
 
-Si dibujo:
+- A) Un ratón.
+* B) Un elefante.
+* C) Una hormiga.
 
-1. Un óvalo grande acostado.
-2. Un círculo más pequeño arriba a la izquierda.
-3. Un triángulo pequeño en ese círculo.
-4. Dos triángulos grandes a los lados del óvalo.
+## Reto de Transformación
 
-**¿Qué animal es?**
-a) Un elefante
-b) Un pájaro con las alas abiertas
-c) Una tortuga
+Dibuja un **Círculo**. Ahora transfórmalo en un **León**.
+Pista:
 
----
+1. Agrégale una melena (como un sol alrededor de la cabeza).
+2. Agrégale bigotes.
+3. Agrégale ojos feroces.
 
-## Tu Turno
+## Autoevaluación
 
-Dibuja ese animal aquí abajo siguiendo las pistas:
-[Espacio para dibujar]
-
----
-
-## Respuestas
-
-Adivinanza: b) Un pájaro con las alas abiertas
+Mira tus dibujos del zoológico:
+* [ ] ¿Mis animales se reconocen? (Un gato parece gato, no perro).
+* [ ] ¿Usé formas geométricas o traté de hacerlo "perfecto" a la primera? (Recuerda: ¡Usa formas!).

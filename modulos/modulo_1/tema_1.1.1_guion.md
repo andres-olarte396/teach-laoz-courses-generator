@@ -1,22 +1,16 @@
 # Guion: El Secreto del Círculo
 
-**Personaje**: El Profe Lápiz
-**Duración**: 2 minutos
+**(Sonido de burbujas pop, pop, pop)**
 
----
+**Profe Lápiz**: "¡Pop! ¡Pop! El mundo está lleno de círculos. Burbujas, llantas, planetas, galletas..."
 
-**(Sonido de rebote boing-boing)**
+**Profe Lápiz**: "Pero dibujar un círculo perfecto es una de las cosas más difíciles del arte. A veces parece una papa, a veces parece un huevo aplastado."
 
-**Profe Lápiz**: ¿Sabes cuál es la forma más famosa del universo? ¡El Círculo! El Sol es un círculo, la Luna es un círculo, y tus ojos... ¡también son círculos!
+**Profe Lápiz**: "Te voy a contar el secreto que usan los dibujantes de Disney."
 
-**Profe Lápiz**: Pero dibujar un círculo perfecto es difícil, ¿verdad? A veces nos quedan como papas o como huevos aplastados.
+**(Voz de susurro)**
+**Profe Lápiz**: "El secreto es... ¡usar el hombro!"
 
-**Profe Lápiz**: Te voy a contar un secreto de artista profesional. ¿Listo?
+**Profe Lápiz**: "La mayoría de los niños dibujan moviendo solo los dedos. ¡Error! Los dedos son para cosas chiquitas. Si quieres hacer un círculo grande y redondo, tienes que mover TODO el brazo, como si fueras un molino de viento."
 
-**(Susurro)**
-
-**Profe Lápiz**: *El secreto no está en la muñeca... está en el hombro.*
-
-**Profe Lápiz**: Si tratas de dibujar un círculo grande moviendo solo la mano, te saldrá chueco. Pero si mueves todo el brazo, como si estuvieras limpiando una ventana... ¡Magia! El círculo sale redondo y bonito.
-
-**Profe Lápiz**: Inténtalo. Imagina que eres un robot y tu brazo es una brújula. ¡A girar!
+**Profe Lápiz**: "¡Inténtalo! Bloquea tu muñeca, mueve el brazo desde el hombro y... ¡ZAS! Círculo perfecto. ¿Ves? No es magia, es usar el motor correcto."

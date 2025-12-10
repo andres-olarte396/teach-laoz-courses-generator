@@ -1,49 +1,45 @@
-# Ejercicios: Garabatos con propósito
+# Ejercicios: Gimnasia para la mano
 
-## Ejercicio 1: El Tornado (Movimiento)
+## Ejercicio 1: El Tornado Loco
 
-**Objetivo**: Soltar la muñeca y el brazo.
-**Tiempo**: 5 minutos.
+**Objetivo**: Despertar el brazo y perder el miedo.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Imagina que tu lápiz es un tornado.
-2. Empieza en el centro del papel.
-3. Haz espirales rápidas y grandes que se salgan hacia los bordes.
-4. No levantes el lápiz. Da al menos 20 vueltas.
-5. Hazlo otra vez pero con espirales pequeñitas en una esquina.
+1. Pon tu lápiz en el centro de la hoja.
+2. Imagina que hay una tormenta. Empieza a girar el lápiz haciendo círculos.
+3. ¡Más rápido! ¡Más grandes!
+4. Haz que el tornado toque las 4 esquinas del papel.
+5. ¡No pares! Sigue hasta que la hoja esté casi negra de tanto rayar.
+6. (Haz sonidos de viento *¡Fuiuuuh!* mientras lo haces).
 
----
+## Ejercicio 2: Olas del Mar (Control)
 
-## Ejercicio 2: El Laberinto Zen (Control)
+**Objetivo**: Aprender a fluir sin chocar.
 
-**Objetivo**: Dibujar líneas continuas y relajantes.
-**Tiempo**: 15 minutos.
+**Instrucciones**:
 
-### Instrucciones
+1. Dibuja una línea ondulada (como una ola) de un lado a otro de la hoja.
+2. Debajo, dibuja otra ola igualita, que siga el camino de la primera pero **sin tocarla**.
+3. Lleva toda la hoja con estas "colas" de olas.
+4. Trata de respirar suavemente mientras lo haces. Es relajante.
 
-1. Dibuja una línea curva que cruce toda la página de izquierda a derecha.
-2. Dibuja otra línea justo debajo, tratando de seguir la curva de la primera (como un eco), pero sin tocarla.
-3. Sigue llenando la página con "ecos".
-4. Si se tocan, no pasa nada, empieza otra línea.
-5. El resultado debe parecer agua fluyendo o madera.
+## Ejercicio 3: Enojado, Triste y Feliz
 
----
+**Objetivo**: Usar líneas para decir cómo te sientes.
 
-## Ejercicio 3: La tormenta de emociones
+**Instrucciones**:
 
-**Objetivo**: Expresar sentimientos con líneas abstractas.
-**Tiempo**: 5 minutos.
+1. **Cuadro 1 (Enojado)**: Dibuja líneas que parezcan enojadas. (Pista: Son picudas, fuertes, rápidas y oscuras).
+2. **Cuadro 2 (Triste)**: Dibuja líneas que parezcan tristes o cansadas. (Pista: Son lentas, caídas y suaves).
+3. **Cuadro 3 (Feliz)**: Dibuja líneas alegres. (Pista: Saltan, hacen bucles y curvas).
 
-### Instrucciones
+## Ejercicio 4: Agarre de Varita
 
-1. Divide la hoja en 3.
-2. En el espacio 1: Dibuja cómo se siente la **FURIA** (líneas fuertes, picudas, rápidas).
-3. En el espacio 2: Dibuja cómo se siente la **CALMA** (líneas suaves, horizontales, lentas).
-4. En el espacio 3: Dibuja cómo se siente la **ALEGRÍA** (burbujas, saltos, espirales hacia arriba).
+**Objetivo**: Probar la nueva forma de agarrar el lápiz.
 
-### Criterios de Éxito
+**Instrucciones**:
 
-- [ ] Llenaste al menos una hoja completa de garabatos.
-- [ ] Tu mano se siente más caliente y suelta.
-- [ ] Identificaste la diferencia entre trazos rápidos y lentos.
+1. Agarra el lápiz desde la parte de atrás (cerca de la goma).
+2. Intenta dibujar un círculo grande.
+3. ¿Ves que tu mano se mueve más libre?

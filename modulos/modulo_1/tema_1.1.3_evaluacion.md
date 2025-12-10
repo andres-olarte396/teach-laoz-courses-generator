@@ -1,38 +1,32 @@
-# Evaluación: Triángulos
+# Evaluación: Experto en Puntas
 
-**Tipo**: Selección Múltiple
+## Pregunta 1
 
----
+¿Cuál es la regla de oro para dibujar cualquier triángulo?
 
-## 1. Identifica el Triángulo
+- A) Necesitas marcar 3 puntos y conectarlos.
+- B) Necesitas 4 líneas rectas.
+- C) Necesitas pintarlo de verde.
 
-¿Cuál de estos objetos tiene forma triangular?
-a) Una pelota de playa.
-b) Una rebanada de pizza.
-c) Una puerta.
+## Pregunta 2
 
-## 2. Tipos de Triángulos
+Si quiero dibujar una rampa para mi patineta, ¿qué triángulo uso?
 
-- Si tiene los 3 lados iguales, se llama:
-  a) Equilátero
-  b) Chueco
+- A) Triángulo Perfecto (Equilátero).
+- B) Triángulo Rampa (Rectángulo).
+- C) Triángulo Circular.
 
-- Si tiene uno de sus lados "cuadrado" (90 grados), se llama:
-  a) Triángulo Rectángulo
-  b) Triángulo Círculo
+## Pregunta 3
 
-## 3. Reto Creativo
+Observación: Busca un triángulo en tu ropa (en un logo, un estampado o la forma del cuello).
 
-Dibuja un **HELADO** usando:
+- [ ] ¡Lo encontré!
+- [ ] No tengo triángulos hoy.
 
-- Un triángulo invertido (el cono).
-- Un círculo (la bola de nieve).
+## Misión Secreta
 
----
+Dibuja una pizza.
 
-## Respuestas
-
-1: b
-2a: a
-2b: a
-3: (Revisión visual)
+1. Dibuja un círculo grande.
+2. Divídelo con líneas.
+3. ¿Cuántos triángulos de pizza te salieron? (Escribe el número: ___)

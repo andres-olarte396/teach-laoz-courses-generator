@@ -1,33 +1,35 @@
-# Ejercicios: Robots Geométricos
+# Ejercicios: Taller de Robótica
 
-## Ejercicio 1: El Robot de Cocina
+## Ejercicio 1: El Robot Ayudante
 
-**Objetivo**: Usar formas para representar funciones.
-**Tiempo**: 15 minutos.
+**Objetivo**: Diseñar pensando en la función.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Dibuja un robot diseñado para cocinar.
-2. ¿Qué forma tiene su cuerpo? (¿Un horno cuadrado? ¿Una licuadora cilíndrica?).
-3. Dale brazos especiales (Batidor, Cuchara).
-4. Ponle botones de temperatura.
-
----
+1. Diseña un robot que sirva para **Limpiar tu Cuarto**.
+2. ¿Qué manos necesita? (¿Escobas? ¿Aspiradoras?).
+3. ¿Necesita piernas rápidas o ruedas?
+4. Dibújalo usando formas geométricas.
 
 ## Ejercicio 2: El Robot Mascota
 
-**Objetivo**: Combinar formas para crear seres cuasi-vivos.
-**Tiempo**: 20 minutos.
+**Objetivo**: Crear formas no humanas.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Diseña un perro-robot o gato-robot.
-2. Usa rectángulos para el cuerpo y las patas.
-3. Usa triángulos para las orejas.
-4. Usa una línea espiral para la cola (antena).
+1. Elige un animal (perro, gato, pájaro).
+2. Conviértelo en robot.
+3. Usa rectángulos para el cuerpo.
+4. Usa antenas en lugar de orejas o cola.
+5. Ponle un nombre (Ej: "Rex-3000" o "Miau-Tronic").
 
-### Criterios de Éxito
+## Ejercicio 3: Expresiones Robóticas
 
-- [ ] Tu robot tiene cabeza, cuerpo y extremidades.
-- [ ] Se nota qué "animal" es.
-- [ ] Usaste al menos 3 formas geométricas diferentes.
+**Objetivo**: Mostrar emociones con formas simples.
+
+**Instrucciones**:
+
+1. Dibuja 3 cabezas de robot iguales (cuadradas).
+2. **Cabeza 1 (Feliz)**: Dibuja ojos redondos y boca curva hacia arriba.
+3. **Cabeza 2 (Enojado)**: Dibuja ojos triangulares (picudos) y boca de zigzag.
+4. **Cabeza 3 (Apagado)**: Dibuja ojos con una línea horizontal (-) y boca recta.

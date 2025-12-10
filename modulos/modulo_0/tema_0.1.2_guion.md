@@ -1,28 +1,17 @@
 # Guion: Materiales Mágicos
 
-**Personaje**: El Profe Lápiz
-**Duración**: 3 minutos
+**(Sonido de caja de herramientas y cosas mágicas)**
 
----
+**Profe Lápiz**: "¡Hola artísticos amigos! Hoy vamos a conocer a nuestro equipo de trabajo."
 
-**(Sonido de caja de herramientas abriéndose)**
+**Profe Lápiz**: "Miren esta mesa. Lápices, gomas, colores... No son simples objetos. Son herramientas de poder."
 
-**Profe Lápiz**: ¡Wow! Mira todo lo que hay aquí. ¿Sabías que los artistas somos como hechiceros? Pero en lugar de varitas y pócimas, tenemos lápices y pinturas.
+**Profe Lápiz**: "Este de aquí es el **Capitán Lápiz**. Es humilde, viste de amarillo y madera, pero tiene el poder de crear mundos enteros. Y lo mejor..."
 
-**Profe Lápiz**: Déjame presentarte a mi equipo.
+**(Sonido de rebobinado)**
 
-**(Sonido de pasos ligeros)**
+**Profe Lápiz**: "...es que viene con su propia máquina del tiempo: ¡La Goma de Borrar! Si no te gusta lo que hiciste, viajas al pasado y lo cambias. ¡Genial!"
 
-**Profe Lápiz**: Primero, el Capitán **Lápiz**. Es valiente y versátil. Puede ser suave como un susurro o fuerte como un grito. Y lo mejor... ¡tiene una máquina del tiempo!
+**Profe Lápiz**: "Y estos ruidosos de aquí son los **Marcadores**. Son rápidos, brillantes y valientes. Una vez que tocan el papel, ¡ahí se quedan! No tienen miedo."
 
-**(Sonido de rebobinar)**
-
-**Profe Lápiz**: Se llama **Goma de Borrar**. Si cometes un error, ¡la goma te permite viajar al pasado y arreglarlo! Así que no tengas miedo de equivocarte.
-
-**(Sonido de colores brillantes)**
-
-**Profe Lápiz**: Luego están los **Crayones y Marcadores**. Son los fiesteros del grupo. Traen alegría y luz. Pero ten cuidado, ¡algunos son un poco desordenados si no los tratas con cariño!
-
-**Profe Lápiz**: Hoy quiero que tomes cada uno de ellos y les des la mano. Haz rayas, puntos, círculos. Escucha cómo suenan sobre el papel. ¿El lápiz hace *scritch scritch*? ¿El marcador hace *squeak*?
-
-**Profe Lápiz**: Conoce a tus herramientas, cuídalas, y ellas te ayudarán a crear obras maestras. ¡A experimentar!
+**Profe Lápiz**: "Hoy quiero que juegues con todos ellos. Descubre cuál te gusta más. ¿Te gusta la suavidad del lápiz o la fuerza del marcador? ¡Vamos a experimentar en el laboratorio!"

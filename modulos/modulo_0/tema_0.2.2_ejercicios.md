@@ -1,36 +1,37 @@
-# Ejercicios: Líneas Locas
+# Ejercicios: Laboratorio de Líneas
 
-## Ejercicio 1: Lluvia de Emociones
+## Ejercicio 1: Música Visual
 
-**Objetivo**: Asociar líneas con sentimientos.
-**Tiempo**: 15 minutos.
+**Objetivo**: Conectar el oído con la mano.
 
-### Instrucciones
+**Instrucciones**:
 
-1. Escucha una canción alegre. Dibuja líneas que bailen con ella.
-2. Escucha una canción triste o lenta. Dibuja líneas que se muevan como ella.
-3. Piensa en algo que te enoje. Haz líneas furiosas en el papel.
+1. Pide a alguien que haga ruidos o pon música.
+2. Si el sonido es **Suave** (mmm...), dibuja líneas onduladas lentas.
+3. Si el sonido es **Fuerte** (¡PUM!), dibuja zigzags o manchas fuertes.
+4. Si el sonido es **Rápido**, haz puntos o rayas rápidas.
+5. ¡Intenta "dibujar" una canción entera!
 
-### Reflexión
+## Ejercicio 2: El Zoológico de Texturas
 
-- ¿Tus líneas furiosas son picudas o redondeadas?
-- ¿Tus líneas tristes van hacia arriba o hacia abajo?
+**Objetivo**: Usar líneas para que las cosas se "sientan" diferentes.
 
----
-
-## Ejercicio 2: El Bestiario de Líneas
-
-**Objetivo**: Usar líneas para crear texturas.
-**Tiempo**: 20 minutos.
-
-### Instrucciones
+**Instrucciones**:
 
 1. Dibuja 3 círculos grandes.
-2. Círculo 1 (El Puercoespín): Llénalo de líneas rectas cortas que salen hacia afuera.
-3. Círculo 2 (La Oveja): Llénalo de espirales o bucles apretados.
-4. Círculo 3 (El Fantasma): Llénalo de líneas onduladas suaves que floten.
+2. **Círculo 1 (El Puercoespín)**: Llénalo de rayitas rectas y picudas que salen hacia afuera. ¡Que se vea peligroso tocarlo!
+3. **Círculo 2 (La Oveja)**: Llénalo de bucles y espirales chiquitas. Que se vea suave y esponjoso.
+4. **Círculo 3 (La Madera)**: Llénalo de líneas onduladas que viajan juntas sin tocarse (como las vetas de un árbol).
 
-### Criterios de Éxito
+## Ejercicio 3: Paisaje Lineal
 
-- [ ] Llenaste los 3 círculos con texturas diferentes.
-- [ ] No te saliste (demasiado) de los bordes.
+**Objetivo**: Usar todos los tipos de líneas en un solo dibujo.
+
+**Instrucciones**:
+
+1. Dibuja un paisaje que tenga:
+    * Montañas (Zigzag).
+    * Mar (Ondas).
+    * Sol (Círculo y Rectas).
+    * Nubes (Curvas).
+    * Lluvia a lo lejos (Punteada).

@@ -1,32 +1,28 @@
-# Evaluación: El Alfabeto de Líneas
+# Evaluación: Detective de Líneas
 
-**Tipo**: Identificación Visual
+## Pregunta 1
 
----
+Si quieres dibujar un cojín de plumas muy suave para dormir, ¿qué líneas usarías?
 
-## 1. Une con una línea
+- A) Líneas rectas y zigzags picudos.
+- B) Líneas curvas y suaves.
+- C) Líneas invisibles.
 
-- **Línea Curva** .......... ( ) Como una "S" o una ola.
-- **Línea Recta** ........... ( ) Como una regla o un soldado.
-- **Zigzag** .................. ( ) Como dientes de tiburón.
-- **Espiral** ................... ( ) Como un caracol.
+## Pregunta 2
 
-## 2. Reto de Observación
+¿Qué emoción transmite una línea en Zigzag (como un rayo)?
 
-Mira a tu alrededor. Encuentra:
+- A) Calma y sueño.
+- B) Energía, peligro o electricidad.
+- C) Hambre.
 
-- Algo hecho de líneas rectas (Ej. La puerta).
-- Algo hecho de líneas curvas (Ej. Una taza).
+## Pregunta 3
 
-## 3. Pregunta de Reflexión
+Observa a tu alrededor (una mesa, una ventana, un lápiz). La mayoría de los objetos hechos por humanos están hechos de:
 
-Si quisieras dibujar una almohada suave, ¿qué líneas usarías?
-a) Rectas y Zigzags duros.
-b) Curvas y Onduladas suaves.
+- A) Líneas Rectas.
+- B) Líneas Curvas.
 
----
+## Reto Visual
 
-## Respuestas
-
-1: (Visual)
-3: b
+Busca en tu casa algo que tenga espirales. (Pista: Puede ser un caracol en el jardín, o un cable de teléfono antiguo, o un resorte).

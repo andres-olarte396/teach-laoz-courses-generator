@@ -1,25 +1,31 @@
-# Evaluación: Garabatos
+# Evaluación: Calentamiento
 
-**Tipo**: Autoevaluación
+## Pregunta 1
 
----
+¿Por qué es buena idea hacer garabatos antes de empezar un dibujo "serio"?
 
-## Chequeo de Calentamiento
+- A) Para gastar el lápiz más rápido.
+- B) Para calentar los músculos de la mano y soltar el trazo (igual que calentar en deporte).
+- C) Para ensuciar la mesa.
 
-1. **¿Cómo se sentía tu mano ANTES de los ejercicios?**
-   - [ ] Tiesa / Fría
-   - [ ] Normal
+## Pregunta 2
 
-2. **¿Cómo se siente tu mano AHORA?**
-   - [ ] Relajada / Caliente
-   - [ ] Cansada (¡Afloja el agarre!)
+Si quiero cubrir una hoja entera con líneas rápidas y grandes, ¿cómo debería agarrar el lápiz?
 
-3. **¿Lograste hacer líneas suaves y líneas fuertes?**
-   - [ ] Sí, se nota la diferencia.
-   - [ ] No, todas se ven iguales (Necesito practicar la presión).
+- A) Muy cerca de la punta y apretando fuerte (Agarre de Escritura).
+- B) Desde más atrás y moviendo todo el brazo (Agarre de Varita).
 
----
+## Pregunta 3
 
-## Reto Semanal
+Verdadero o Falso:
+"Si un garabato no se parece a nada, es una pérdida de tiempo."
 
-- [ ] Haz un garabato de 2 minutos antes de cada tarea escolar esta semana. ¡Verás que escribes mejor!
+- ( ) Verdadero.
+- ( ) Falso (Ayuda a practicar control y movimiento, ¡es muy útil!).
+
+## Autochequeo
+
+¿Cómo se siente tu mano ahora?
+
+- [ ] Tiesa y fría.
+- [ ] Caliente y lista para la acción.

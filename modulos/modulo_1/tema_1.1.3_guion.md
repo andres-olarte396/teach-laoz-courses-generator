@@ -1,20 +1,16 @@
 # Guion: La Forma Más Fuerte
 
-**Personaje**: El Profe Lápiz
-**Duración**: 2 minutos
+**(Sonido de viento fuerte: Fiuuuu)**
 
----
+**Profe Lápiz**: "¡Sujetense! ¡Viene un huracán!"
 
-**(Sonido de viento fuerte - Fiuuuu)**
+**Profe Lápiz**: "Si nuestra casa fuera un círculo... ¡saldría rodando!
+Si fuera un cuadrado alto... ¡el viento la empujaría!"
 
-**Profe Lápiz**: ¡Sostente fuerte! Viene un huracán.
-Si fueras una casa cuadrada... ¡Paf! Te caerías.
-Pero si eres una Pirámide o una Montaña... el viento resbala por tus lados inclinados.
+**(Sonido de calma)**
 
-**Profe Lápiz**: Hoy conocemos al **Triángulo**. Es el fortachón del grupo. Tiene 3 lados y 3 puntas.
+**Profe Lápiz**: "Pero no se preocupen. Tenemos al **Triángulo**. Es el fortachón del equipo. Tiene una base ancha y termina en punta, así que el viento resbala por sus lados y no lo tira."
 
-**Profe Lápiz**: Los puentes, las torres de luz y las bicicletas usan triángulos porque no se rompen.
+**Profe Lápiz**: "Por eso las montañas, las pirámides y los techos de las casas son triángulos. ¡Son invencibles!"
 
-**Profe Lápiz**: Pero cuidado, ¡pican! La punta del triángulo es como una flecha. Si la pones hacia arriba, apunta al cielo. Si la pones hacia la derecha, dice "¡Ve para allá!".
-
-**Profe Lápiz**: Vamos a llenar nuestra hoja de estas formas picudas y fuertes. ¡Afilemos los lápices!
+**Profe Lápiz**: "Pero cuidado con la punta... ¡Pica! Un triángulo hacia la derecha parece una flecha que dice '¡Vayan para allá!'. Un triángulo hacia abajo parece decir '¡Cuidado abajo!'. Úsalos para dirigir la mirada en tus dibujos."

@@ -1,35 +1,29 @@
-# Evaluación: Mi Primera Casa
+# Evaluación: Inspector de Casas
 
-**Tipo**: Lista de Cotejo Visual
+## Lista de Seguridad (Checklist)
 
----
+Revisa tu dibujo y marca lo que está bien:
 
-## Revisa tu dibujo
+1. **Gravedad**:
+    - [ ] ¿La casa está sobre el suelo o está flotando en el aire? (Debe tocar la línea).
+2. **Techo**:
+    - [ ] ¿El triángulo cubre toda la casa?
+3. **Puerta**:
+    - [ ] ¿La puerta es lo suficientemente alta para entrar?
+4. **Ventanas**:
+    - [ ] ¿Tienen vidrios (cruz dibujada)?
 
-Mira la casa que dibujaste en el Ejercicio 1 y marca lo que lograste:
+## Pregunta de Experto
 
-1. **Estructura**
-   - [ ] Tiene paredes (Cuadrado/Rectángulo).
-   - [ ] Tiene techo (Triángulo).
+Si llueve en tu dibujo, ¿por qué es importante que el techo sea un poco más ancho que las paredes?
 
-2. **Detalles**
-   - [ ] La puerta toca la línea del suelo.
-   - [ ] Las ventanas están derechas.
-   - [ ] El techo es más ancho que la casa (para que no entre el agua).
+- A) Para que se vea más moderno.
+- B) Para que el agua caiga lejos de las paredes y no entre humedad (como un paraguas).
 
-3. **Creatividad**
-   - [ ] Le agregaste algo extra (chimenea, sol, camino, árbol).
+## Reto final
 
----
+Dibuja un poco de **humo** saliendo de la chimenea.
 
-## Pregunta rápida
-
-Si quisieras dibujar un edificio de apartamentos...
-a) Dibujarías un cuadrado pequeño con 1 ventana.
-b) Dibujarías un rectángulo alto con muchas ventanas.
-
----
-
-## Respuestas
-
-(Pregunta rápida): b
+- Si hay viento, el humo se va de lado.
+- Si no hay viento, el humo sube recto.
+¿Cómo está el clima en tu dibujo?

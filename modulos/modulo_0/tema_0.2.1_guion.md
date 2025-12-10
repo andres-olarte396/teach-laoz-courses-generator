@@ -1,24 +1,17 @@
 # Guion: El poder del garabato
 
-**Personaje**: El Profe Lápiz
-**Duración**: 2 minutos
+**(Sonido de música de deportes o motivadora)**
 
----
+**Profe Lápiz**: "¡Atención atletas del arte! Antes de la carrera, hay que calentar motores."
 
-**(Sonido de música jazz suave y rápida)**
+**Profe Lápiz**: "Hoy tienes permiso oficial para hacer un DESASTRE en tu hoja. Sí, me escuchaste bien."
 
-**Profe Lápiz**: ¿Sabías que antes de correr una carrera, los atletas saltan y estiran? Bueno, ¡tu mano también es un atleta!
+**Profe Lápiz**: "Quiero que cierres los ojos. Imagina que tu mano es una patinadora sobre hielo... y el papel es la pista. ¡Abre los ojos y patina!"
 
-**Profe Lápiz**: Hoy no vamos a dibujar nada. Repito: NO vamos a dibujar nada. Vamos a jugar.
+**(Sonido de lápiz rápido)**
 
-**Profe Lápiz**: Quiero que cierres los ojos un segundo. Imagina que tu mano es una patinadora sobre hielo y el papel es la pista.
+**Profe Lápiz**: "¡Deslízate! Haz ochos, giros, saltos. No intentes dibujar un perro ni una casa. Solo dibuja MOVIMIENTO."
 
-**Profe Lápiz**: ¡Abre los ojos! Pon el lápiz en el papel y... ¡Deslízalo! Haz ochos, haz círculos, corre de una esquina a la otra. ¡WIIIII!
+**Profe Lápiz**: "¿Sientes como tu brazo se despierta? Muchos niños dibujan con el brazo tieso, como robots. ¡Nosotros no queremos 'robotitis'! Queremos brazos sueltos y felices."
 
-**(Sonido de deslizamiento)**
-
-**Profe Lápiz**: ¿Sientes cómo tu brazo se relaja? A veces, cuando queremos hacer un dibujo "perfecto", nos ponemos tiesos como robots. El garabato es la cura para la "robotitis".
-
-**Profe Lápiz**: Haz líneas furiosas, haz líneas dormilonas. Llena toda la hoja de energía. Recuerda: Un papel lleno de garabatos no es un papel sucio... ¡es un papel feliz porque bailaron sobre él!
-
-**Profe Lápiz**: ¡Sigue bailando con tu lápiz hasta que suene la campana!
+**Profe Lápiz**: "Así que, cada vez que vayas a dibujar, recuerda: Primero, ¡un par de garabatos locos para calentar!"

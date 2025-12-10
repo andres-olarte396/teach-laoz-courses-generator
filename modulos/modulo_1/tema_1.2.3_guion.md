@@ -1,23 +1,17 @@
 # Guion: El Mago de las Formas
 
-**Personaje**: El Profe Lápiz con sombrero de mago
-**Duración**: 2 minutos
+**(Sonido de varita mágica: ¡Ting!)**
 
----
+**Profe Lápiz**: "¡Abracadabra! Hoy no soy un Profesor... ¡soy un Mago!"
 
-**(Sonido de varita mágica - Ting!)**
+**Profe Lápiz**: "Mira este **Óvalo**. Parece un huevo aburrido, ¿verdad? Pero si le agrego dos triángulos arriba... ¡Puf! Es un Gato."
 
-**Profe Lápiz**: ¡Abracadabra! ¿Qué ves aquí? (Muestra un círculo y un triángulo). ¿Un helado? ¡No!
+**(Sonido de gato: Miau)**
 
-**(Mueve el triángulo encima del círculo)**
-**Profe Lápiz**: ¡Ahora es un Gato! Miau.
+**Profe Lápiz**: "Mira este **Círculo**. Si le pongo un triángulo en medio... ¡Puf! Es un Pájaro."
 
-**(Pone el triángulo de lado en el círculo)**
-**Profe Lápiz**: ¡Ahora es un Pájaro! Pío pío.
+**(Sonido de pájaro: Pío pío)**
 
-**(Pone el triángulo detrás del círculo)**
-**Profe Lápiz**: ¡Ahora es un Pez! Glub glub.
+**Profe Lápiz**: "¿Ves? Los animales están escondidos dentro de las formas geométricas. Tu trabajo como dibujante es encontrarlos. Si sabes dibujar un círculo y un triángulo, ¡sabes dibujar todo el zoológico!"
 
-**Profe Lápiz**: El dibujo es magia. Con las mismas formas simples, puedes crear todos los animales del zoológico. Solo tienes que saber dónde ponerlas.
-
-**Profe Lápiz**: Hoy vamos a ser magos. Toma tu lápiz-varita y convierte estos círculos en tus animales favoritos.
+**Profe Lápiz**: "¿Listo para hacer magia? ¡Saca tu varita (el lápiz) y empecemos!"

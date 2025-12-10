@@ -1,41 +1,32 @@
-# Evaluación: ¿Qué es el dibujo?
+# Evaluación: Mitos y Verdades
 
-**Tipo**: Autoevaluación y Quiz rápido
-**Instrucciones**: Responde con sinceridad. ¡No hay calificación mala!
+## Pregunta 1
 
----
+**Mito o Verdad**: "¿Solo las personas que nacen con un 'don especial' pueden aprender a dibujar?"
 
-## Parte 1: Quiz de conceptos
+- A) Verdad, si no naces sabiendo, mejor dedícate a otra cosa.
+- B) Mito. Dibujar es una habilidad que cualquiera puede aprender con práctica, igual que aprender a leer o andar en bici.
 
-**1. ¿Qué se necesita para empezar a dibujar?**
-   a) Un lápiz de oro y papel de seda.
-   b) Ganas de divertirse y cualquier herramienta que marque.
-   c) Haber nacido con el don mágico.
+## Pregunta 2
 
-**2. ¿Cuál de estos es un tipo de dibujo?**
-   a) Dibujo de Observación (mirar y copiar).
-   b) Dibujo de Imaginación (inventar cosas).
-   c) ¡Los dos!
+¿Cuál es la **Regla de Oro** cuando hacemos un dibujo libre para calentamiento?
 
-**3. Si mi dibujo no sale perfecto a la primera, ¿qué significa?**
-   a) Que soy malo dibujando.
-   b) Que debo romper el lápiz.
-   c) Que estoy aprendiendo y es normal.
+- A) Usar regla para que quede recto.
+- B) No usar borrador y disfrutar el proceso sin juzgarnos.
+- C) Copiar exactamente una foto.
 
----
+## Pregunta 3
 
-## Parte 2: Chequeo de Artista
+Cuando dibujamos algo que no existe en el mundo real (como un monstruo o un planeta inventado), ¿qué tipo de dibujo estamos haciendo?
 
-Marca con una X si lo hiciste:
+- A) Dibujo Realista.
+- B) Dibujo Técnico.
+- C) Dibujo de Imaginación.
 
-- [ ] ¿Dibujaste algo hoy?
-- [ ] ¿Te divertiste haciéndolo?
-- [ ] ¿Guardaste tu dibujo en un lugar seguro?
+## Pregunta 4
 
----
+El Profe dice que el dibujo es un "Lenguaje Universal". ¿Qué significa eso?
 
-## Respuestas Correctas
-
-1: b
-2: c
-3: c
+- A) Que todos los dibujos deben llevar palabras escritas.
+- B) Que un dibujo se puede entender en cualquier parte del mundo, aunque hablemos idiomas distintos.
+- C) Que hay que dibujar planetas.
