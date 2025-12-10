@@ -4,27 +4,28 @@
 
 **Tiempo estimado**: 50 minutos  
 **Nivel**: Difícil (¡Pero tú puedes!)  
-**Prerrequisitos**: Regla y paciencia.
+**Prerrequisitos**: Regla, lápiz y goma.
 
 ---
 
-## Vamos a juntar todo
+## 1. El Examen Final
 
-Ya sabes usar el **Imán** (Punto de Fuga).
-Ya sabes hacer **Cajas** (Edificios).
-Ahora dibujemos una calle de verdad.
+Vamos a juntar todos los poderes que aprendiste.
+Usaremos el **Imán** (Punto de Fuga) y las **Cajas** (Edificios) para dibujar una calle real.
 
-### Las 3 Reglas de Oro para no fallar
+### Las 3 Reglas de Oro (No las rompas)
 
-1. **Verticales SIEMPRE Rectas**: Las paredes suben derechitas al cielo (`|`). NUNCA las inclines.
-2. **Horizontales van al Imán**: Techos, pisos, ventanas y puertas... todos corren al Punto de Fuga.
-3. **Lejos es Pequeño**: Las cosas al fondo son diminutas.
+1. **Verticales = SOLDADOS**: Las paredes suben derechitas al cielo (`|`). NUNCA las inclines.
+2. **Horizontales = FUGAN**: Techos, pisos, ventanas y puertas... todos obedecen al Imán y apuntan hacia él.
+3. **Lejos = PEQUEÑO**: Las personas y árboles al fondo son diminutos.
 
 ---
 
-## Pasos
+## 2. Pasos para la Victoria
 
-1. **Cruz**: Dibuja Horizonte y Punto de Fuga.
-2. **Piso**: Dibuja la X desde las esquinas de abajo al punto.
-3. **Cajas**: Levanta rectángulos a los lados. ¡Paredes rectas!
-4. **Detalles**: Pon ventanas y puertas. ¡Usa el Imán para sus líneas de arriba y abajo!
+1. **La Cruz**: Dibuja tu Horizonte y pon el Punto de Fuga en el centro.
+2. **La X Gigante**: Desde las esquinas de abajo del papel, traza líneas hacia el Punto. (Esta es tu calle/banqueta).
+3. **Las Paredes**: Levanta rectángulos verticales (`|`) a los lados de la calle.
+4. **Los Detalles**: Dibuja ventanas y puertas.
+    * *Truco*: ¡Las líneas de arriba y abajo de las ventanas TAMBIÉN deben apuntar al Punto de Fuga!
+5. **Limpieza**: Borra todas las líneas guía que ya no sirvan. ¡Tu calle 3D está lista!

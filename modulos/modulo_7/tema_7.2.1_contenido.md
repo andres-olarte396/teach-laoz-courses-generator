@@ -8,29 +8,40 @@
 
 ---
 
-## La Línea Mágica (Horizonte)
+## 1. La Línea Mágica (Nivel de Ojos)
 
-La Línea del Horizonte no es solo el suelo.
+La Línea del Horizonte no es solo "donde acaba el suelo".
 **¡Es la altura de tus ojos!**
 
-Dependiendo de dónde dibujes esa línea, cambias quién eres:
+Dependiendo de dónde dibujes esa línea en el papel, cambiamos quiénes somos:
 
-1. **Línea Baja (Gusano)**: Si pones la línea hasta abajo... ¡eres un gusano! Ves mucho cielo y las cosas se ven gigantes.
-2. **Línea Alta (Pájaro)**: Si pones la línea hasta arriba... ¡eres un águila! Ves mucho suelo, como un mapa.
-3. **Línea Media (Humano)**: Si la pones en medio... eres una persona normal paraguas.
+1. **Vista de Gusano (Horizonte Bajo)** 🐛
+    * Pones la línea pegada al suelo.
+    * Ves mucho cielo.
+    * Las cosas se ven **GIGANTES** y poderosas.
+
+2. **Vista de Pájaro (Horizonte Alto)** 🦅
+    * Pones la línea pegada al techo.
+    * Ves mucho suelo (como un mapa).
+    * Las cosas se ven **PEQUEÑAS** e insignificantes.
+
+3. **Vista Humana (Horizonte Medio)** 🚶
+    * La línea va a la mitad. Eres una persona normal parada.
 
 ---
 
-## El Truco del Gigante
+## 2. El Truco del Superhéroe
 
-¿Quieres que tu personaje se vea SUPER PODEROSO?
-Dibuja el horizonte bajo (a la altura de sus pies).
-Así parece que lo miramos desde abajo, como si fuera un rascacielos.
+¿Quieres que tu personaje se vea SUPER PODEROSO y heroico?
+Dibuja el horizonte bajo (a la altura de sus botas).
+Así parecerá que nosotros somos chiquitos y lo miramos hacia arriba, como si fuera un rascacielos.
 
 ---
 
-## Regla de Oro
+## 3. Regla de Oro: No cortes cabezas
 
-**NUNCA atravieses a la gente con la línea del horizonte...**
-A menos que sean fantasmas transparentes.
-La línea del horizonte está lejísimos. Si dibujas una persona, ella tapa la línea. ¡Borra la línea que pasa por su panza!
+**NUNCA atravieses el cuello de la gente con la línea del horizonte...** (¡Parece que los degollaste!).
+
+* La línea del horizonte está lejísimos (kilómetros atrás).
+* Si dibujas una persona, su cuerpo **TAPA** la línea.
+* **¡Borra la línea que pasa por detrás de su cuerpo!** Que la línea se detenga en su espalda y siga del otro lado.

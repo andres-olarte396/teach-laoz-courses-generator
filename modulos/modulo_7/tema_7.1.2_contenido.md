@@ -4,31 +4,31 @@
 
 **Tiempo estimado**: 40 minutos  
 **Nivel**: Intermedio-Difícil  
-**Prerrequisitos**: Carretera Infinita.
+**Prerrequisitos**: Entender el Punto de Fuga.
 
 ---
 
-## De Cuadrado a Caja
+## 1. De Cuadrado a Caja
 
 Si sabes dibujar una caja, sabes dibujar un edificio, una mesa, una cama o un camión.
-¡Todo son cajas!
+¡Todo en el mundo son cajas disfrazadas!
 
-Pero para que la caja se vea 3D, hay reglas estrictas.
+Pero para que la caja se vea 3D y sólida, hay **2 Reglas Estrictas**:
 
-### Regla 1: Las Paredes son Soldados (Verticales)
+### Regla A: Las Paredes son Soldados (Verticales) `|`
 
-Las líneas que van de arriba a abajo (paredes) SIEMPRE deben estar derechitas como soldados (`|`).
-Si las inclinas, tu edificio parece que se cae (terremoto).
+Las líneas que van de arriba a abajo (las orillas de los edificios) **SIEMPRE** deben estar derechitas, paradas como soldados firmes.
+**¡Prohibido inclinarlas!** Si las inclinas, parecerá que hay un terremoto y tu edificio se está cayendo.
 
-### Regla 2: Los Techos obedecen al Imán (Fuga)
+### Regla B: La Profundidad obedece al Imán (Fuga) `/` `\`
 
-Las líneas que se alejan (techos, ventanas, base) siempre apuntan al **Punto de Fuga**.
+Las líneas que se alejan de ti (los techos, las ventanas de lado, la banqueta) **SIEMPRE** apuntan directo al **Punto de Fuga**.
 
 ---
 
-## Cómo construir
+## 2. Cómo construir un Edificio
 
-1. Dibuja el frente de tu edificio (un rectángulo plano).
-2. Desde las esquinas, dibuja líneas que vayan al Punto de Fuga.
-3. Corta las líneas con una vertical (`|`) para terminar el edificio.
-¡Listo!
+1. **Frente**: Dibuja un rectángulo plano (la cara del edificio).
+2. **Líneas Guía**: Desde las esquinas del rectángulo, dibuja líneas suaves que vayan al Punto de Fuga.
+3. **Corte**: Dibuja otra línea vertical (soldado `|`) para decidir dónde termina el edificio.
+4. **Tinta**: Repasa las líneas finales y borra las guías. ¡Listo!
