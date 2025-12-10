@@ -1,31 +1,32 @@
-# Evaluación: El mar y el cielo (colores fríos)
+# Evaluación: Psicología del Color
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Asociación de Emociones
 
 ---
 
-## Pregunta 2
+## 1. El Director de Cine
 
-**Tipo**: Práctica
+Quieres filmar una escena donde el personaje está TRISTE y SOLO bajo la lluvia.
+¿Qué filtro de color le pones a la cámara?
+a) Tono anaranjado y cálido.
+b) Tono azulado y grisáceo.
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Paleta de Personajes
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+- Si dibujo un **Monstruo de Lava**, uso colores: (Cálidos / Fríos)
+- Si dibujo un **Fantasma en un Cementerio**, uso colores: (Cálidos / Fríos)
+
+## 3. Reto de la Sombra
+
+Dibuja una manzana roja.
+Ahora hazle la sombra. ¿Qué color funciona mejor para una sombra profunda y rica?
+a) Negro puro.
+b) Morado oscuro (Frío).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: Cálidos, Fríos
+3: b

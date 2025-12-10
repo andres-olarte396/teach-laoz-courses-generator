@@ -1,21 +1,22 @@
-# Guión de Audio/Video: Mezclando colores nuevos (secundarios)
+# Guion: El Laboratorio de Mezclas
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Mezclando colores nuevos (secundarios)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con bata de científico
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de burbujas - Glup Glup)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Bienvenidos al laboratorio! Pónganse sus gafas de seguridad.
+Hoy vamos a hacer explotar... digo, ¡mezclar colores!
 
----
+**Profe Lápiz**: ¿Qué pasa si el Sr. Rojo le da un abrazo al Pequeño Amarillo?
+¡ZAS! Nace el Naranja, el color de las naranjas y los atardeceres.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: ¿Y si el Amarillo salta a una piscina Azul?
+¡SPLASH! Se convierte en Verde, el color de los sapos y las hojas.
+
+**Profe Lápiz**: ¿Y si el Rojo y la Azul se dan la mano?
+¡PUF! Aparece el Violeta, el color de la magia y las uvas.
+
+**Profe Lápiz**: Recuerda la regla del científico: Pinta suave. Si aprietas mucho, los colores no se pueden mezclar. ¡A experimentar!

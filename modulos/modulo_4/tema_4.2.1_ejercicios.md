@@ -1,37 +1,34 @@
-# Ejercicios: El sol y el fuego (colores cálidos)
+# Ejercicios: ¡Qué Calor! (Colores Cálidos)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El León de Fuego
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Uso exclusivo de paleta cálida.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Esconde tus lápices azules, verdes y morados. ¡Prohibidos!
+2. Dibuja la cara de un león con una melena gigante.
+3. Pinta la cara de **Amarillo**.
+4. Pinta la melena mezclando **Naranja** y **Rojo**.
+5. Pinta el fondo de **Rosa** o **Amarillo**.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: Explosión de Alegría
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Expresar emoción con color.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. No dibujes objetos (ni casas, ni personas).
+2. Dibuja líneas curvas, espirales y manchas.
+3. Usa tus colores cálidos para llenar la hoja.
+4. Intenta que el dibujo se sienta "Feliz" y "Ruidoso".
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] No usaste ningún color frío (ni un poquito de azul).
+- [ ] Tu dibujo se siente brillante y energético.
+- [ ] Lograste sombrear el amarillo usando naranja (no negro).

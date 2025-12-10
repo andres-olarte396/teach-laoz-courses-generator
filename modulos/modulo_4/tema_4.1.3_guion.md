@@ -1,21 +1,21 @@
-# Guión de Audio/Video: Colores que se llevan bien (armonías)
+# Guion: La Rueda de la Amistad
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Colores que se llevan bien (armonías)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de ruleta girando - trrrr taca taca)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: Los colores son como las personas. Algunos se llevan muy bien, y otros se pelean a gritos.
 
----
+**Profe Lápiz**: Mira la Rueda de Color.
+Los vecinos que se sientan juntos (como el Azul y el Verde) son mejores amigos. Si los pones juntos, todo se ve tranquilo y suave. Se llaman **Análogos**.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Pero mira a los que se sientan en frente. El Rojo mira al Verde desde el otro lado de la mesa. ¡Son opuestos!
+Si los pones juntos... ¡BAM! ¡Chispas! Se gritan el uno al otro. Se llaman **Complementarios**.
+
+**Profe Lápiz**: ¿Quieres que tu dibujo grite "¡Mírame!"? Usa opuestos.
+¿Quieres que tu dibujo susurre "Relájate"? Usa vecinos.
+
+**Profe Lápiz**: Tú eres el director de esta fiesta. ¡Elige bien a tus invitados!

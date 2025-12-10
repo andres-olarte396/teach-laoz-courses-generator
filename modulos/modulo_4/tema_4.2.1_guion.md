@@ -1,21 +1,19 @@
-# Guión de Audio/Video: El sol y el fuego (colores cálidos)
+# Guion: El Planeta de Lava
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **El sol y el fuego (colores cálidos)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con abanico
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de fuego crepitando - fffshhh)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Uf! ¡Qué calor hace aquí!
+Hemos aterrizado en la mitad caliente de la Rueda de Color.
 
----
+**Profe Lápiz**: Aquí viven el Amarillo, el Naranja y el Rojo.
+Son los colores del fuego, del sol, de la lava y de los pimientos picantes.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Estos colores son muy energéticos. Siempre quieren saltar del papel y darte un abrazo.
+Si pintas una habitación de naranja, te sentirás despierto. Si la pintas de rojo... ¡te dará hambre!
+
+**Profe Lápiz**: Hoy vamos a dibujar cosas que queman. ¡Cuidado no te quemes los dedos con esos crayones!

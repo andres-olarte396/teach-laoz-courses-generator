@@ -1,21 +1,20 @@
-# Guión de Audio/Video: El mar y el cielo (colores fríos)
+# Guion: El Polo Norte del Color
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **El mar y el cielo (colores fríos)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con bufanda y temblando
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de viento helado - fffuuu)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡B-b-brrr! Hemos cruzado al otro lado de la Rueda.
+Bienvenidos al territorio de los Colores Fríos.
 
----
+**Profe Lápiz**: Aquí viven el Azul, el Verde y el Morado.
+Son tranquilos, silenciosos y... ¡helados!
+Son los colores del agua, del hielo, de la noche y de los sueños.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Si te sientes triste o cansado, estos colores son como una canción de cuna.
+Pero cuidado, si usas demasiados, tu dibujo puede verse solitario.
+
+**Profe Lápiz**: Hoy vamos a dibujar el invierno. Así que abrígate bien y saca tus azules más bonitos.

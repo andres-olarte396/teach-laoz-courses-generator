@@ -1,31 +1,34 @@
-# Evaluación: Los tres colores mágicos (primarios)
+# Evaluación: Colores Primarios
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Selección Múltiple y Práctica
 
 ---
 
-## Pregunta 2
+## 1. ¿Quién es el impostor?
 
-**Tipo**: Práctica
+Uno de estos NO es un color primario. Márcalo con una X.
+a) Rojo 🔴
+b) Verde 🟢
+c) Azul 🔵
+d) Amarillo 🟡
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. El semáforo artístico
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Colorea estos círculos (imagina que tienes lápices):
+
+- Círculo 1: El color de una fresa.
+- Círculo 2: El color del sol.
+- Círculo 3: El color del mar profundo.
+
+## 3. Pregunta trampa
+
+¿Puedo fabricar el color Rojo mezclando otros colores?
+a) Sí, con naranja y morado.
+b) No, el Rojo es único y puro.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b (El verde se hace mezclando)
+3: b

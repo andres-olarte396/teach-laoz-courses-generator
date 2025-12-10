@@ -1,31 +1,31 @@
-# Evaluación: Mezclando colores nuevos (secundarios)
+# Evaluación: Colores Secundarios
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Pareo (Unir con líneas)
 
 ---
 
-## Pregunta 2
+## 1. Receta de Cocina de Colores
 
-**Tipo**: Práctica
+Une los ingredientes con su resultado:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+1. Rojo + Amarillo ....... ( ) Verde
+2. Azul + Amarillo ....... ( ) Morado/Violeta
+3. Rojo + Azul ........... ( ) Naranja
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## 2. Detective de Errores
+
+El Profe Lápiz se equivocó. Marca cuál frase es FALSA:
+a) El Naranja es un color secundario.
+b) Si mezclo Rojo y Azul sale Amarillo.
+c) El Verde se hace con Azul y Amarillo.
+
+## 3. Práctica
+
+En el cuadro de abajo, intenta crear el color **VERDE MÁS OSCURO** que puedas usando tus lápices Azul y Amarillo. (Pista: Usa más azul).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: Naranja, Verde, Morado
+2: b (¡Es falso! Sale morado)

@@ -1,37 +1,33 @@
-# Ejercicios: El mar y el cielo (colores fríos)
+# Ejercicios: ¡Qué Frío! (Colores Fríos)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Reino de Hielo
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Uso exclusivo de paleta fría.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Esconde tus lápices rojos, naranjas y amarillos.
+2. Dibuja un castillo de hielo o un paisaje nevado.
+3. Usa **Azul Claro**, **Azul Oscuro**, **Morado** y **Verde Menta**.
+4. Deja espacios en blanco para la nieve.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: El Bosque Misterioso
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Crear atmósfera nocturna.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Dibuja un bosque de noche.
+2. Pinta el cielo de **Azul Oscuro** o **Negro**.
+3. Pinta los árboles de **Verde Oscuro** y **Morado** (no marrón).
+4. ¿Puedes hacer que se vea tenebroso usando solo colores fríos?
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] No usaste ningún color cálido.
+- [ ] Tu dibujo transmite frío o calma.
+- [ ] Usaste el blanco del papel como un color más (nieve/luna).

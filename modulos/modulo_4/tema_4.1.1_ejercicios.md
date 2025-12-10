@@ -1,37 +1,35 @@
-# Ejercicios: Los tres colores mágicos (primarios)
+# Ejercicios: Los Tres Reyes (Colores Primarios)
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: Cazadores de Colores
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Identificar primarios en el entorno.
+**Tiempo**: 10 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Toma tu cuaderno y 3 lápices: Rojo, Amarillo, Azul.
+2. Camina por tu casa/aula.
+3. Encuentra 3 cosas ROJAS y dibújalas (Manzana, Camión de bomberos).
+4. Encuentra 3 cosas AMARILLAS y dibújalas (Sol, Plátano).
+5. Encuentra 3 cosas AZULES y dibújalas (Cielo, Pantalones).
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: El Superhéroe Primario
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Uso exclusivo de colores puros.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Diseña un traje de superhéroe.
+2. REGLA DE ORO: Solo puedes usar Rojo, Amarillo y Azul.
+3. Puedes dejar partes blancas.
+4. Intenta que los colores no se toquen para que no se mezclen.
+5. ¡Ponle un nombre! (Ej: "Capitán Primario").
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Usaste colores puros (sin mezclar).
+- [ ] Tu superhéroe se ve brillante y fuerte.
+- [ ] No usaste verde, naranja ni morado.

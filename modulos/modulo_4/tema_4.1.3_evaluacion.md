@@ -1,31 +1,33 @@
-# Evaluación: Colores que se llevan bien (armonías)
+# Evaluación: Armonía de Color
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Selección de Estilo
 
 ---
 
-## Pregunta 2
+## 1. El Diseñador de Uniformes
 
-**Tipo**: Práctica
+Eres el diseñador del equipo "Los Rayos Veloces". Quieres que el uniforme se vea MUY fuerte y llamativo desde lejos.
+¿Qué colores eliges?
+a) Azul y Verde (Vecinos tranquilos).
+b) Azul y Naranja (Opuestos ruidosos).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. El Pintor de Sueños
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Quieres pintar la habitación de un bebé para que duerma tranquilo.
+¿Qué colores eliges?
+a) Rojo y Verde (Navidad estresante).
+b) Azul claro y Azul oscuro (Vecinos calmados).
+
+## 3. Reto Visual
+
+- ¿Cuál es el opuesto del Amarillo? ............ (Morado)
+- ¿Cuál es el opuesto del Rojo? ................ (Verde)
+- ¿Cuál es el opuesto del Azul? ................ (Naranja)
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: Morado, Verde, Naranja
