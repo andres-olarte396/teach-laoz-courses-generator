@@ -8,41 +8,37 @@
 
 ---
 
-## Matemáticas Mágicas
+## 1. Matemáticas Mágicas
 
-¿Qué pasa si tienes lápices rojo, azul y amarillo... pero quieres dibujar un sapo (verde)?
-¿O una naranja (...naranja)?
-¿O una uva (morada)?
+¿Qué pasa si tienes lápices rojo, azul y amarillo... pero quieres dibujar un sapo (verde)? ¿O una naranja (...naranja)? ¿O una uva (morada)?
+¡No corras a la tienda a comprar más lápices!
+Puedes **CREARLOS** tú mismo.
 
-¡No necesitas comprar más lápices!
-Puedes **CREARLOS**.
-
-A estos nuevos colores les llamamos **SECUNDARIOS** (El nivel 2).
+A estos nuevos colores "hijos" les llamamos **COLORES SECUNDARIOS** (Nivel 2).
 
 ---
 
-## Las 3 Recetas Secretas
+## 2. Las 3 Recetas Secretas
 
-Apréndete esto de memoria. Es la receta para pintar el universo:
+Apréndete esto de memoria. Es la receta de cocina para pintar el universo:
 
 1. 🔴 **ROJO** + 🟡 **AMARILLO** = 🧡 **NARANJA**
-    *(Fuego + Sol = Atardecer)*
+    *(El calor del fuego + la luz del Sol = Atardecer)*
 
 2. 🔵 **AZUL** + 🟡 **AMARILLO** = 💚 **VERDE**
-    *(Agua + Sol = Planta)*
+    *(El agua azul + la luz del Sol = Vida/Plantas)*
 
 3. 🔴 **ROJO** + 🔵 **AZUL** = 💜 **MORADO**
-    *(Fuego + Agua = Magia)*
+    *(El fuego rojo + el agua azul = Magia/Misterio)*
 
 ---
 
-## Cómo Mezclar con Lápices
+## 3. Cómo Mezclar con Lápices de Madera
 
-Los lápices no son pintura líquida. No se mezclan solos.
-Tienes que usar el **Truco de las Capas (Sándwich)**:
+Los lápices de madera no son pintura líquida; no se mezclan instantáneamente. Tienes que usar el **Truco del Sándwich (Capas)**:
 
-1. Dibuja suavecito con el primer color (Ej. Amarillo).
-2. Dibuja suavecito encima con el segundo color (Ej. Azul).
-3. ¡Tus ojos harán la mezcla y verán Verde!
+1. **Capa 1 (Base)**: Dibuja suavecito con el color más claro (ej. Amarillo).
+2. **Capa 2 (Mezcla)**: Dibuja suavecito encima con el color más fuerte (ej. Azul).
+3. **Resultado**: ¡Tus ojos son engañados y ven Verde!
 
-*Consejo: Siempre pon el color claro (Amarillo) abajo y el oscuro (Azul) arriba.*
+> **Regla de Oro**: Siempre pon el color CLARO abajo y el OSCURO arriba. Si pones el azul primero, es tan fuerte que se "comerá" al amarillo y no se verá verde, sino azul sucio.

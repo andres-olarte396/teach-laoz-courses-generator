@@ -4,40 +4,37 @@
 
 **Tiempo estimado**: 40 minutos  
 **Nivel**: Intermedio  
-**Prerrequisitos**: Saber mezclar.
+**Prerrequisitos**: Saber mezclar colores básicos.
 
 ---
 
-## La Fiesta de los Colores
+## 1. La Fiesta de los Colores
 
-Imagina que los 6 colores se sientan en una mesa redonda (El Círculo Cromático).
-Dependiendo de a quién sientes junto a quién, pasan cosas diferentes.
+Imagina que los 6 colores del arcoíris se sientan a cenar en una mesa redonda (El Círculo Cromático).
+Dependiendo de a quién sientes junto a quién, la conversación cambia:
 
-### 1. Los Vecinos (Amigos Tranquilos)
+### Los Vecinos (Colores Análogos) 🤝
 
-Son los colores que viven lado a lado.
+Son los colores que viven lado a lado en la rueda. Son familia.
 
-* Azul y Verde.
-* Rojo y Naranja.
-* Amarillo y Verde.
+* Azul y Verde (Vecinos fríos).
+* Rojo y Naranja (Vecinos calientes).
 
-**Efecto**: **PAZ**. Se ven bonitos, suaves y tranquilos.
-Úsalos para paisajes o cosas relajantes.
+**Efecto**: **PAZ y CALMA**. Como se parecen, se llevan bien. Úsalos para paisajes tranquilos o fondos relajantes.
 
-### 2. Los Opuestos (Enemigos Ruidosos)
+### Los Opuestos (Colores Complementarios) 💥
 
-Son los colores que se sientan frente a frente. ¡Son totalmente diferentes!
+Son los colores que se sientan frente a frente, lo más lejos posible. ¡Son totalmente diferentes!
 
-* Rojo vs. Verde (Navidad).
-* Azul vs. Naranja (Atardecer).
-* Amarillo vs. Morado (Lakers).
+* Rojo ⚔️ Verde (Como la Navidad).
+* Azul ⚔️ Naranja (Como el atardecer en el mar).
+* Amarillo ⚔️ Morado (Como el logo de los Lakers).
 
-**Efecto**: **¡ENERGÍA!** Se ven brillantes, vibrantes y chillones.
-Úsalos para logotipos, superhéroes o cosas que quieras que la gente mire.
+**Efecto**: **¡ENERGÍA EXPLOSIVA!**. Cuando pones opuestos juntos, vibran. Se ven brillantes y chillones. Úsalos para cosas que quieras que la gente mire sí o sí (como un superhéroe).
 
 ---
 
-## Regla de Oro
+## 2. Regla de Oro del Diseñador
 
-* ¿Quieres que tu dibujo grite? Usa **Opuestos**.
-* ¿Quieres que tu dibujo susurre? Usa **Vecinos**.
+* ¿Quieres que tu dibujo **grite** "¡MÍRAME!"? Usa **Opuestos**.
+* ¿Quieres que tu dibujo **susurre** "relájate"? Usa **Vecinos**.

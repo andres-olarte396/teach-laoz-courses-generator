@@ -8,38 +8,38 @@
 
 ---
 
-## ¡Brrr! Qué Frío
+## 1. ¡Brrr! Qué Frío
 
-Ahora viajamos a la otra mitad de la rueda.
-Aquí todo es tranquilo, lento y helado.
+Ahora viajamos a la otra mitad de la rueda. Aquí todo es tranquilo, lento y helado.
 Son los **Colores Fríos**:
 
-* ❄️ **Azul** (Hielo).
-* 🌿 **Verde** (Bosque oscuro).
-* 🍇 **Morado** (Noche).
+* ❄️ **Azul** (Hielo, agua).
+* 🌿 **Verde** (Bosque profundo, plantas).
+* 🍇 **Morado** (Noche, fantasía, uvas).
 
 ---
 
-## ¿Para qué sirven?
+## 2. ¿Para qué sirven?
 
 Los Colores Fríos son mágicos para:
 
-1. **Tristeza/Calma**: Si dibujas a alguien llorando, usa azul.
-2. **La Noche**: Todo se ve azul o morado cuando se va el sol.
-3. **Lejanía**: Las montañas que están muy, muy lejos... ¡se ven azules! (Es un truco de la atmósfera).
+1. **Tristeza o Calma**: Si dibujas a alguien llorando o durmiendo, usa azul. Baja la energía del dibujo.
+2. **La Noche**: Cuando se va el sol, el mundo se tiñe de azul y morado.
+3. **Lejanía (Perspectiva Atmosférica)**: Las montañas que están muy, muy lejos... ¡se ven azulitas! El aire hace que las cosas lejanas se enfríen.
 
-Si quieres dibujar un fantasma, un castillo de hielo o un día de lluvia... necesitas el FRÍO.
+Si quieres dibujar un fantasma, un castillo de hielo o un día lluvioso... necesitas el FRÍO.
 
 ---
 
-## Secreto de Artista: Sombras de Colores
+## 3. Secreto de Artista: Sombras de Colores
 
-Muchos niños usan negro para pintar sombras.
-**¡Error!** Las sombras negras se ven sucias.
+Muchos niños usan negro para pintar todas las sombras.
+**¡Error!** Las sombras negras se ven agujeros vacíos.
+Las sombras reales tienen color.
 
-Los artistas usan **MORADO o AZUL OSCURO** para hacer sombras.
+Los artistas usan **MORADO o AZUL OSCURO** para hacer las sombras más bonitas:
 
 * Si dibujas un árbol verde... haz su sombra con **Azul oscuro**.
 * Si dibujas una manzana roja... haz su sombra con **Morado**.
 
-¡Inténtalo y verás que tu dibujo brilla más!
+¡Inténtalo! Tu dibujo se verá más profesional y menos "sucio".
