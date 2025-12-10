@@ -1,31 +1,34 @@
-# Evaluación: Cielo y tierra
+# Evaluación: Línea del Horizonte
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Selección de Vista
 
 ---
 
-## Pregunta 2
+## 1. El Detective de Altura
 
-**Tipo**: Práctica
+Miras un dibujo donde se ve el techo de una mesa y el piso de la habitación.
+¿Dónde estaba el dibujante?
+a) De pie o subido a una silla (Horizonte Alto).
+b) Tirado debajo de la mesa (Horizonte Bajo).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Espacio Creativo
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Si quiero dibujar un cielo lleno de una batalla de dragones volando...
+¿Dónde pongo mi línea del horizonte?
+a) Muy arriba (para tener mucho suelo).
+b) Muy abajo (para tener mucho espacio de cielo).
+
+## 3. Lógica Física
+
+La línea del horizonte...
+a) Es una cuerda física que puedes tocar si caminas mucho.
+b) Es una línea imaginaria que siempre se aleja.
+c) Solo existe si hay mar.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: a
+2: b
+3: b

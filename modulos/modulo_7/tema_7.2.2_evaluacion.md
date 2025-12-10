@@ -1,31 +1,33 @@
-# Evaluación: Perspectiva de un punto (la calle)
+# Evaluación: Maestría en Perspectiva
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Análisis de Errores
 
 ---
 
-## Pregunta 2
+## 1. El Terremoto
 
-**Tipo**: Práctica
+En un dibujo de perspectiva de 1 punto, ¿cómo deben ser las líneas verticales de los edificios?
+a) Inclinadas siguiendo el punto de fuga.
+b) Totalmente rectas y paradas (verticales).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Ventanas Mágicas
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Si dibujo una ventana en la pared lateral de un edificio fugado:
+
+- El lado de arriba de la ventana... ¿a dónde apunta?
+a) Al cielo.
+b) Al Punto de Fuga.
+
+## 3. Escala y Distancia
+
+Si dibujo un auto cerca de mí y otro auto lejos (al final de la calle):
+a) Los dos son del mismo tamaño en el papel.
+b) El de lejos es diminuto, casi un puntito.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: b

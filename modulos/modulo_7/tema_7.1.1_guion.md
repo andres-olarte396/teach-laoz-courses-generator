@@ -1,21 +1,24 @@
-# Guión de Audio/Video: El camino que se hace chiquito
+# Guion: El Punto Mágico
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **El camino que se hace chiquito**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con binoculares
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de tren a lo lejos - Chuu chuu...)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Mira ese tren! Se va alejando.
+¿Te has fijado que cuando se aleja parece un tren de juguete?
+¿Y las vías del tren? Parece que se juntan en un beso a lo lejos.
 
----
+**Profe Lápiz**: Eso es la **Perspectiva**.
+Es un truco de magia.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Imagina que hay un imán en el fondo de tu dibujo.
+Lo llamamos **Punto de Fuga**.
+Ese imán atrae todas las líneas.
+El techo, el suelo, las ventanas... todo quiere ir a tocar ese punto.
+
+**Profe Lápiz**: Si dibujas todas las líneas yendo hacia ese punto... ¡ZAS!
+Tu dibujo plano se convierte en un mundo profundo.
+¡Vamos a probarlo!

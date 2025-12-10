@@ -1,31 +1,33 @@
-# Evaluación: Casas en la distancia
+# Evaluación: Casas en 3D
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Corrección de Planos
 
 ---
 
-## Pregunta 2
+## 1. La Torre Inclinada
 
-**Tipo**: Práctica
+Si dibujo un edificio y las líneas verticales están así `\ \` (inclinadas)...
+¿Qué parece?
+a) Un edificio moderno y estable.
+b) Un edificio que se está cayendo (terremoto).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Ventanas Correctas
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Mira una pared que se aleja hacia la izquierda.
+Las ventanas de esa pared deben ser:
+a) Cuadrados perfectos. [ ]
+b) Trapecios que se encogen hacia la izquierda. /_/
+
+## 3. Lógica de Fuga
+
+Todas las líneas laterales de mi ciudad (los andenes, los techos, las ventanas, las puertas) apuntan hacia:
+a) El Sol.
+b) El mismo único Punto de Fuga.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: b

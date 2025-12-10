@@ -1,21 +1,22 @@
-# Guión de Audio/Video: Casas en la distancia
+# Guion: El Arquitecto del Papel
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Casas en la distancia**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con casco de construcción
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de martillo y sierra - Clang clang zzzzt)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Atención constructores! Hoy vamos a levantar una ciudad.
+Pero no usaremos ladrillos. Usaremos líneas.
 
----
+**Profe Lápiz**: ¿Sabías que una casa no es más que una caja grande con ventanas?
+Si sabes dibujar una caja, sabes dibujar un rascacielos.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: La regla sagrada del arquitecto es: **Paredes Rectas**.
+Las paredes suben derechitas hacia el cielo. Si las dibujas chuecas, ¡el edificio se cae!
+
+**Profe Lápiz**: Pero los techos y las ventanas... ah, esos son traviesos.
+Esos siempre quieren correr hacia el Punto de Fuga.
+
+**Profe Lápiz**: Así que: Paredes rectas, techos fugados. ¡Manos a la obra!

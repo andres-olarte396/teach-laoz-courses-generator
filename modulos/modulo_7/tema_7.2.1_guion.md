@@ -1,21 +1,25 @@
-# Guión de Audio/Video: Cielo y tierra
+# Guion: ¿Dónde están mis ojos?
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Cielo y tierra**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz subido a una escalera
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de escalera tambaleante - ñiii ñiii)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Hola desde aquí arriba!
+Estoy subido a una escalera muy alta.
+Desde aquí veo el suelo, los techos de los autos y las cabezas de la gente.
+Mi **Línea del Horizonte** está ALTA.
 
----
+**(Sonido de salto y caída - ¡PUM!)**
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: ¡Auch! Ahora estoy tirado en el suelo.
+Desde aquí veo zapatos gigantes, las panzas de los perros y mucho cielo.
+Mi **Línea del Horizonte** está BAJA.
+
+**Profe Lápiz**: Cuando dibujas esa raya que separa el cielo de la tierra, estás decidiendo dónde estás TÚ.
+¿Eres un pájaro (línea arriba)?
+¿O eres un gusano (línea abajo)?
+
+**Profe Lápiz**: ¡Tú decides la altura de la cámara!
