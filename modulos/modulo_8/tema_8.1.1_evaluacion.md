@@ -1,31 +1,34 @@
-# Evaluación: Cabeza, tronco y extremidades
+# Evaluación: Anatomía Básica
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Identificación de Errores
 
 ---
 
-## Pregunta 2
+## 1. Brazos Extraños
 
-**Tipo**: Práctica
+Mira estos dibujos. ¿Cuál es el CORRECTO?
+a) Los brazos le salen de las orejas.
+b) Los brazos le salen de la cintura.
+c) Los brazos le salen de las esquinas de arriba del tronco (hombros).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. El Cuello Desaparecido
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Verdadero o Falso:
+"La cabeza puede flotar encima del cuerpo sin tocarlo".
+( ) Verdadero.
+( ) Falso (Necesita un cuello).
+
+## 3. Práctica de Observación
+
+Párate y baja los brazos. ¿Hasta dónde llegan tus manos?
+a) Hasta las rodillas (como un gorila).
+b) Hasta la mitad del muslo (un poco abajo de la cintura).
+c) Hasta el suelo.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: c
+2: Falso
+3: b

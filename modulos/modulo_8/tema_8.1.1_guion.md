@@ -1,21 +1,23 @@
-# Guión de Audio/Video: Cabeza, tronco y extremidades
+# Guion: Somos Robots
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Cabeza, tronco y extremidades**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz bailando como robot
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido electrónico - Bip bop bip)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Hola humanos!
+A veces, para dibujar una persona real, primero tienes que dibujar un robot.
 
----
+**Profe Lápiz**: Muchos niños dibujan palitos. Una bolita y 4 palitos.
+Pero tú no eres un palito, ¿verdad?
+Tócate el brazo. ¡Es gordito! Tienes carne, hueso y músculo. Tienes volumen.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Así que en lugar de palitos, vamos a dibujar tubos y cajas.
+Una caja para el pecho (el motor).
+Un huevo para la cabeza (la computadora).
+Y tubos para movernos.
+
+**Profe Lápiz**: Si aprendes a dibujar este robot simple, podrás vestirlo de lo que quieras: de princesa, de futbolista o de astronauta.
+¡Pero primero, construye el robot!

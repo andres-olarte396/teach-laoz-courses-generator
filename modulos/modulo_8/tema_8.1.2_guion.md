@@ -1,21 +1,23 @@
-# Guión de Audio/Video: Poses y movimiento
+# Guion: Gelatina vs. Piedra
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Poses y movimiento**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz estirándose
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de resorte - Boing boing)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Uf! ¡Qué rico es estirarse!
+Los humanos no somos piedras. Somos flexibles.
+Nos doblamos, giramos, saltamos y corremos.
 
----
+**Profe Lápiz**: Si dibujas a tu personaje recto como un poste de luz `|`, se ve aburrido. ¡Está dormido de pie!
+Queremos acción.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Imagina que la columna vertebral es de goma.
+Si el personaje corre, inclínalo hacia adelante `/`.
+Si se asusta, inclínalo hacia atrás `\`.
+Si baila, haz una curva como una serpiente `S`.
+
+**Profe Lápiz**: Primero dibuja esa línea de acción, y luego le pones el cuerpo.
+¡Que tus dibujos no sean estatuas, que sean atletas!

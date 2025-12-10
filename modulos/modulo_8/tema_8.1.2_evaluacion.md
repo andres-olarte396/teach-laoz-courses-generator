@@ -1,31 +1,32 @@
-# Evaluación: Poses y movimiento
+# Evaluación: Movimiento
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Análisis de Poses
 
 ---
 
-## Pregunta 2
+## 1. La Línea de Acción
 
-**Tipo**: Práctica
+Si quiero dibujar a alguien corriendo muy rápido hacia la derecha...
+¿Cómo debería ser la línea principal de su cuerpo?
+a) Vertical recta `|` (Como un soldado).
+b) Diagonal inclinada hacia adelante `/` (Como una flecha).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Articulaciones
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+El codo humano...
+a) Se puede doblar hacia cualquier lado (como manguera).
+b) Solo se dobla hacia adentro (bisagra).
+
+## 3. Exageración
+
+Para que un dibujo de acción se vea emocionante...
+a) Hay que dibujarlo exactamente como una foto aburrida.
+b) Hay que exagerar la pose (estirar más las piernas, torcer más el cuerpo).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: b

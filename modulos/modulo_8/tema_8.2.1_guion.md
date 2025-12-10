@@ -1,21 +1,25 @@
-# Guión de Audio/Video: Feliz, triste, enojado, sorprendido
+# Guion: El Espejo Mágico
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Feliz, triste, enojado, sorprendido**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con un espejo
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de risa malvada - Muajajaja)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¿Quién se ríe así? ¡Un villano!
+¿Y cómo sabemos que es un villano si no lo escuchamos?
+¡Por su cara!
 
----
+**Profe Lápiz**: Tu cara es un mapa.
+Si mueves dos pelitos encima de tus ojos (las cejas), cambias toda la historia.
+¡Mira!
+**(Voz grave)** Cejas abajo: SOY HULK ENOJADO.
+**(Voz aguda)** Cejas arriba: ¡Oh no! ¡Qué sorpresa!
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: La boca y los ojos ayudan, pero las cejas son las jefas.
+Si quieres que tu personaje esté furioso, ¡junta esas cejas!
+Si quieres que esté triste, ¡inclínalas como un techo de casita!
+
+**Profe Lápiz**: ¡Mírate al espejo y haz muecas! Luego dibújalas.
+Es la mejor tarea del mundo.

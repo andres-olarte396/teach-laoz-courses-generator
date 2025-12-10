@@ -1,21 +1,24 @@
-# Guión de Audio/Video: Mi autorretrato
+# Guion: El Modelo Infinito
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Mi autorretrato**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz peinándose
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de spray de pelo - Pssst)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: Hoy vamos a dibujar al modelo más guapo, inteligente y disponible del mundo.
+¿Quién es? ¡TÚ!
 
----
+**Profe Lápiz**: Los artistas famosos se dibujaban a sí mismos todo el tiempo.
+¿Por qué? Porque es el único modelo que no cobra dinero y no se queja si tardas mucho.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Mírate al espejo.
+Tu cerebro te miente. Te dice que tus ojos están arriba. ¡Mentira! Están en medio.
+Te dice que tu oreja es pequeña. ¡Mentira! Es casi tan grande como tu nariz.
+
+**Profe Lápiz**: No dibujes lo que piensas. Dibuja lo que ves.
+Observa tu nariz. ¿Es redonda? ¿Puntiaguda?
+Observa tu pelo. ¿Es una nube? ¿Es un casco?
+
+**Profe Lápiz**: Eres una obra de arte única. ¡Captúrate en el papel!

@@ -1,31 +1,34 @@
-# Evaluación: Feliz, triste, enojado, sorprendido
+# Evaluación: Emociones
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Adivina la Cara
 
 ---
 
-## Pregunta 2
+## 1. Cejas de Fuego
 
-**Tipo**: Práctica
+Si dibujo unas cejas que apuntan hacia abajo así `\ /` y se tocan en el medio...
+¿Qué emoción es?
+a) Felicidad extrema.
+b) Enojo o Furia.
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Ojos de Plato
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+Si dibujo unos ojos grandotes y redondos con pupilas pequeñas...
+¿Qué emoción es?
+a) Sueño.
+b) Sorpresa o Miedo.
+
+## 3. Mezcla Rara
+
+Si alguien se está riendo pero tiene cejas de enojo (Cejas `\ /` + Sonrisa `)`)...
+¿Es un personaje bueno o malo?
+a) Un héroe amable.
+b) Un villano planeando una travesura.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: b

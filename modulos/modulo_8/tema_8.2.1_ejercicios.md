@@ -1,37 +1,35 @@
-# Ejercicios: Feliz, triste, enojado, sorprendido
+# Ejercicios: Caras y Gestos
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Teatro de Emojis
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Dibujar las emociones básicas.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja 6 círculos grandes en tu hoja.
+2. Dibuja una cara distinta en cada uno usando tus "herramientas" (Cejas + Ojos + Boca):
+   - **Feliz**: Cejas relajadas, Sonrisa grande.
+   - **Triste**: Cejas de casita `/ \`, Boca triste `(`.
+   - **Enojado**: Cejas de flecha `\ /`, Boca recta `-`.
+   - **Sorprendido**: Cejas altas, Boca de `O`.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: El Científico Loco
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Mezclar rasgos para crear expresiones complejas.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Dibuja una cara con **Cejas de Enojado** `\ /` PERO con **Sonrisa** `)`.
+   - ¿Qué parece? (Malvado, travieso).
+2. Dibuja una cara con **Cejas de Triste** `/ \` PERO con **Sonrisa** `)`.
+   - ¿Qué parece? (Aliviado, o riendo después de llorar).
+3. ¡Inventa tu propia mezcla extraña!
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] No olvidaste dibujar las cejas (son muy importantes).
+- [ ] Se entiende qué emoción siente el personaje.

@@ -1,37 +1,39 @@
-# Ejercicios: Poses y movimiento
+# Ejercicios: ¡Acción
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: Olimpiadas de Palitos
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Capturar la energía del movimiento.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja 5 muñecos de palitos (cabeza de bolita, cuerpo de línea).
+2. Tienen que estar haciendo deportes extremos:
+   - Uno corriendo a toda velocidad.
+   - Uno saltando muy alto.
+   - Uno cayéndose de espaldas.
+   - Uno bailando disco.
+   - Uno peleando karate.
+3. ¡Exagera! Si corre, separa mucho las piernas. Si salta, dobla mucho las rodillas.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: De Palito a Robot
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Dar volumen a una pose dinámica.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Elige tu Stickman favorito del ejercicio anterior.
+2. Dibuja encima de los palitos usando cilindros (tubos) y cajas.
+   - La línea del cuerpo se convierte en un rectángulo flexible.
+   - Los palitos de brazos y piernas se convierten en tubos.
+3. Ahora tienes un robot haciendo deporte.
+4. Borra los palitos de adentro.
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] El personaje no se ve rígido (parece que se mueve).
+- [ ] Las articulaciones (codos/rodillas) se doblan hacia el lado correcto.
+- [ ] Mantuviste las proporciones (cabeza y cuerpo del tamaño correcto).
