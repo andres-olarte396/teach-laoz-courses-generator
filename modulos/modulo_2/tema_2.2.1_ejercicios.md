@@ -1,37 +1,33 @@
 # Ejercicios: Puntos, rayas y cuadrículas
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Laboratorio de Texturas
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Experimentar con los 3 patrones básicos.
 
-### Instrucciones
-[Instrucciones detalladas]
+**Instrucciones**:
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Divide tu hoja en 3 franjas horizontales.
+2. **Franja 1 (Puntos)**: Crea un degradado. Empieza con puntos muy juntos a la izquierda (oscuridad) y ve separándolos hacia la derecha (luz).
+3. **Franja 2 (Rayas)**: Haz lo mismo con rayas verticales. Juntas = oscuro. Separadas = claro.
+4. **Franja 3 (Cuadrícula)**: Dibuja una red de cuadros. Luego, rellena algunos cuadros al azar para crear un diseño tipo ajedrez roto.
 
----
+## Ejercicio 2: Sombreado sin manchas
 
-## Ejercicio 2: Desafío Intermedio
+**Objetivo**: Usar tramas (hatching) para dar volumen.
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
+1. Dibuja una manzana simple (solo el contorno).
+2. No uses el dedo ni difumines.
+3. Para la parte oscura de la manzana, usa **Rayado Cruzado** (rayas verticales + horizontales).
+4. Para la parte media, usa **Rayado Simple** (solo diagonales).
+5. Para la parte de luz, deja el papel blanco.
 
----
+## Ejercicio 3: Lluvia y Nieve
 
-## Ejercicio 3: Proyecto Creativo
+**Objetivo**: Asociar patrones con elementos naturales.
 
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Instrucciones**:
 
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+1. **Lluvia**: Dibuja una nube y usa rayas diagonales rápidas para simular lluvia fuerte. Intenta que todas tengan el mismo ángulo.
+2. **Nieve**: Dibuja otra nube y usa puntos dispersos y suaves para simular nieve cayendo lentamente.

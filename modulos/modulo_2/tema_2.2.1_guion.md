@@ -1,21 +1,13 @@
-# Guión de Audio/Video: Puntos, rayas y cuadrículas
+# Guion: Puntos, rayas y cuadrículas
 
-## Introducción (30 segundos)
+**(Sonido de máquina de escribir: tac-tac-tac)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Puntos, rayas y cuadrículas**.
+**Profesor**: "El dibujo tiene un alfabeto secreto. Solo tiene tres letras: El Punto, La Raya y la Cuadrícula."
 
----
+**(Sonido de lluvia)**
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "¿Cómo dibujamos la lluvia? ¡Con rayas! ¿Cómo dibujamos la arena de la playa? ¡Con puntos! ¿Cómo dibujamos una camisa de leñador? ¡Con cuadrículas!"
 
-[Contenido principal del guión]
+**Profesor**: "Si dominas estos tres patrones, puedes dibujar cualquier textura del mundo. No necesitas colores. Si pones muchos puntos juntos, se ve oscuro como la noche. Si los pones separados, se ve claro como la niebla."
 
----
-
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Hoy vamos a llenar el papel de ritmos y patrones. ¡1, 2, 3, punto! ¡1, 2, 3, raya!"

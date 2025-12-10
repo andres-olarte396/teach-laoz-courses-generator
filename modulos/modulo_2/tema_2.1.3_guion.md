@@ -1,21 +1,13 @@
-# Guión de Audio/Video: Líneas que cuentan historias
+# Guion: Líneas que cuentan historias
 
-## Introducción (30 segundos)
+**(Sonido de coche de carreras pasando rápido: VROOOOM)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Líneas que cuentan historias**.
+**Profesor**: "¿Vieron eso? ¡Fue rapidísimo! Pero... en un dibujo, las cosas no se mueven. ¿Cómo hacemos para que parezca que corren?"
 
----
+**Profesor**: "Usamos las Líneas de Movimiento. Si dibujas unas rayas horizontales detrás de un coche, ¡automáticamente parece veloz!"
 
-## Desarrollo (2-3 minutos)
+**(Sonido de golpe: BOING)**
 
-[Contenido principal del guión]
+**Profesor**: "Si dibujas líneas en zigzag alrededor de un golpe, ¡duele más! Las líneas son los efectos especiales del dibujante."
 
----
-
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Podemos dibujar el viento, el frío (líneas temblorosas), el calor (líneas onduladas) y hasta el grito (burbuja con picos). ¡Vamos a convertirnos en directores de cine con nuestro lápiz!"

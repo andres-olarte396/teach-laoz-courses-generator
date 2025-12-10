@@ -2,30 +2,36 @@
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+¿Qué pasa con el tono de tu dibujo si dibujas puntos (o rayas) muy **juntos**?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Se ve más claro (blanco).
+- B) Se ve más oscuro (sombra).
+- C) El papel se rompe.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+¿Cómo se llama la técnica de sombrear usando líneas cruzadas (verticales y horizontales)?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Cross-hatching (Tramado cruzado).
+- B) Puntilismo.
+- C) Garabateo.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+Si quieres dibujar la textura de una **pelota de baloncesto** porosa, ¿qué patrón funciona mejor?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Rayas largas y rectas.
+- B) Puntos (punteado).
+- C) Cuadrícula perfecta.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Para hacer texturas, siempre debes usar reglas para que los patrones salgan matemáticamente perfectos."
+
+- ( ) Verdadero
+- ( ) Falso (A mano alzada se ve más natural y orgánico, especialmente para cosas como pasto o pelo).
+
+## Ejercicio Rápido
+
+En un cuadrito de papel de 3x3 cm, intenta oscurecerlo usando SOLAMENTE puntos. ¡No vale rayar!

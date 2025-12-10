@@ -1,21 +1,13 @@
-# Guión de Audio/Video: Texturas de la naturaleza
+# Guion: Texturas de la naturaleza
 
-## Introducción (30 segundos)
+**(Sonido de bosque: pajaritos cantando y viento en las hojas)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Texturas de la naturaleza**.
+**Profesor**: "Cierren los ojos. Imaginen que tocan el tronco rugoso de un árbol viejo. Ahora imaginen que tocan la superficie lisa de un lago."
 
----
+**Profesor**: "Cada cosa en la naturaleza tiene su propia 'firma'. Y nosotros podemos copiarla con líneas."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Para el pasto, hacemos líneas rápidas hacia arriba: ¡Chas, chas, chas! Para el agua, hacemos líneas onduladas y perezosas: Ssssss..."
 
-[Contenido principal del guión]
+**(Sonido de ondas de agua)**
 
----
-
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "El truco es NO dibujar cada hoja del árbol. ¡Tardaríamos años! Dibujamos el 'patrón' de las hojas, y el cerebro del espectador hace el resto. ¡Vamos a explorar!"

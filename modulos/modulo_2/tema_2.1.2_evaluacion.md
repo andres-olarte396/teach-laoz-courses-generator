@@ -2,30 +2,36 @@
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+Si quieres dibujar una **burbuja de jabón** transparente y ligera, ¿qué tipo de línea es la mejor?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Una línea negra, gruesa y fuerte.
+- B) Una línea suave, delgada y tal vez discontinua.
+- C) Una línea roja.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+¿Qué emoción transmite generalmente una línea **fuerte, oscura y angulosa**?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Calma y sueño.
+- B) Energía, tensión, fuerza o enojo.
+- C) Silencio.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+Para lograr una línea suave con efecto "difuminado", ¿qué puedes hacer además de presionar poco?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Usar el dedo o un difumino para suavizar el trazo.
+- B) Dibujar más rápido.
+- C) Usar un bolígrafo.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Los dibujos de robots y maquinaria se ven mejor con líneas suaves y temblorosas."
+
+- ( ) Verdadero
+- ( ) Falso (Generalmente requieren líneas fuertes y definidas para mostrar la dureza del metal).
+
+## Ejercicio Rápido
+
+Dibuja una pequeña **nube** con línea suave y abajo una **piedra** con línea fuerte. ¡Siente la diferencia en tu mano!

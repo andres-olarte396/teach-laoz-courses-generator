@@ -1,21 +1,20 @@
-# Guión de Audio/Video: Líneas gruesas y delgadas
+# Guion: Líneas gruesas y delgadas
 
-## Introducción (30 segundos)
+**(Sonido de lápiz suave scritch-scritch)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Líneas gruesas y delgadas**.
+**Profesor**: "¿Alguna vez han tratado de susurrar... y luego gritar?"
 
----
+**(Sonido de susurro)** "Hola..."
+**(Sonido fuerte)** "¡HOLA!"
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "En el dibujo, las líneas también tienen voz. Una línea delgadita y suave es como un susurro. Una línea gruesa y oscura es como un grito fuerte."
 
-[Contenido principal del guión]
+**Profesor**: "El secreto es la PRESIÓN. Imaginen que su lápiz es un botón. Si lo aprietan suave, línea fina. Si lo aprietan fuerte, línea gorda."
 
----
+**Profesor**: "¿Para qué sirve? Para la magia de la distancia."
 
-## Cierre (30 segundos)
+**(Sonido de eco)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profesor**: "Las cosas que están lejos se ven borrosas y suaves (línea fina). Las cosas que están cerca se ven claras y fuertes (línea gruesa)."
 
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "¡Vamos a practicar nuestro 'volumen' de dibujo!"

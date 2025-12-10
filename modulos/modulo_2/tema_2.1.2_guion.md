@@ -1,21 +1,19 @@
-# Guión de Audio/Video: Líneas suaves y líneas fuertes
+# Guion: Líneas suaves y líneas fuertes
 
-## Introducción (30 segundos)
+**(Música de balada suave)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Líneas suaves y líneas fuertes**.
+**Profesor**: "Imaginen que están acariciando a un conejito bebé. ¿Cómo mueven su mano? Suave, ¿verdad?"
 
----
+**(Sonido de lápiz muy suave)**
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Así dibujamos las cosas delicadas: nubes, flores, pelo de bebé. Apenas tocamos el papel. Es como un susurro gráfico."
 
-[Contenido principal del guión]
+**(Cambio a música de Rock pesado)**
 
----
+**Profesor**: "Ahora imaginen que son un karateka rompiendo una tabla. ¡KIAI!"
 
-## Cierre (30 segundos)
+**(Sonido de rasguño fuerte)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profesor**: "Así dibujamos las cosas fuertes: rocas, robots, explosiones. El lápiz ataca el papel. Es un grito de energía."
 
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Un buen dibujante no usa siempre la misma fuerza. A veces es un hada madrina (suave) y a veces es un guerrero del espacio (fuerte). ¡Aprendan a cambiar de personaje!"
