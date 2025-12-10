@@ -1,31 +1,37 @@
-# Evaluación: Mi planeta extraño
+# Evaluación: Mi Planeta Extraño
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+¿Cuál es la forma más rápida y efectiva de hacer que un paisaje parezca alienígena?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Dibujar una nave espacial en la esquina.
+- B) Cambiar la paleta de colores (ej: cielo rojo en vez de azul).
+- C) Escribir "Marte" en el título.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+Si un planeta tiene **mucha gravedad** (muy pesada), ¿cómo deberían verse sus plantas y montañas?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Altas, finas y flotantes.
+- B) Bajas, anchas y aplastadas contra el suelo.
+- C) Invisibles.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+¿Qué es la **bioluminiscencia**?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Cuando los seres vivos producen su propia luz (brillan en la oscuridad).
+- B) Un tipo de pintura espacial.
+- C) El nombre de un planeta.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Para inventar plantas alienígenas, podemos inspirarnos en cosas microscópicas como bacterias o cristales y dibujarlas gigantes."
+
+- ( ) Verdadero
+- ( ) Falso (Solo podemos copiar plantas de libros de botánica).
+
+## Ejercicio Rápido
+
+Dibuja un **Árbol Alienígena**. No uses hojas normales. ¿Qué tiene en las ramas? ¿Ojos? ¿Burbujas? ¿Espejos?

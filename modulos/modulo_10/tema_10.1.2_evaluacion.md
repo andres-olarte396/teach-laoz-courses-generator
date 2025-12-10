@@ -1,31 +1,38 @@
-# Evaluación: Híbridos imposibles
+# Evaluación: Híbridos Imposibles
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+¿Cuál es la clave para unir dos partes de animales diferentes y que parezca real?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Dibujar una línea negra gruesa entre ellas.
+- B) Usar cinta adhesiva en el dibujo.
+- C) Hacer una transición suave o irregular (entrelazada) para que no parezca un recorte pegado.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+Si dibujamos un "Tiburonejo" y decidimos que tendrá piel de tiburón, ¿cómo deberíamos dibujar las orejas de conejo?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Peludas y suaves.
+- B) Lisas, grises y quizás con algún corte o textura de piel mojada.
+- C) Transparentes.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+¿Qué criatura mitológica famosa es un híbrido de Caballo y Humano?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) El Minotauro.
+- B) El Centauro.
+- C) La Sirena.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Para crear un híbrido interesante, es mejor elegir dos animales que sean muy parecidos (como un gato y un perro)."
+
+- ( ) Verdadero
+- ( ) Falso (Es mejor elegir animales muy DIFERENTES, como un elefante y una mariposa, para crear contraste).
+
+## Ejercicio Rápido
+
+Escribe la fórmula de tu propio monstruo:
+(Animal 1) ___________ + (Animal 2) ___________ = (Nombre del Monstruo) ___________

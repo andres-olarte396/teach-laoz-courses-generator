@@ -1,21 +1,17 @@
-# Guión de Audio/Video: Mi planeta extraño
+# Guion: Mi Planeta Extraño
 
-## Introducción (30 segundos)
+**(Sonido de nave espacial aterrizando y radar escaneando)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Mi planeta extraño**.
+**Profesor**: "¡Bitácora del Capitán! Hemos aterrizado en el Planeta X. Nada es como en la Tierra."
 
----
+**Profesor**: "¿Ven el cielo? ¡No es azul, es verde limón! Y las plantas no tienen hojas... ¡tienen tentáculos!"
 
-## Desarrollo (2-3 minutos)
+**(Sonido de burbujeo extraño)**
 
-[Contenido principal del guión]
+**Profesor**: "Para dibujar un planeta alienígena, tenemos que romper las reglas. Si dibujamos pasto verde y sol amarillo... bueno, eso es el patio de tu casa, no el espacio exterior."
 
----
+**Profesor**: "Vamos a jugar con la física. Aquí la gravedad es muy débil. ¡Miren! Las piedras flotan en el aire. Y los árboles son altísimos, delgados como espaguetis, tratando de tocar las nubes de gas."
 
-## Cierre (30 segundos)
+**Profesor**: "¿Y si en este planeta nunca sale el Sol? Quizás todo brilla en la oscuridad, como las luciérnagas. ¡Eso se llama bioluminiscencia!"
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Olviden lo que saben de la Tierra. Hoy, lo extraño es lo normal. ¡A explorar!"
