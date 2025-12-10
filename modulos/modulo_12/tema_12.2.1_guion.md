@@ -1,21 +1,15 @@
-# Guión de Audio/Video: Creando mi obra maestra
+# Guion: Firma y montaje
 
-## Introducción (30 segundos)
+**(Sonido de aplausos y gente murmurando en una galería)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Creando mi obra maestra**.
+**Profesor**: "¡Felicidades! Terminaron su obra. ¿Ya está lista? ¡No!"
 
----
+**(Sonido de sello: CLACK!)**
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Le falta lo más importante: Tu nombre. Firmar tu dibujo es decir 'Esto lo hice yo'. Es como poner la bandera en la cima de la montaña."
 
-[Contenido principal del guión]
+**Profesor**: "Pero cuidado. La firma no debe ser gigante. No queremos que la gente diga '¡Qué bonita firma... ah, y hay un dibujo atrás!'. Debe ser pequeña, en la esquinita de abajo."
 
----
+**Profesor**: "Y para que se vea elegante, vamos a ponerle un traje de gala. Se llama 'Montaje'. Peguen su dibujo sobre una cartulina negra un poco más grande. Eso hace que los colores brillen y se vea súper profesional."
 
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "¡Ahora sí! Listo para colgar en la pared."

@@ -1,21 +1,17 @@
-# Guión de Audio/Video: Bocetos y pruebas
+# Guion: Creando la obra maestra
 
-## Introducción (30 segundos)
+**(Música orquestal suave y majestuosa, in crescendo)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Bocetos y pruebas**.
+**Profesor**: "Ha llegado el momento. Tienen el papel, tienen el plan y tienen el talento. Es hora de crear su Obra Maestra."
 
----
+**Profesor**: "Lo primero: ¡Respiren! Esto no es una carrera. Tómense su tiempo."
 
-## Desarrollo (2-3 minutos)
+**(Sonido suave de lápiz)**
 
-[Contenido principal del guión]
+**Profesor**: "Empezamos con el 'Esqueleto'. Dibujen suave, como acariciando el papel. Si marcan muy fuerte, dejarán cicatrices en la hoja que no se pueden borrar."
 
----
+**Profesor**: "Luego viene el 'Bloqueo'. Pongan los colores base. No se preocupen por las sombras todavía. Cubran el blanco."
 
-## Cierre (30 segundos)
+**Profesor**: "Y al final, la magia: Sombras, luces y detalles. Aquí es donde el dibujo cobra vida."
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Si se cansan, paren. Vayan a jugar un rato. El dibujo los esperará. Es mejor descansar que pintar enojado. ¡Disfruten cada trazo!"

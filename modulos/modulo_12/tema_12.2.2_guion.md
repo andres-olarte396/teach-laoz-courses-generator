@@ -1,21 +1,17 @@
-# Guión de Audio/Video: Presentando mi trabajo
+# Guion: La exposición de arte
 
-## Introducción (30 segundos)
+**(Sonido de copas brindando chin-chin y música de piano elegante)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Presentando mi trabajo**.
+**Profesor**: "Damas y caballeros, bienvenidos a la Gran Galería."
 
----
+**Profesor**: "Hoy no estamos aquí para aprender. Estamos aquí para celebrar. Han recorrido un camino largo. Desde los primeros círculos chuecos hasta esta obra maestra que tienen en sus manos."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Exponer da miedo. Es como pararse desnudo frente a la gente. Pero el arte no vive en la oscuridad. El arte necesita ojos que lo miren."
 
-[Contenido principal del guión]
+**Profesor**: "Cuelguen su dibujo con orgullo. Invíten a su familia. Cuéntenles la historia de su dragón o de su paisaje."
 
----
+**Profesor**: "Y recuerden esto siempre: Un artista no es el que vende cuadros caros. Un artista es el que ve el mundo, lo filtra por su corazón y lo devuelve en una hoja de papel. Ustedes YA son artistas."
 
-## Cierre (30 segundos)
+**Profesor**: "¡Felicidades, graduados! Sigan dibujando siempre."
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**(Sonido de aplausos fuertes y ovación)**

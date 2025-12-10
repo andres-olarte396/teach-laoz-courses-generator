@@ -1,21 +1,15 @@
-# Guión de Audio/Video: Eligiendo mi tema favorito
+# Guion: Lluvia de ideas y bocetos
 
-## Introducción (30 segundos)
+**(Sonido de lápiz escribiendo rápido y papel arrugándose)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Eligiendo mi tema favorito**.
+**Profesor**: "¡Alto ahí! ¿Vas a empezar a dibujar en tu cartulina nueva sin un plan?"
 
----
+**Profesor**: "¡Error de novato! Los grandes artistas son como exploradores. No entran a la selva sin un mapa."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "El mapa se llama **Boceto**. Son dibujos feos, rápidos y chiquitos que hacemos en papel sucio. Sirven para cometer errores rápido y gratis."
 
-[Contenido principal del guión]
+**Profesor**: "Prueba esto: Antes de hacer tu obra maestra, dibuja 4 versiones pequeñitas, del tamaño de una estampilla. Prueba poner el sol a la izquierda, luego a la derecha. Prueba dibujar de cerca y de lejos."
 
----
+**Profesor**: "El boceto es tu laboratorio. Si te equivocas aquí, ¡qué bueno! Nadie lo verá. Pero te salvará de arruinar tu dibujo final."
 
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Recuerda: Piensa mucho, dibuja rápido."
