@@ -2,30 +2,36 @@
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+¿Cuál es la "letra secreta" que nos ayuda a dibujar cómo se dividen las ramas de un árbol?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) La letra O.
+- B) La letra Y.
+- C) La letra Z.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+Si quieres dibujar un pino (árbol de Navidad), ¿qué forma geométrica básica usas como guía?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Un círculo.
+- B) Un triángulo.
+- C) Un cuadrado.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+¿Qué error común llamamos "El Brócoli"?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Dibujar el árbol de color morado.
+- B) Dibujar un tronco recto con un círculo verde perfecto encima sin huecos.
+- C) Dibujar el árbol sin raíces.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Las ramas de un árbol suelen crecer hacia abajo buscando la tierra."
+
+- ( ) Verdadero
+- ( ) Falso (Crecen hacia arriba y afuera buscando el sol, excepto casos especiales como el Sauce Llorón)
+
+## Ejercicio Rápido
+
+Dibuja un **Tronco de Palmera**. No olvides su característica textura (anillos) y su forma delgada y flexible.

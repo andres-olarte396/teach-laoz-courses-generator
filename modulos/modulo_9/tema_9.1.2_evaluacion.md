@@ -1,31 +1,37 @@
-# Evaluación: Animales salvajes (león, elefante, jirafa)
+# Evaluación: Animales Salvajes
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+¿Cuál es el "rasgo exagerado" principal que debemos resaltar al dibujar una Jirafa?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Sus orejas pequeñas.
+- B) Su cola corta.
+- C) Su cuello y patas extremadamente largas.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+Al dibujar un Elefante, ¿cómo debemos representar sus patas para que parezcan fuertes y pesadas?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Como palillos delgados.
+- B) Como columnas rectas y del mismo ancho arriba y abajo.
+- C) Con resortes para saltar.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+Si comparamos un León con una mascota doméstica, ¿a cuál se parece más en anatomía básica?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) A un gato musculoso con peluca.
+- B) A un perro salchicha.
+- C) A un hámster gigante.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Para dibujar la textura de la piel del elefante, usamos líneas suaves y esponjosas."
+
+- ( ) Verdadero
+- ( ) Falso (Usamos líneas cruzadas para arrugas y grietas)
+
+## Ejercicio Rápido
+
+Dibuja rápidamente la silueta de un **Elefante** usando solo 3 formas geométricas (Cuerpo, Cabeza, Oreja).

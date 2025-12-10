@@ -1,21 +1,21 @@
-# Guión de Audio/Video: Mascotas (perro, gato, conejo)
+# Guion: Cuatro Patas
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Mascotas (perro, gato, conejo)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz con orejas de perro
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de ladridos y maullidos)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Guau! Digo, ¡Hola!
+Hoy vamos a dibujar a nuestros mejores amigos peludos.
 
----
+**Profe Lápiz**: ¿Sabías que los perros y gatos son casi iguales a nosotros por dentro?
+Tienen costillas, columna y cráneo.
+La diferencia es que ellos caminan en cuatro patas y de puntitas (como bailarinas de ballet).
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Para dibujar un perro, piensa en CAJAS fuertes. ¡Son tanques peludos!
+Para dibujar un gato, piensa en LÍQUIDO. Son suaves y se derriten.
+
+**Profe Lápiz**: No intentes dibujar cada pelo. Dibuja primero los círculos de su cuerpo.
+Cabeza, pecho, pompis. ¡Conéctalos y tendrás un animal!

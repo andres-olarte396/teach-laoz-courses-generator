@@ -1,37 +1,37 @@
-# Ejercicios: Mascotas (perro, gato, conejo)
+# Ejercicios: Granja de Papel
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Esqueleto Animal
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Entender la estructura básica (Cabeza, Pecho, Cadera).
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja 3 círculos en línea horizontal (como un gusano separado).
+   - Círculo 1: Cabeza.
+   - Círculo 2: Pecho (Grande).
+   - Círculo 3: Caderas.
+2. Conéctalos con una línea curva (Columna vertebral).
+3. Dibuja palitos quebrados para las patas (¡recuerda las rodillas!).
+4. ¿Ves? Ya parece un perro flaco.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: Gato vs. Perro
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Diferenciar formas.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. **Perro**: Dibuja formas CUADRADAS y fuertes. Pecho ancho, hocico cuadrado, patas gruesas.
+2. **Gato**: Dibuja formas REDONDAS y fluidas. Cabeza redonda, cuerpo largo como salchicha, patas finas.
+3. Ponles orejas:
+   - Perro: Orejas caídas 🐶.
+   - Gato: Orejas picudas 🐱.
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tu perro se ve fuerte y tu gato se ve elegante.
+- [ ] Las patas tienen articulaciones (no son palos rectos).
+- [ ] La cola sale de la columna (no de la pierna).
