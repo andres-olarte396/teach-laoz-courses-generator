@@ -1,31 +1,31 @@
-# Evaluación: Arriba, abajo, centro
+# Evaluación: Uso del Espacio
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Análisis de Composición
 
 ---
 
-## Pregunta 2
+## 1. El Síndrome de la Hormiga
 
-**Tipo**: Práctica
+Mira tu dibujo anterior. Si pones tu mano abierta sobre el dibujo...
+a) ¿Tapas todo el dibujo con una sola mano? (¡Síndrome de Hormiga detectado!).
+b) ¿Sobran partes del dibujo fuera de tu mano? (¡Bien hecho!).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Bordes Valientes
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+¿Cuántos bordes del papel "toca" o "corta" tu dibujo?
+
+- ( ) 0 (Flotando en el centro).
+- ( ) 1-2 (Mejor).
+- ( ) 3-4 (¡Excelente uso del espacio!).
+
+## 3. Pregunta de Lógica
+
+Si quiero que un monstruo parezca GIGANTE, ¿qué es mejor?
+a) Dibujarlo entero y pequeñito en el centro para que se vea todo.
+b) Dibujar solo su ojo y sus dientes gigantes llenando toda la hoja.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+3: b

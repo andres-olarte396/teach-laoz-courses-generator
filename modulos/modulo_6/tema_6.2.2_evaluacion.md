@@ -1,31 +1,34 @@
-# Evaluación: El punto focal (¿dónde miran primero?)
+# Evaluación: Punto Focal
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Análisis de Atención
 
 ---
 
-## Pregunta 2
+## 1. ¿Dónde miras primero?
 
-**Tipo**: Práctica
+Imagina un dibujo con 50 ovejas blancas.
+Y en medio hay un lobo negro con ojos rojos.
+¿Cuál es el Punto Focal?
+a) Las ovejas (porque son muchas).
+b) El lobo (porque es diferente).
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. La Regla de los Tercios
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+¿Dónde es mejor poner al personaje principal para que se vea interesante?
+a) Justo en el centro matemático, aburrido.
+b) Un poco hacia un lado (en los puntos de cruce del Gato #).
+
+## 3. Líneas Guía
+
+Si dibujas a un hombre señalando con el dedo hacia un árbol...
+¿A dónde va a mirar la gente?
+a) Al dedo del hombre.
+b) Al árbol (porque el dedo apunta allá).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2: b
+3: b

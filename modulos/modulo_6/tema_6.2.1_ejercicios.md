@@ -1,37 +1,34 @@
-# Ejercicios: Simetría y asimetría
+# Ejercicios: La Balanza del Arte
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Espejo Mágico (Simetría)
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Crear estabilidad perfecta.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dobla tu hoja por la mitad verticalmente.
+2. Dibuja la mitad de una mariposa (o un robot, o una máscara) en el lado izquierdo.
+3. Intenta copiarla EXACTAMENTE igual en el lado derecho.
+4. Si te cuesta, puedes usar una ventana para calcar la otra mitad.
+5. Píntalo con los mismos colores en ambos lados.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: El Balancín (Asimetría)
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Equilibrar pesos diferentes.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Dibuja una línea de suelo.
+2. Dibuja una **Roca Gigante Negra** en el lado izquierdo (Pesa mucho).
+3. Ahora tienes que equilibrar el lado derecho para que la hoja no se "caiga".
+4. Dibuja un grupo de **Globos de Colores** o **Pájaros** en el lado derecho.
+5. Necesitas muchos objetos ligeros para igualar a uno pesado.
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tu dibujo simétrico parece un espejo.
+- [ ] Tu dibujo asimétrico se siente equilibrado (no vacío de un lado).

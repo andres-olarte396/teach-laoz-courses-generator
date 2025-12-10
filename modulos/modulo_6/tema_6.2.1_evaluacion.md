@@ -1,31 +1,35 @@
-# Evaluación: Simetría y asimetría
+# Evaluación: Equilibrio Visual
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Clasificación
 
 ---
 
-## Pregunta 2
+## 1. ¿Espejo o Balanza?
 
-**Tipo**: Práctica
+Escribe "Simétrico" o "Asimétrico" al lado de cada cosa:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- Una cara humana ................... ( )
+- Un árbol torcido .................. ( )
+- Una mariposa ...................... ( )
+- Un paisaje con montaña y sol ...... ( )
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## 2. El Peso Visual
+
+¿Cuál de estas cosas "pesa" más en un dibujo (llama más la atención)?
+a) Un círculo pequeño amarillo pálido.
+b) Un cuadrado grande negro.
+
+## 3. Arregla el Dibujo
+
+Tienes un dibujo con un edificio gigante a la derecha y NADA a la izquierda. Se ve "cojo".
+¿Qué le dibujas a la izquierda para arreglarlo?
+a) Nada, el espacio vacío es bonito.
+b) Unas nubes o un avión para hacer contrapeso.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: Simétrico, Asimétrico, Simétrico, Asimétrico
+2: b
+3: b
