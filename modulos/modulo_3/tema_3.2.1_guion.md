@@ -1,21 +1,15 @@
-# Guión de Audio/Video: Grande, mediano y pequeño
+# Guion: Grande, Mediano y Pequeño
 
-## Introducción (30 segundos)
+**(Sonido de pasos pesados de gigante... y luego pasos rápidos de ratoncito)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Grande, mediano y pequeño**.
+**Profesor**: "¿Escuchaste eso? ¡Un gigante y un ratoncito! Hoy vamos a hablar de TAMAÑOS."
 
----
+**Profesor**: "Imagina que dibujas un gato y un edificio. Si los dibujas del mismo tamaño... ¡tendrías un gato monstruoso tipo Godzilla!"
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Para que tus dibujos se entiendan, tienes que jugar al juego de '¿Quién gana?'"
 
-[Contenido principal del guión]
+**Profesor**: "Mira tu mesa. ¿Quién gana en tamaño? ¿El lápiz o el cuaderno? El cuaderno gana. Entonces en tu papel, el cuaderno TIENE que ser más grande."
 
----
+**Profesor**: "También usamos el tamaño para un truco de magia: la DISTANCIA. Las cosas que están cerca se ven GRANDES. Las cosas que están lejos se ven PEQUEÑITAS."
 
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Así que si quieres dibujar un pájaro volando muy lejos... ¡no le dibujes las plumas! Solo dibuja una 'V' chiquitita. Tu cerebro entenderá que está lejos."

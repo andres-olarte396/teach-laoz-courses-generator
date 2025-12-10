@@ -1,31 +1,37 @@
-# Evaluación: Grande, mediano y pequeño
+# Evaluación: Grande, Mediano y Pequeño
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+Si quieres dibujar un objeto que está **muy lejos** en el fondo de tu paisaje, ¿de qué tamaño debes dibujarlo?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Gigante, para que se vea bien.
+- B) Del mismo tamaño que los objetos cercanos.
+- C) Pequeño.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+¿Qué pasa si dibujas todos los objetos de tu hoja exactamente del mismo tamaño?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) El dibujo se ve plano y es difícil saber qué es importante o qué está lejos.
+- B) El dibujo se ve muy ordenado y perfecto.
+- C) Ganas un premio.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+En el ejercicio del "Mundo al Revés", ¿qué aprendimos?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Que los animales siempre deben tener su tamaño real.
+- B) Que podemos cambiar los tamaños (escalas) para crear historias de fantasía divertidas o sorpresivas.
+- C) Que los ratones comen queso.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Antes de dibujar los detalles, es buena idea dibujar 'cajas fantasma' suaves para planear el tamaño y posición de cada objeto en la hoja."
+
+- ( ) Verdadero
+- ( ) Falso (Hay que empezar por los ojos siempre).
+
+## Ejercicio Rápido
+
+Dibuja rápidamente tres círculos en fila: Uno grande, uno mediano y uno pequeño. ¡Conviértelos en muñecos de nieve de diferentes tamaños!

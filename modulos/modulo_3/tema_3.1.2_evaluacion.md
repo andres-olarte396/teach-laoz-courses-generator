@@ -2,30 +2,36 @@
 
 ## Pregunta 1
 
-**Tipo**: Opción múltiple
+Al empezar a dibujar un objeto complejo (como un peluche), ¿qué debemos dibujar PRIMERO?
 
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
-
----
+- A) Los ojos y las pestañas, porque es lo más bonito.
+- B) Las formas geométricas grandes (círculos, óvalos) que forman su estructura general.
+- C) La firma.
 
 ## Pregunta 2
 
-**Tipo**: Práctica
+¿Por qué es útil **entrecerrar los ojos** cuando empezamos a observar nuestro modelo?
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- A) Porque se ve borroso y así eliminamos los detalles distractores, viendo solo las formas grandes y las sombras.
+- B) Para dormirnos.
+- C) Para ver mejor los colores.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## Pregunta 3
 
----
+Si estás dibujando tu juguete de perfil (de lado), pero sabes que tiene dos ojos... ¿cuántos ojos debes dibujar?
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+- A) Dos, porque yo sé que tiene dos.
+- B) Uno (y quizás una pestañita del otro), porque eso es lo que VEO desde este ángulo.
+- C) Ninguno.
+
+## Pregunta 4
+
+Verdadero o Falso:
+"Es mejor dibujar muy suave al principio (boceto) para poder corregir las formas antes de agregar los detalles finales."
+
+- ( ) Verdadero
+- ( ) Falso (Hay que dibujar fuerte desde el principio para demostrar seguridad).
+
+## Ejercicio Rápido
+
+Toma tu juguete. Ponlo de cabeza (patas arriba). Obsérvalo. ¿Verdad que las formas se ven raras? ¡Intenta dibujar ese "monstruo invertido" rápidamente!

@@ -1,21 +1,15 @@
-# Guión de Audio/Video: Frutas y verduras
+# Guion: Frutas y verduras
 
-## Introducción (30 segundos)
+**(Sonido de mordisco crujiente)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Frutas y verduras**.
+**Profesor**: "¡Mmm! Delicioso. Hoy vamos a dibujar... ¡nuestra merienda! Frutas y verduras."
 
----
+**Profesor**: "¿Sabías que en la naturaleza no existen las líneas rectas perfectas? Mira esta manzana. No es una bola de billar. Tiene bultitos, un lado más plano, manchitas."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Eso se llama 'forma orgánica'. Y es lo que hace que un dibujo se vea vivo."
 
-[Contenido principal del guión]
+**Profesor**: "Vamos a empezar. Dibuja un círculo suave. No aprietes el lápiz. Ahora, mira tu manzana. ¿Ves ese huequito arriba donde sale el tallo? Vamos a dibujarlo haciendo una pequeña curva, como una sonrisa triste."
 
----
+**Profesor**: "El tallo sale DE DENTRO de esa sonrisa. No lo pegues encima como una vela en un pastel."
 
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Y por último, el secreto para que no parezca que flota en el espacio... ¡Sombra! Dibuja una manchita oscura debajo, justo donde toca la mesa. ¡Listo! Se ve tan real que quiero morderla."

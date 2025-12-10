@@ -1,21 +1,13 @@
-# Guión de Audio/Video: El juego de las diferencias
+# Guion: El juego de las diferencias
 
-## Introducción (30 segundos)
+**(Sonido de lupa deslizándose shhhh)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **El juego de las diferencias**.
+**Profesor**: "¿Saben cuál es el superpoder secreto de los artistas? No es la mano mágica. Es el OJO MÁGICO."
 
----
+**Profesor**: "La mayoría de la gente 'mira', pero los dibujantes 'observan'. Mirar es rápido: 'Ah, es una manzana roja'."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Observar es lento: 'Es una manzana roja, pero tiene puntitos amarillos, una mancha café aquí y el tallo está chueco hacia la izquierda'."
 
-[Contenido principal del guión]
+**Profesor**: "Tu cerebro es flojo. Quiere dibujar símbolos fáciles. Si ves un ojo, tu cerebro dice: 'Dibuja un óvalo con un punto'. ¡Pero el ojo real no es así! Tienen que pelear contra su cerebro y dibujar solo lo que ven sus ojos."
 
----
-
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Hoy vamos a jugar a ser detectives visuales."

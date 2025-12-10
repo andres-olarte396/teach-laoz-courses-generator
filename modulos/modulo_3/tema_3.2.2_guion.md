@@ -1,21 +1,15 @@
-# Guión de Audio/Video: La regla del pulgar (medición visual)
+# Guion: La regla del pulgar
 
-## Introducción (30 segundos)
+**(Sonido de música de misión imposible o espías)**
 
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **La regla del pulgar (medición visual)**.
+**Profesor**: "Para la misión de hoy, necesitas activar tu visión láser. ¿Has visto a los pintores cerrar un ojo y levantar el lápiz? No están saludando a nadie. Están... ¡MIDIENDO!"
 
----
+**Profesor**: "Tu lápiz es una regla mágica. Pero tiene reglas estrictas."
 
-## Desarrollo (2-3 minutos)
+**Profesor**: "Regla número 1: Brazo de robot. Tienes que estirar el brazo COMPLETAMENTE. Si doblas el codo, la medida cambia y fallas la misión."
 
-[Contenido principal del guión]
+**Profesor**: "Regla número 2: Cierra un ojo. Siempre el mismo. ¡Prueba ahora! Mira esa puerta. Pon la punta del lápiz en un lado de la puerta y tu dedo pulgar en el otro."
 
----
+**Profesor**: "¡Congela el dedo! Ahora gira el lápiz. ¿Cuántas veces cabe ese ancho en la altura de la puerta? ¿Dos veces? ¿Tres?"
 
-## Cierre (30 segundos)
-
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
-
----
-
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profesor**: "Si en la vida real cabe dos veces... ¡en tu dibujo tiene que caber dos veces también! Así es como los artistas hacen que las cosas se vean perfectas sin usar una regla de verdad."
