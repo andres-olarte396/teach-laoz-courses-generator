@@ -1,31 +1,35 @@
-# Evaluación: Mi primera casa
+# Evaluación: Mi Primera Casa
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Lista de Cotejo Visual
 
 ---
 
-## Pregunta 2
+## Revisa tu dibujo
 
-**Tipo**: Práctica
+Mira la casa que dibujaste en el Ejercicio 1 y marca lo que lograste:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+1. **Estructura**
+   - [ ] Tiene paredes (Cuadrado/Rectángulo).
+   - [ ] Tiene techo (Triángulo).
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+2. **Detalles**
+   - [ ] La puerta toca la línea del suelo.
+   - [ ] Las ventanas están derechas.
+   - [ ] El techo es más ancho que la casa (para que no entre el agua).
+
+3. **Creatividad**
+   - [ ] Le agregaste algo extra (chimenea, sol, camino, árbol).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Pregunta rápida
+
+Si quisieras dibujar un edificio de apartamentos...
+a) Dibujarías un cuadrado pequeño con 1 ventana.
+b) Dibujarías un rectángulo alto con muchas ventanas.
+
+---
+
+## Respuestas
+
+(Pregunta rápida): b

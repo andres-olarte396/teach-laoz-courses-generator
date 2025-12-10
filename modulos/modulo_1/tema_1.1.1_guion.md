@@ -1,21 +1,22 @@
-# Guión de Audio/Video: Círculos perfectos (o casi)
+# Guion: El Secreto del Círculo
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Círculos perfectos (o casi)**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de rebote boing-boing)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¿Sabes cuál es la forma más famosa del universo? ¡El Círculo! El Sol es un círculo, la Luna es un círculo, y tus ojos... ¡también son círculos!
 
----
+**Profe Lápiz**: Pero dibujar un círculo perfecto es difícil, ¿verdad? A veces nos quedan como papas o como huevos aplastados.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Te voy a contar un secreto de artista profesional. ¿Listo?
+
+**(Susurro)**
+
+**Profe Lápiz**: *El secreto no está en la muñeca... está en el hombro.*
+
+**Profe Lápiz**: Si tratas de dibujar un círculo grande moviendo solo la mano, te saldrá chueco. Pero si mueves todo el brazo, como si estuvieras limpiando una ventana... ¡Magia! El círculo sale redondo y bonito.
+
+**Profe Lápiz**: Inténtalo. Imagina que eres un robot y tu brazo es una brújula. ¡A girar!

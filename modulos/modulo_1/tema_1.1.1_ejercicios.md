@@ -1,37 +1,48 @@
-# Ejercicios: Círculos perfectos (o casi)
+# Ejercicios: Círculos
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Calentamiento Olímpico
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Soltar el brazo (Modo Hombro).
+**Tiempo**: 5 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Levanta tu lápiz. No toques el papel.
+2. Dibuja círculos gigantes en el aire con todo tu brazo.
+3. Haz 10 hacia la derecha.
+4. Haz 10 hacia la izquierda.
+5. Ahora, baja el brazo y dibuja esos círculos grandes en el papel.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: Las Uvas
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
+**Objetivo**: Control de tamaño y agrupación.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
+
+1. Dibuja un círculo pequeño (una uva).
+2. Dibuja otro círculo pegado al primero.
+3. Sigue agregando círculos hasta formar un racimo de uvas triangular.
+4. Intenta que todos los círculos sean del mismo tamaño.
+5. Píntalas de morado o verde.
 
 ---
 
-## Ejercicio 3: Proyecto Creativo
+## Ejercicio 3: Planetas y Lunas
 
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Diferentes tamaños.
+**Tiempo**: 10 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Dibuja un círculo GIGANTE en el centro (Júpiter).
+2. Dibuja 3 círculos medianos alrededor (Planetas rocosos).
+3. Dibuja muchos círculos diminutos (Lunas y asteroides).
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tu círculo gigante se ve redondo, no cuadrado.
+- [ ] Tus uvas están pegadas, no flotando separadas.
+- [ ] Usaste el movimiento de hombro para los grandes.

@@ -1,31 +1,38 @@
-# Evaluación: Triángulos de todos los tipos
+# Evaluación: Triángulos
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Selección Múltiple
 
 ---
 
-## Pregunta 2
+## 1. Identifica el Triángulo
 
-**Tipo**: Práctica
+¿Cuál de estos objetos tiene forma triangular?
+a) Una pelota de playa.
+b) Una rebanada de pizza.
+c) Una puerta.
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+## 2. Tipos de Triángulos
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+- Si tiene los 3 lados iguales, se llama:
+  a) Equilátero
+  b) Chueco
+
+- Si tiene uno de sus lados "cuadrado" (90 grados), se llama:
+  a) Triángulo Rectángulo
+  b) Triángulo Círculo
+
+## 3. Reto Creativo
+
+Dibuja un **HELADO** usando:
+
+- Un triángulo invertido (el cono).
+- Un círculo (la bola de nieve).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: b
+2a: a
+2b: a
+3: (Revisión visual)

@@ -1,31 +1,31 @@
-# Evaluación: Círculos perfectos (o casi)
+# Evaluación: Círculos
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Lista de Cotejo
 
 ---
 
-## Pregunta 2
+## Revisión de tus Círculos
 
-**Tipo**: Práctica
+Mira tus dibujos del ejercicio "Planetas" y responde:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+1. **¿El círculo gigante se cierra bien?**
+   - [ ] Sí (Las puntas se tocan).
+   - [ ] No (Parece una 'C' abierta o una espiral).
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+2. **¿Cómo se ven los bordes?**
+   - [ ] Suaves y continuos.
+   - [ ] Peludos (muchas rayitas cortas). *Consejo: ¡Trata de hacer una sola línea continua!*
+
+3. **¿Qué usaste para dibujar el grande?**
+   - [ ] Solo los dedos.
+   - [ ] Todo el brazo (Hombro).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Reto Visual
+
+Busca en tu cuarto 3 cosas que sean círculos. Dibújalas aquí abajo:
+
+1. ______________
+2. ______________
+3. ______________

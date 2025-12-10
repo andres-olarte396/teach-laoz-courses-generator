@@ -1,31 +1,33 @@
-# Evaluación: Cuadrados y rectángulos
+# Evaluación: Cuadrados y Rectángulos
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Identificación y Práctica
 
 ---
 
-## Pregunta 2
+## 1. ¿Cuál es cuál?
 
-**Tipo**: Práctica
+Dibuja una línea conectando la palabra con la forma correcta (imaginaria):
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+- **Cuadrado** ........ ( ) Tiene 4 lados IGUALES.
+- **Rectángulo** ...... ( ) Tiene 2 lados largos y 2 cortos.
+- **Círculo** ........... ( ) No tiene esquinas.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+## 2. Reto de Dibujo
+
+En el espacio de abajo, dibuja:
+
+1. Un cuadrado muy pequeño.
+2. Un rectángulo muy largo (como una serpiente).
+3. Un cuadrado dentro de otro cuadrado.
+
+## 3. Pregunta de Reflexión
+
+¿Qué es más difícil de dibujar para ti?
+a) La curva del Círculo.
+b) La esquina del Cuadrado.
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Respuestas
+
+1: (Definiciones claras)

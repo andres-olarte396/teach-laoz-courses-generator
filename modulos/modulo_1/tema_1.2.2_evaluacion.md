@@ -1,31 +1,33 @@
-# Evaluación: Robots geométricos
+# Evaluación: Mi Robot
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Encuesta de Diseño
 
 ---
 
-## Pregunta 2
+## Análisis de tu Creación
 
-**Tipo**: Práctica
+Mira tu "Robot de Cocina" y responde:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+1. **Funcionalidad**
+   - [ ] Tiene herramientas en lugar de manos.
+   - [ ] Tiene botones o pantallas para controlarlo.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+2. **Formas Usadas**
+   - Marca las formas que usaste:
+     ( ) Cuadrado
+     ( ) Círculo
+     ( ) Triángulo
+     ( ) Rectángulo
+
+3. **Estabilidad**
+   - Si tu robot existiera en la vida real...
+     a) Se caería (pies muy pequeños).
+     b) Se mantendría de pie (pies grandes y planos).
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Reto Flash
+
+Dibuja en 30 segundos:
+**Un robot que solo sirve para dar abrazos.**
+(Pista: Brazos muuuuy largos).

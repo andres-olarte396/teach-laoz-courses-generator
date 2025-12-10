@@ -1,21 +1,20 @@
-# Guión de Audio/Video: Triángulos de todos los tipos
+# Guion: La Forma Más Fuerte
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Triángulos de todos los tipos**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de viento fuerte - Fiuuuu)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Sostente fuerte! Viene un huracán.
+Si fueras una casa cuadrada... ¡Paf! Te caerías.
+Pero si eres una Pirámide o una Montaña... el viento resbala por tus lados inclinados.
 
----
+**Profe Lápiz**: Hoy conocemos al **Triángulo**. Es el fortachón del grupo. Tiene 3 lados y 3 puntas.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Los puentes, las torres de luz y las bicicletas usan triángulos porque no se rompen.
+
+**Profe Lápiz**: Pero cuidado, ¡pican! La punta del triángulo es como una flecha. Si la pones hacia arriba, apunta al cielo. Si la pones hacia la derecha, dice "¡Ve para allá!".
+
+**Profe Lápiz**: Vamos a llenar nuestra hoja de estas formas picudas y fuertes. ¡Afilemos los lápices!

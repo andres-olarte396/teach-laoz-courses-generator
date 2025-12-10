@@ -1,37 +1,34 @@
-# Ejercicios: Triángulos de todos los tipos
+# Ejercicios: Triángulos
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: La Cordillera
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Dibujar triángulos irregulares y superpuestos.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja una línea de suelo.
+2. Dibuja 3 triángulos GRANDES (Montañas principales).
+3. Dibuja triángulos pequeños entre ellos (Colinas).
+4. Ponles "nieve" en la punta con un triángulo pequeño blanco.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: El Bosque de Pinos
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Apilar triángulos.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Dibuja un triángulo pequeño en la parte de arriba.
+2. Debajo, dibuja un triángulo un poco más grande (la punta escondida detrás del primero).
+3. Dibuja un tercer triángulo más grande abajo.
+4. Ponle un palito (rectángulo) de tronco.
+5. ¡Tienes un pino! Haz 5 pinos de diferentes alturas.
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tus montañas se sienten conectadas.
+- [ ] Tus pinos parecen árboles y no flechas.
+- [ ] Usaste el método de "tres puntos" si te costó trabajo.

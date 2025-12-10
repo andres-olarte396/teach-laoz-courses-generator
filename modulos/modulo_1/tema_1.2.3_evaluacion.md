@@ -1,31 +1,32 @@
-# Evaluación: Animales con formas simples
+# Evaluación: Animales
 
-## Pregunta 1
-
-**Tipo**: Opción múltiple
-
-**Pregunta**: [Pregunta sobre el concepto]
-
-a) Opción A  
-b) Opción B  
-c) Opción C  
-d) Opción D
-
-**Respuesta correcta**: [Letra]  
-**Explicación**: [Por qué es correcta]
+**Tipo**: Adivinanza Visual
 
 ---
 
-## Pregunta 2
+## Adivina el Animal
 
-**Tipo**: Práctica
+Si dibujo:
 
-**Instrucción**: [Tarea práctica para demostrar comprensión]
+1. Un óvalo grande acostado.
+2. Un círculo más pequeño arriba a la izquierda.
+3. Un triángulo pequeño en ese círculo.
+4. Dos triángulos grandes a los lados del óvalo.
 
-**Criterios de evaluación**:
-- [ ] Criterio 1
-- [ ] Criterio 2
+**¿Qué animal es?**
+a) Un elefante
+b) Un pájaro con las alas abiertas
+c) Una tortuga
 
 ---
 
-*Nota: La evaluación será expandida con más preguntas y rúbricas detalladas.*
+## Tu Turno
+
+Dibuja ese animal aquí abajo siguiendo las pistas:
+[Espacio para dibujar]
+
+---
+
+## Respuestas
+
+Adivinanza: b) Un pájaro con las alas abiertas

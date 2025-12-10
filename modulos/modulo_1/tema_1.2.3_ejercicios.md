@@ -1,37 +1,32 @@
-# Ejercicios: Animales con formas simples
+# Ejercicios: Animales con Formas Simples
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Zoológico Geométrico
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Identificar formas en animales reales.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja un **Gato** usando 2 círculos (cabeza y trasero) y conectándolos.
+2. Dibuja un **Pez** usando un óvalo y triángulos.
+3. Dibuja un **Pájaro** usando un círculo (cabeza), óvalo (cuerpo) y triángulo (pico).
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: Animales Híbridos (Creatividad)
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Mezclar características.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Toma la cabeza de un gato (Círculo + Triángulos).
+2. Ponla en el cuerpo de un pez (Óvalo + Aletas).
+3. ¡Tienes un "Gato-Pez"! (O "Catfish" literal).
+4. Crea tu propio animal mezclado.
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tu animal tiene ojos, nariz/pico y cuerpo.
+- [ ] Las formas están bien conectadas (no hay cabezas flotando).
+- [ ] Usaste formas simples para construirlo.

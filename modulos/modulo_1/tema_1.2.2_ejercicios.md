@@ -1,37 +1,33 @@
-# Ejercicios: Robots geométricos
+# Ejercicios: Robots Geométricos
 
-## Ejercicio 1: Práctica Básica
+## Ejercicio 1: El Robot de Cocina
 
-**Nivel**: Principiante  
-**Tiempo**: 10 minutos
+**Objetivo**: Usar formas para representar funciones.
+**Tiempo**: 15 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
-### Criterios de éxito
-- [ ] Criterio 1
-- [ ] Criterio 2
+1. Dibuja un robot diseñado para cocinar.
+2. ¿Qué forma tiene su cuerpo? (¿Un horno cuadrado? ¿Una licuadora cilíndrica?).
+3. Dale brazos especiales (Batidor, Cuchara).
+4. Ponle botones de temperatura.
 
 ---
 
-## Ejercicio 2: Desafío Intermedio
+## Ejercicio 2: El Robot Mascota
 
-**Nivel**: Intermedio  
-**Tiempo**: 15 minutos
-
-### Instrucciones
-[Instrucciones detalladas]
-
----
-
-## Ejercicio 3: Proyecto Creativo
-
-**Nivel**: Avanzado  
-**Tiempo**: 20 minutos
+**Objetivo**: Combinar formas para crear seres cuasi-vivos.
+**Tiempo**: 20 minutos.
 
 ### Instrucciones
-[Instrucciones detalladas]
 
----
+1. Diseña un perro-robot o gato-robot.
+2. Usa rectángulos para el cuerpo y las patas.
+3. Usa triángulos para las orejas.
+4. Usa una línea espiral para la cola (antena).
 
-*Nota: Los ejercicios serán expandidos con rúbricas detalladas y ejemplos visuales.*
+### Criterios de Éxito
+
+- [ ] Tu robot tiene cabeza, cuerpo y extremidades.
+- [ ] Se nota qué "animal" es.
+- [ ] Usaste al menos 3 formas geométricas diferentes.

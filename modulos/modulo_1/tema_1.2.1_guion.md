@@ -1,21 +1,20 @@
-# Guión de Audio/Video: Mi primera casa
+# Guion: Arquitecto por un Día
 
-## Introducción (30 segundos)
-
-¡Hola, pequeño artista! Hoy vamos a aprender sobre **Mi primera casa**.
-
----
-
-## Desarrollo (2-3 minutos)
-
-[Contenido principal del guión]
+**Personaje**: El Profe Lápiz
+**Duración**: 2 minutos
 
 ---
 
-## Cierre (30 segundos)
+**(Sonido de planos desenrollándose - Ffrrrrr)**
 
-¡Excelente trabajo! Ahora sabes cómo [resumen del aprendizaje].
+**Profe Lápiz**: ¡Buenos días, arquitecto! Hoy tienes un trabajo muy importante. Necesitamos construir una casa para... ¡un gigante!
 
----
+**Profe Lápiz**: ¿Qué necesitamos primero? ¿Un círculo? ¡No! La casa rodaría colina abajo. Necesitamos un **Cuadrado** fuerte y grande para las paredes.
 
-*Nota: Este guión será expandido con timing detallado y notas de producción.*
+**Profe Lápiz**: Ahora, ¿qué pasa si llueve? El gigante se mojará. Pongámosle un sombrero... digo, un **Techo**. ¿Qué forma es mejor para que el agua resbale? ¡Exacto! Un **Triángulo**.
+
+**(Sonido de lluvia suave)**
+
+**Profe Lápiz**: Perfecto. Ahora, ¿cómo entra el gigante? Necesita una puerta. Un **Rectángulo** alto y flaco. Y ventanas para ver el sol.
+
+**Profe Lápiz**: ¡Mira eso! Acabas de usar geometría para construir un hogar. Eres un constructor experto.
